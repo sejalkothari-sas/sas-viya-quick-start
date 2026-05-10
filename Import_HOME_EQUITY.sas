@@ -42,7 +42,7 @@ data work.home_equity;
           REGION="Region"
           STATE="State"
           VALUE="Value of Current Property"
-          YOJ="Years at Present Job";
+          YOJ="Years Present Job";
     format APPDATE date9.
            CLAGE comma8.1
            LOAN MORTDUE VALUE dollar12.
