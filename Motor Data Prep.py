@@ -21,7 +21,7 @@ print(df.head())
 # 2. DATA QUALITY CHECK
 # ============================================================
 
-print("\n========== DATA QUALITY CHECK ==========")
+print("\n========== DATA QUALITY CHECKERS ==========")
 
 print("Duplicate Policy IDs:",
       df["Policy_ID"].duplicated().sum())
