@@ -1,0 +1,1501 @@
+Policy_ID,Policy_Start_Date,Customer_Age,Vehicle_Type,Vehicle_Age_Years,Region,Annual_Mileage_KM,No_Claim_Years,Previous_Claims_3Y,Annual_Premium_AUD,Coverage_Type,Payment_Method,Claim_Within_12M,Claim_Amount_AUD,Risk_Band,Mileage_Band,Customer_Age_Band,Has_Previous_Claim
+MI-00001,2024-04-05,61,Sedan,8,NSW,17933,7,0,1206.58,Comprehensive,Annual,0,0.0,Low,Medium,Mature,0
+MI-00002,2024-06-12,53,Hatchback,6,QLD,13958,5,0,740.79,Third Party,Monthly,0,0.0,Low,Medium,Mature,0
+MI-00003,2025-04-15,42,Sedan,6,SA,14515,1,1,1562.71,Comprehensive,Monthly,0,0.0,Medium,Medium,Middle,1
+MI-00004,2024-10-23,45,Sedan,9,WA,6492,6,0,951.72,Comprehensive,Annual,0,0.0,Low,Low,Middle,0
+MI-00005,2025-11-30,75,Sedan,3,VIC,4203,1,0,784.52,Third Party,Monthly,0,0.0,Low,Low,Mature,0
+MI-00006,2024-02-27,59,Hatchback,7,NSW,3000,6,0,796.1,Third Party,Monthly,0,0.0,Low,Low,Mature,0
+MI-00007,2025-10-20,23,Utility,12,NSW,19775,9,0,1519.3,Third Party,Annual,0,0.0,Low,Medium,Young,0
+MI-00008,2024-02-18,37,Sedan,8,QLD,8251,4,4,2195.71,Comprehensive,Monthly,0,0.0,High,Low,Middle,1
+MI-00009,2025-11-27,30,Hatchback,13,QLD,9444,5,0,1219.94,Comprehensive,Quarterly,0,0.0,Low,Low,Middle,0
+MI-00010,2025-05-27,64,Van,8,QLD,13091,1,0,1129.77,Third Party,Monthly,0,0.0,Low,Medium,Mature,0
+MI-00011,2024-01-01,53,Van,9,WA,11675,4,0,1037.31,Fire and Theft,Quarterly,0,0.0,Low,Medium,Mature,0
+MI-00012,2025-05-12,52,Sedan,11,WA,18735,0,1,1414.57,Fire and Theft,Annual,0,0.0,Medium,Medium,Mature,1
+MI-00013,2025-07-06,69,Hatchback,4,NSW,7886,3,1,1221.2,Comprehensive,Annual,0,0.0,Low,Low,Mature,1
+MI-00014,2024-01-22,65,Sedan,9,VIC,13030,9,0,1084.91,Comprehensive,Annual,0,0.0,Low,Medium,Mature,0
+MI-00015,2025-11-16,35,Hatchback,0,NSW,12815,9,1,1164.0,Comprehensive,Annual,0,0.0,Low,Medium,Middle,1
+MI-00016,2024-02-25,55,Sedan,15,NSW,9449,0,0,1492.33,Comprehensive,Annual,0,0.0,Low,Low,Mature,0
+MI-00017,2025-04-18,62,Sedan,12,QLD,16977,2,0,1331.24,Comprehensive,Annual,0,0.0,Low,Medium,Mature,0
+MI-00018,2025-05-12,25,SUV,3,NSW,28360,10,2,1473.85,Third Party,Annual,0,0.0,Low,High,Young,1
+MI-00019,2025-07-23,46,Van,5,VIC,21081,8,0,1350.03,Comprehensive,Quarterly,0,0.0,Low,High,Middle,0
+MI-00020,2025-06-27,52,Sedan,9,NSW,25896,0,0,1635.7,Comprehensive,Monthly,1,1341.86,Medium,High,Mature,0
+MI-00021,2025-06-19,64,Utility,12,NSW,19771,6,0,1476.59,Comprehensive,Monthly,0,0.0,Low,Medium,Mature,0
+MI-00022,2025-04-14,37,Sedan,10,NSW,8305,3,0,849.65,Third Party,Annual,0,0.0,Low,Low,Middle,0
+MI-00023,2025-03-24,57,Van,2,VIC,12537,4,0,1141.62,Comprehensive,Annual,0,0.0,Low,Medium,Mature,0
+MI-00024,2025-07-20,66,SUV,0,QLD,3000,1,1,1355.73,Comprehensive,Quarterly,0,0.0,Low,Low,Mature,1
+MI-00025,2025-03-09,39,Hatchback,10,NSW,12616,5,1,1029.23,Third Party,Annual,0,0.0,Low,Medium,Middle,1
+MI-00026,2024-06-01,23,Sedan,4,QLD,15197,6,0,1396.92,Comprehensive,Annual,0,0.0,Low,Medium,Young,0
+MI-00027,2025-11-29,74,SUV,4,VIC,21978,9,2,1924.85,Comprehensive,Annual,0,0.0,Low,High,Mature,1
+MI-00028,2025-02-26,27,SUV,13,SA,15951,2,0,1024.98,Third Party,Annual,1,5743.23,Low,Medium,Young,0
+MI-00029,2025-04-16,47,Utility,7,NSW,16723,9,1,1589.93,Comprehensive,Monthly,0,0.0,Low,Medium,Middle,1
+MI-00030,2025-06-05,73,Utility,7,NSW,12489,3,0,889.04,Third Party,Annual,0,0.0,Low,Medium,Mature,0
+MI-00031,2024-11-17,74,Hatchback,0,NSW,20006,10,0,1019.72,Comprehensive,Annual,0,0.0,Low,High,Mature,0
+MI-00032,2025-11-17,53,Sedan,6,NSW,15903,9,0,815.74,Third Party,Monthly,0,0.0,Low,Medium,Mature,0
+MI-00033,2024-10-29,48,Sedan,10,QLD,14263,9,0,846.88,Third Party,Annual,0,0.0,Low,Medium,Middle,0
+MI-00034,2025-03-16,33,SUV,12,QLD,23362,3,0,1517.46,Comprehensive,Annual,0,0.0,Low,High,Middle,0
+MI-00035,2024-10-17,59,Hatchback,14,VIC,12496,8,2,1283.2,Third Party,Monthly,0,0.0,Medium,Medium,Mature,1
+MI-00036,2025-05-01,61,Hatchback,2,WA,16069,2,0,1016.46,Comprehensive,Annual,0,0.0,Low,Medium,Mature,0
+MI-00037,2024-04-19,70,Sedan,13,WA,6800,4,0,1087.98,Comprehensive,Monthly,0,0.0,Low,Low,Mature,0
+MI-00038,2025-09-01,35,Sedan,14,NSW,16063,5,1,1281.58,Third Party,Quarterly,0,0.0,Medium,Medium,Middle,1
+MI-00039,2025-10-14,69,Van,13,WA,3000,7,0,1220.74,Comprehensive,Annual,0,0.0,Low,Low,Mature,0
+MI-00040,2024-08-24,70,SUV,7,NSW,20712,3,0,1417.74,Comprehensive,Annual,0,0.0,Low,High,Mature,0
+MI-00041,2024-01-21,30,Hatchback,2,VIC,12457,0,1,1552.97,Comprehensive,Monthly,0,0.0,Low,Medium,Middle,1
+MI-00042,2025-07-13,69,Hatchback,15,NSW,9509,9,2,1861.41,Comprehensive,Monthly,0,0.0,Low,Low,Mature,1
+MI-00043,2024-05-10,35,SUV,8,VIC,21786,7,0,1447.36,Comprehensive,Monthly,0,0.0,Low,High,Middle,0
+MI-00044,2024-12-01,55,Sedan,12,QLD,14585,4,1,1493.7,Comprehensive,Annual,0,0.0,Low,Medium,Mature,1
+MI-00045,2024-12-24,41,SUV,12,NSW,22484,8,0,1128.44,Third Party,Annual,0,0.0,Low,High,Middle,0
+MI-00046,2025-07-31,25,Utility,1,QLD,20119,0,0,1493.06,Comprehensive,Monthly,0,0.0,Low,High,Young,0
+MI-00047,2024-01-27,50,Hatchback,11,NSW,7567,1,1,1183.73,Fire and Theft,Annual,0,0.0,Medium,Low,Middle,1
+MI-00048,2025-12-01,57,Hatchback,12,VIC,15436,7,0,1222.32,Comprehensive,Monthly,0,0.0,Low,Medium,Mature,0
+MI-00049,2024-04-18,28,Utility,1,VIC,10368,5,0,825.44,Third Party,Monthly,0,0.0,Low,Medium,Young,0
+MI-00050,2025-05-10,44,Hatchback,14,QLD,6281,10,0,882.66,Third Party,Monthly,0,0.0,Low,Low,Middle,0
+MI-00051,2025-11-15,73,Utility,8,VIC,16429,3,0,1129.56,Third Party,Monthly,0,0.0,Low,Medium,Mature,0
+MI-00052,2024-01-11,22,SUV,10,NSW,18740,3,1,1689.17,Third Party,Annual,0,0.0,Medium,Medium,Young,1
+MI-00053,2024-08-14,33,Sedan,13,VIC,16510,6,0,867.98,Third Party,Annual,0,0.0,Low,Medium,Middle,0
+MI-00054,2024-09-14,36,SUV,11,VIC,9285,7,0,958.24,Third Party,Annual,0,0.0,Low,Low,Middle,0
+MI-00055,2025-06-21,67,Sedan,3,QLD,25480,2,1,1533.35,Comprehensive,Monthly,0,0.0,Medium,High,Mature,1
+MI-00056,2024-05-09,27,Utility,9,NSW,16470,5,0,1109.6,Fire and Theft,Monthly,0,0.0,Low,Medium,Young,0
+MI-00057,2024-03-07,69,SUV,0,VIC,9124,2,0,912.57,Fire and Theft,Monthly,0,0.0,Low,Low,Mature,0
+MI-00058,2025-09-02,25,Hatchback,1,NSW,21945,0,0,1220.61,Comprehensive,Annual,0,0.0,Low,High,Young,0
+MI-00059,2024-04-11,35,Utility,12,VIC,3932,10,0,1284.72,Comprehensive,Monthly,0,0.0,Low,Low,Middle,0
+MI-00060,2024-10-25,34,Hatchback,8,QLD,18214,0,0,1483.07,Comprehensive,Monthly,1,2489.67,Low,Medium,Middle,0
+MI-00061,2025-10-25,50,Sedan,7,SA,18143,7,2,1658.14,Comprehensive,Monthly,1,2831.18,Low,Medium,Middle,1
+MI-00062,2024-10-05,24,Sedan,9,QLD,22589,4,0,1497.57,Comprehensive,Annual,0,0.0,Medium,High,Young,0
+MI-00063,2025-08-24,52,SUV,1,WA,15141,0,0,980.21,Third Party,Quarterly,0,0.0,Low,Medium,Mature,0
+MI-00064,2025-03-22,69,Hatchback,8,VIC,16331,5,0,1126.94,Comprehensive,Quarterly,0,0.0,Low,Medium,Mature,0
+MI-00065,2025-02-14,52,Van,15,VIC,11160,9,0,1134.87,Third Party,Annual,0,0.0,Low,Medium,Mature,0
+MI-00066,2025-07-09,56,Sedan,2,NSW,8345,4,0,839.23,Fire and Theft,Monthly,0,0.0,Low,Low,Mature,0
+MI-00067,2025-05-11,24,Sedan,11,QLD,8978,0,0,1723.05,Comprehensive,Annual,1,2444.13,Medium,Low,Young,0
+MI-00068,2024-10-25,56,Sedan,13,NSW,30345,5,0,1112.23,Third Party,Monthly,0,0.0,Low,High,Mature,0
+MI-00069,2024-03-12,38,SUV,15,SA,16324,4,2,2156.52,Comprehensive,Quarterly,1,7614.24,Medium,Medium,Middle,1
+MI-00070,2024-12-19,71,SUV,0,NSW,13403,10,0,1177.89,Comprehensive,Monthly,0,0.0,Low,Medium,Mature,0
+MI-00071,2024-11-21,69,Hatchback,14,SA,28475,2,0,1065.72,Third Party,Annual,0,0.0,Medium,High,Mature,0
+MI-00072,2025-08-27,66,Van,12,VIC,9779,10,0,1253.67,Comprehensive,Monthly,0,0.0,Low,Low,Mature,0
+MI-00073,2024-09-28,27,Utility,14,NSW,16966,1,1,1566.88,Fire and Theft,Annual,0,0.0,Medium,Medium,Young,1
+MI-00074,2025-07-08,65,SUV,2,WA,23719,4,0,893.45,Third Party,Monthly,1,6380.03,Low,High,Mature,0
+MI-00075,2024-05-29,27,Utility,3,VIC,11156,0,1,1579.74,Comprehensive,Annual,0,0.0,Medium,Medium,Young,1
+MI-00076,2025-04-17,47,Hatchback,5,NSW,27565,6,0,1069.02,Fire and Theft,Annual,0,0.0,Low,High,Middle,0
+MI-00077,2024-11-02,50,Sedan,0,WA,10773,5,0,711.03,Fire and Theft,Quarterly,0,0.0,Low,Medium,Middle,0
+MI-00078,2024-10-29,48,Hatchback,14,WA,18009,5,0,1385.41,Comprehensive,Monthly,1,7352.7,Low,Medium,Middle,0
+MI-00079,2024-08-12,21,Hatchback,1,SA,15627,9,1,1474.71,Comprehensive,Monthly,0,0.0,Low,Medium,Young,1
+MI-00080,2024-04-02,60,Sedan,4,QLD,23698,3,0,1137.88,Comprehensive,Monthly,0,0.0,Low,High,Mature,0
+MI-00081,2025-05-08,41,Utility,5,NSW,19022,4,0,1211.12,Comprehensive,Annual,0,0.0,Low,Medium,Middle,0
+MI-00082,2025-02-10,39,Utility,10,WA,13478,7,0,1006.04,Third Party,Monthly,0,0.0,Low,Medium,Middle,0
+MI-00083,2025-10-15,72,Hatchback,2,WA,24030,5,0,850.32,Third Party,Monthly,0,0.0,Low,High,Mature,0
+MI-00084,2024-11-05,27,Hatchback,15,NSW,22233,9,0,1379.72,Comprehensive,Monthly,0,0.0,Low,High,Young,0
+MI-00085,2025-07-07,28,Sedan,1,NSW,13063,9,0,939.07,Comprehensive,Monthly,0,0.0,Low,Medium,Young,0
+MI-00086,2025-03-31,68,Hatchback,13,QLD,20512,10,0,934.36,Third Party,Annual,0,0.0,Low,High,Mature,0
+MI-00087,2025-04-10,75,SUV,11,VIC,22067,4,0,1508.59,Comprehensive,Monthly,1,1303.11,Low,High,Mature,0
+MI-00088,2024-08-26,22,Sedan,10,NSW,21892,0,1,2358.44,Comprehensive,Annual,1,2263.19,High,High,Young,1
+MI-00089,2024-02-23,37,Utility,3,QLD,17110,8,0,1242.62,Comprehensive,Annual,0,0.0,Low,Medium,Middle,0
+MI-00090,2025-11-05,47,SUV,2,VIC,17365,1,0,1052.15,Fire and Theft,Annual,0,0.0,Low,Medium,Middle,0
+MI-00091,2024-03-23,50,Hatchback,0,NSW,9470,7,0,691.67,Fire and Theft,Annual,0,0.0,Low,Low,Middle,0
+MI-00092,2025-03-16,30,Sedan,8,QLD,7182,4,0,968.39,Comprehensive,Monthly,0,0.0,Low,Low,Middle,0
+MI-00093,2024-11-16,65,Sedan,6,VIC,21124,8,0,844.73,Third Party,Annual,0,0.0,Low,High,Mature,0
+MI-00094,2025-08-23,44,Van,15,NSW,17413,1,1,1457.76,Third Party,Monthly,0,0.0,Medium,Medium,Middle,1
+MI-00095,2024-11-15,56,SUV,3,VIC,26843,4,1,1588.89,Comprehensive,Annual,0,0.0,Low,High,Mature,1
+MI-00096,2025-03-15,57,SUV,4,QLD,16501,8,0,955.99,Third Party,Monthly,0,0.0,Low,Medium,Mature,0
+MI-00097,2024-12-25,70,Utility,0,QLD,10529,0,0,910.56,Third Party,Quarterly,1,10908.69,Low,Medium,Mature,0
+MI-00098,2025-08-04,46,Sedan,0,NSW,9800,5,0,850.59,Comprehensive,Annual,0,0.0,Low,Low,Middle,0
+MI-00099,2024-04-26,24,Sedan,1,QLD,14674,5,0,1285.25,Comprehensive,Monthly,0,0.0,Low,Medium,Young,0
+MI-00100,2024-05-20,28,SUV,15,VIC,14353,10,0,1524.26,Comprehensive,Quarterly,0,0.0,Low,Medium,Young,0
+MI-00101,2024-12-28,39,SUV,0,VIC,12900,5,0,1112.19,Comprehensive,Monthly,0,0.0,Low,Medium,Middle,0
+MI-00102,2025-02-18,68,Sedan,0,VIC,20972,4,0,1064.15,Comprehensive,Annual,1,1170.51,Low,High,Mature,0
+MI-00103,2024-12-13,60,SUV,11,NSW,18715,6,0,1427.44,Comprehensive,Annual,0,0.0,Low,Medium,Mature,0
+MI-00104,2024-04-15,70,Sedan,3,VIC,19882,4,2,1753.31,Comprehensive,Annual,1,1510.75,Medium,Medium,Mature,1
+MI-00105,2025-08-01,69,Utility,2,NSW,17085,7,1,1436.33,Comprehensive,Quarterly,0,0.0,Low,Medium,Mature,1
+MI-00106,2024-11-13,60,SUV,10,NSW,22386,3,0,1521.38,Comprehensive,Monthly,0,0.0,Low,High,Mature,0
+MI-00107,2024-02-12,23,Sedan,9,NSW,24406,6,0,1563.64,Comprehensive,Monthly,0,0.0,Low,High,Young,0
+MI-00108,2024-03-27,72,Hatchback,6,VIC,12326,0,0,1053.38,Fire and Theft,Annual,0,0.0,Low,Medium,Mature,0
+MI-00109,2025-11-26,32,Sedan,14,SA,7184,4,2,1714.21,Comprehensive,Monthly,0,0.0,Medium,Low,Middle,1
+MI-00110,2024-06-02,71,Hatchback,10,NSW,24114,3,1,1245.72,Third Party,Quarterly,0,0.0,Medium,High,Mature,1
+MI-00111,2025-10-20,58,Hatchback,11,NSW,10670,1,0,1250.34,Comprehensive,Monthly,0,0.0,Low,Medium,Mature,0
+MI-00112,2025-05-12,73,Sedan,2,QLD,10539,4,0,945.46,Comprehensive,Quarterly,0,0.0,Low,Medium,Mature,0
+MI-00113,2025-09-24,29,Sedan,9,WA,24980,8,1,1664.92,Comprehensive,Annual,1,3167.39,Low,High,Young,1
+MI-00114,2025-04-04,74,Hatchback,5,QLD,21955,7,2,1760.36,Comprehensive,Monthly,0,0.0,Low,High,Mature,1
+MI-00115,2025-05-29,36,SUV,15,WA,19372,6,0,1240.23,Third Party,Monthly,0,0.0,Low,Medium,Middle,0
+MI-00116,2024-05-07,31,Utility,4,WA,23043,4,2,1448.79,Third Party,Monthly,0,0.0,Medium,High,Middle,1
+MI-00117,2024-01-28,69,Sedan,14,WA,20191,10,0,1416.44,Comprehensive,Annual,0,0.0,Low,High,Mature,0
+MI-00118,2024-05-29,46,SUV,7,VIC,20039,3,0,1045.71,Third Party,Annual,0,0.0,Low,High,Middle,0
+MI-00119,2024-06-02,39,Van,15,QLD,22538,5,0,1686.47,Comprehensive,Annual,0,0.0,Medium,High,Middle,0
+MI-00120,2024-04-23,67,Hatchback,13,NSW,14695,0,0,1170.57,Third Party,Monthly,0,0.0,Medium,Medium,Mature,0
+MI-00121,2024-07-10,52,Hatchback,0,QLD,6779,3,0,772.04,Comprehensive,Monthly,0,0.0,Low,Low,Mature,0
+MI-00122,2025-10-12,26,SUV,11,NSW,8369,10,0,1283.21,Comprehensive,Monthly,0,0.0,Low,Low,Young,0
+MI-00123,2024-05-16,44,Sedan,0,VIC,20400,7,0,1049.31,Comprehensive,Monthly,1,5001.33,Low,High,Middle,0
+MI-00124,2024-07-25,32,Utility,14,SA,11913,1,1,1511.24,Fire and Theft,Annual,1,12095.52,Medium,Medium,Middle,1
+MI-00125,2025-01-11,73,Hatchback,8,NSW,12779,9,0,781.34,Third Party,Annual,0,0.0,Low,Medium,Mature,0
+MI-00126,2025-03-10,46,Utility,12,VIC,19857,4,1,1865.63,Comprehensive,Annual,1,8038.44,Medium,Medium,Middle,1
+MI-00127,2024-02-13,55,SUV,3,NSW,13047,6,0,830.69,Third Party,Annual,0,0.0,Low,Medium,Mature,0
+MI-00128,2025-11-26,43,Hatchback,13,NSW,31676,0,0,1777.57,Comprehensive,Monthly,1,5474.43,Medium,High,Middle,0
+MI-00129,2024-03-19,29,Sedan,11,VIC,17584,1,0,1425.25,Comprehensive,Annual,0,0.0,Low,Medium,Young,0
+MI-00130,2024-09-25,54,SUV,10,QLD,16007,7,0,1420.3,Comprehensive,Monthly,0,0.0,Low,Medium,Mature,0
+MI-00131,2024-03-30,66,SUV,9,QLD,20344,1,0,1614.46,Comprehensive,Monthly,0,0.0,Low,High,Mature,0
+MI-00132,2024-06-27,75,Van,11,QLD,10879,3,0,974.47,Third Party,Monthly,0,0.0,Low,Medium,Mature,0
+MI-00133,2024-05-12,53,Sedan,6,WA,16631,4,0,1181.2,Comprehensive,Quarterly,0,0.0,Low,Medium,Mature,0
+MI-00134,2025-10-19,26,Sedan,12,SA,14457,8,1,1445.41,Comprehensive,Quarterly,1,3494.4,Low,Medium,Young,1
+MI-00135,2024-06-14,29,Utility,5,QLD,21294,9,1,1688.09,Comprehensive,Annual,0,0.0,Low,High,Young,1
+MI-00136,2025-05-29,66,Sedan,9,WA,15964,6,0,1257.41,Comprehensive,Monthly,0,0.0,Low,Medium,Mature,0
+MI-00137,2024-03-24,58,Van,4,NSW,6061,3,2,1569.84,Comprehensive,Quarterly,1,6185.91,Medium,Low,Mature,1
+MI-00138,2025-02-19,62,Sedan,13,QLD,29382,5,0,1515.7,Comprehensive,Annual,0,0.0,Low,High,Mature,0
+MI-00139,2024-12-19,25,Hatchback,5,VIC,11630,6,0,753.23,Third Party,Monthly,0,0.0,Low,Medium,Young,0
+MI-00140,2025-09-22,29,Utility,3,NSW,10984,2,0,1238.66,Comprehensive,Annual,0,0.0,Low,Medium,Young,0
+MI-00141,2025-02-06,31,Utility,10,NSW,27641,5,1,2019.09,Comprehensive,Annual,0,0.0,Medium,High,Middle,1
+MI-00142,2024-04-20,36,Sedan,11,NSW,14283,8,0,1273.45,Comprehensive,Annual,0,0.0,Low,Medium,Middle,0
+MI-00143,2025-07-17,37,Hatchback,12,VIC,9147,2,0,1271.34,Comprehensive,Monthly,0,0.0,Low,Low,Middle,0
+MI-00144,2025-09-08,60,Hatchback,3,NSW,21158,10,0,1148.0,Comprehensive,Annual,0,0.0,Low,High,Mature,0
+MI-00145,2025-09-19,53,Sedan,1,NSW,12329,5,0,980.06,Comprehensive,Annual,0,0.0,Low,Medium,Mature,0
+MI-00146,2024-12-05,46,Van,9,QLD,8247,5,0,1240.28,Comprehensive,Annual,0,0.0,Low,Low,Middle,0
+MI-00147,2025-05-06,47,Hatchback,0,QLD,15075,10,0,1026.14,Comprehensive,Annual,0,0.0,Low,Medium,Middle,0
+MI-00148,2024-06-04,61,Hatchback,12,NSW,15305,10,0,1228.91,Comprehensive,Annual,0,0.0,Low,Medium,Mature,0
+MI-00149,2025-06-22,34,SUV,15,WA,15792,1,0,1667.18,Comprehensive,Monthly,0,0.0,Medium,Medium,Middle,0
+MI-00150,2024-09-09,32,SUV,10,VIC,10128,7,1,1482.74,Comprehensive,Monthly,0,0.0,Low,Medium,Middle,1
+MI-00151,2024-10-07,40,Sedan,9,QLD,13217,5,0,1053.97,Comprehensive,Quarterly,0,0.0,Low,Medium,Middle,0
+MI-00152,2024-03-21,57,Hatchback,12,WA,11284,8,0,1207.54,Comprehensive,Quarterly,0,0.0,Low,Medium,Mature,0
+MI-00153,2024-09-02,49,Hatchback,15,NSW,18431,6,0,1326.48,Comprehensive,Monthly,0,0.0,Low,Medium,Middle,0
+MI-00154,2025-07-17,63,Van,7,QLD,22350,7,0,1072.6,Third Party,Annual,0,0.0,Low,High,Mature,0
+MI-00155,2025-08-10,31,SUV,15,VIC,21231,3,0,1414.23,Fire and Theft,Annual,0,0.0,Medium,High,Middle,0
+MI-00156,2025-05-22,68,Hatchback,1,SA,22098,1,2,1562.81,Fire and Theft,Annual,1,3036.85,Medium,High,Mature,1
+MI-00157,2025-05-31,40,Hatchback,3,SA,12356,6,0,832.15,Fire and Theft,Annual,0,0.0,Low,Medium,Middle,0
+MI-00158,2024-07-16,33,Utility,10,NSW,11152,2,1,1259.65,Third Party,Monthly,1,9117.64,Medium,Medium,Middle,1
+MI-00159,2024-12-03,26,SUV,3,NSW,19646,2,0,1407.51,Comprehensive,Monthly,0,0.0,Low,Medium,Young,0
+MI-00160,2024-11-14,67,Hatchback,8,QLD,15180,1,0,1299.38,Comprehensive,Monthly,0,0.0,Low,Medium,Mature,0
+MI-00161,2025-07-16,61,Van,9,VIC,18973,5,0,1269.5,Fire and Theft,Annual,0,0.0,Low,Medium,Mature,0
+MI-00162,2025-07-31,69,Hatchback,6,QLD,12291,8,0,979.86,Comprehensive,Annual,0,0.0,Low,Medium,Mature,0
+MI-00163,2024-04-03,74,Hatchback,6,VIC,19411,5,0,1201.91,Comprehensive,Monthly,0,0.0,Low,Medium,Mature,0
+MI-00164,2024-09-17,49,Utility,14,NSW,8780,6,0,1409.34,Comprehensive,Annual,0,0.0,Low,Low,Middle,0
+MI-00165,2024-02-02,68,Sedan,2,NSW,14679,10,2,1571.95,Comprehensive,Quarterly,0,0.0,Low,Medium,Mature,1
+MI-00166,2025-07-06,32,Utility,13,VIC,21501,9,0,1517.36,Comprehensive,Quarterly,0,0.0,Low,High,Middle,0
+MI-00167,2025-07-11,43,Sedan,12,VIC,15360,0,0,1467.02,Comprehensive,Monthly,0,0.0,Medium,Medium,Middle,0
+MI-00168,2025-09-21,45,Utility,7,VIC,18358,9,1,1671.41,Comprehensive,Monthly,0,0.0,Low,Medium,Middle,1
+MI-00169,2024-08-27,22,Sedan,2,NSW,24578,7,0,1079.21,Third Party,Annual,0,0.0,Low,High,Young,0
+MI-00170,2024-11-24,69,Utility,1,NSW,20743,9,0,1249.69,Comprehensive,Monthly,0,0.0,Low,High,Mature,0
+MI-00171,2025-07-23,30,Van,7,VIC,14695,6,1,1651.94,Comprehensive,Monthly,0,0.0,Low,Medium,Middle,1
+MI-00172,2024-08-18,43,Van,12,QLD,13176,1,0,1215.95,Third Party,Monthly,0,0.0,Medium,Medium,Middle,0
+MI-00173,2025-10-24,66,Sedan,14,SA,3000,6,0,1035.73,Comprehensive,Annual,0,0.0,Low,Low,Mature,0
+MI-00174,2025-08-24,49,Utility,2,VIC,17011,4,0,1199.47,Comprehensive,Annual,0,0.0,Low,Medium,Middle,0
+MI-00175,2025-05-05,56,Sedan,6,WA,7879,0,2,1564.21,Fire and Theft,Annual,0,0.0,Medium,Low,Mature,1
+MI-00176,2025-01-03,65,Hatchback,6,VIC,16383,3,0,1161.55,Comprehensive,Annual,0,0.0,Low,Medium,Mature,0
+MI-00177,2024-01-17,52,SUV,15,QLD,14129,3,0,1133.06,Third Party,Monthly,0,0.0,Low,Medium,Mature,0
+MI-00178,2024-12-11,58,Hatchback,13,NSW,17558,6,0,1339.86,Comprehensive,Quarterly,0,0.0,Low,Medium,Mature,0
+MI-00179,2025-10-19,73,SUV,15,VIC,15345,1,0,1628.64,Comprehensive,Quarterly,0,0.0,Medium,Medium,Mature,0
+MI-00180,2024-01-10,54,Sedan,2,SA,10567,4,1,1123.85,Comprehensive,Monthly,0,0.0,Low,Medium,Mature,1
+MI-00181,2024-10-20,50,SUV,15,QLD,23973,4,0,1224.37,Third Party,Monthly,1,12532.53,Medium,High,Middle,0
+MI-00182,2025-02-10,72,Van,5,NSW,19035,2,0,1061.19,Third Party,Annual,1,10854.46,Low,Medium,Mature,0
+MI-00183,2025-01-21,36,Van,7,NSW,17255,10,0,1320.74,Comprehensive,Annual,0,0.0,Low,Medium,Middle,0
+MI-00184,2024-02-13,24,Hatchback,5,NSW,21273,3,3,1953.26,Fire and Theft,Quarterly,1,4759.44,High,High,Young,1
+MI-00185,2025-02-11,25,Hatchback,8,WA,14450,9,0,898.86,Fire and Theft,Monthly,0,0.0,Low,Medium,Young,0
+MI-00186,2024-03-21,40,Sedan,7,VIC,21716,5,0,839.52,Third Party,Monthly,0,0.0,Low,High,Middle,0
+MI-00187,2025-10-11,43,Sedan,13,NSW,23869,6,0,1158.13,Fire and Theft,Annual,0,0.0,Low,High,Middle,0
+MI-00188,2024-09-09,49,SUV,11,VIC,13045,6,0,1039.4,Third Party,Annual,0,0.0,Low,Medium,Middle,0
+MI-00189,2025-01-03,26,Sedan,12,QLD,8892,3,0,1070.38,Comprehensive,Annual,0,0.0,Low,Low,Young,0
+MI-00190,2024-11-28,27,Sedan,5,VIC,8703,1,0,1116.89,Comprehensive,Monthly,0,0.0,Low,Low,Young,0
+MI-00191,2024-06-22,21,SUV,12,QLD,14689,10,0,1706.15,Comprehensive,Monthly,0,0.0,Low,Medium,Young,0
+MI-00192,2025-10-02,40,Sedan,4,NSW,9768,5,0,980.39,Comprehensive,Annual,0,0.0,Low,Low,Middle,0
+MI-00193,2025-03-16,60,Sedan,3,NSW,22517,8,0,846.55,Third Party,Annual,0,0.0,Low,High,Mature,0
+MI-00194,2025-10-10,62,Van,4,NSW,8013,5,0,1066.8,Comprehensive,Annual,0,0.0,Low,Low,Mature,0
+MI-00195,2025-11-29,57,Utility,10,VIC,18635,1,0,1561.16,Comprehensive,Monthly,0,0.0,Medium,Medium,Mature,0
+MI-00196,2025-11-20,22,Van,14,SA,18914,8,0,1518.89,Third Party,Monthly,0,0.0,Low,Medium,Young,0
+MI-00197,2025-06-02,61,SUV,8,QLD,13515,0,3,2323.37,Comprehensive,Annual,0,0.0,High,Medium,Mature,1
+MI-00198,2025-11-04,65,SUV,1,WA,7225,5,0,1122.63,Comprehensive,Monthly,0,0.0,Low,Low,Mature,0
+MI-00199,2024-04-10,31,Hatchback,1,VIC,10254,10,0,598.34,Third Party,Annual,0,0.0,Low,Medium,Middle,0
+MI-00200,2024-04-17,53,Utility,7,VIC,7333,6,0,1239.69,Comprehensive,Annual,0,0.0,Low,Low,Mature,0
+MI-00201,2025-04-08,26,Sedan,4,VIC,9715,5,0,1036.91,Comprehensive,Monthly,0,0.0,Low,Low,Young,0
+MI-00202,2025-07-19,40,Sedan,3,NSW,14272,8,2,1187.34,Third Party,Monthly,0,0.0,Low,Medium,Middle,1
+MI-00203,2024-07-21,56,SUV,14,NSW,12566,6,0,1454.5,Comprehensive,Monthly,0,0.0,Low,Medium,Mature,0
+MI-00204,2024-11-29,48,SUV,6,NSW,16172,0,0,1149.6,Fire and Theft,Annual,0,0.0,Low,Medium,Middle,0
+MI-00205,2025-09-24,28,Sedan,15,VIC,10376,6,0,1177.72,Comprehensive,Monthly,0,0.0,Low,Medium,Young,0
+MI-00206,2024-05-24,64,Hatchback,9,SA,7809,3,0,1003.12,Comprehensive,Annual,0,0.0,Low,Low,Mature,0
+MI-00207,2024-10-22,47,Hatchback,12,VIC,7957,9,2,1695.22,Comprehensive,Annual,0,0.0,Low,Low,Middle,1
+MI-00208,2025-02-22,41,Utility,1,WA,23143,2,0,1359.1,Comprehensive,Monthly,0,0.0,Low,High,Middle,0
+MI-00209,2024-06-21,47,Hatchback,14,VIC,17412,8,0,1331.11,Comprehensive,Monthly,0,0.0,Low,Medium,Middle,0
+MI-00210,2024-02-12,57,Utility,15,VIC,18424,8,1,1855.15,Comprehensive,Monthly,0,0.0,Medium,Medium,Mature,1
+MI-00211,2024-03-30,49,Hatchback,13,NSW,21228,3,5,2698.9,Comprehensive,Annual,1,782.14,High,High,Middle,1
+MI-00212,2025-07-05,58,Hatchback,13,NSW,18835,2,0,1439.49,Comprehensive,Annual,1,8701.64,Low,Medium,Mature,0
+MI-00213,2024-05-15,57,Sedan,3,NSW,16003,0,0,904.39,Third Party,Monthly,0,0.0,Low,Medium,Mature,0
+MI-00214,2025-10-10,66,SUV,7,QLD,12630,6,0,1208.66,Comprehensive,Monthly,0,0.0,Low,Medium,Mature,0
+MI-00215,2024-04-05,70,Sedan,8,QLD,21134,5,0,875.41,Third Party,Monthly,0,0.0,Low,High,Mature,0
+MI-00216,2024-10-17,50,Hatchback,11,WA,17852,10,1,1488.88,Comprehensive,Annual,0,0.0,Low,Medium,Middle,1
+MI-00217,2024-06-10,57,Sedan,15,QLD,24669,0,0,1223.5,Third Party,Annual,0,0.0,Medium,High,Mature,0
+MI-00218,2025-11-01,21,Van,13,NSW,14698,6,0,1417.9,Fire and Theft,Annual,0,0.0,Low,Medium,Young,0
+MI-00219,2024-08-06,26,SUV,5,NSW,8632,7,0,1089.52,Comprehensive,Annual,0,0.0,Low,Low,Young,0
+MI-00220,2025-01-27,29,Hatchback,14,NSW,11983,10,0,1140.81,Comprehensive,Annual,0,0.0,Low,Medium,Young,0
+MI-00221,2024-03-11,72,Sedan,10,VIC,14055,8,1,1507.65,Comprehensive,Monthly,0,0.0,Low,Medium,Mature,1
+MI-00222,2024-03-29,21,Hatchback,5,VIC,14424,1,0,1065.16,Third Party,Quarterly,0,0.0,Low,Medium,Young,0
+MI-00223,2025-09-14,29,Utility,12,VIC,5611,2,0,1403.03,Comprehensive,Monthly,0,0.0,Low,Low,Young,0
+MI-00224,2024-09-02,65,Sedan,9,NSW,12710,4,0,812.38,Third Party,Monthly,0,0.0,Low,Medium,Mature,0
+MI-00225,2025-01-09,28,Sedan,2,VIC,34948,9,0,952.76,Third Party,Monthly,0,0.0,Low,High,Young,0
+MI-00226,2025-10-05,32,Utility,2,NSW,20619,0,0,1156.09,Third Party,Monthly,0,0.0,Low,High,Middle,0
+MI-00227,2024-06-08,70,SUV,12,NSW,7242,3,0,1282.59,Comprehensive,Annual,0,0.0,Low,Low,Mature,0
+MI-00228,2025-09-18,46,Hatchback,2,NSW,3000,2,0,761.7,Fire and Theft,Annual,0,0.0,Low,Low,Middle,0
+MI-00229,2024-09-22,40,Hatchback,5,NSW,13357,1,2,1699.83,Comprehensive,Monthly,1,6924.07,Medium,Medium,Middle,1
+MI-00230,2025-08-10,25,Sedan,2,VIC,13809,9,0,973.05,Comprehensive,Monthly,0,0.0,Low,Medium,Young,0
+MI-00231,2024-02-06,28,Sedan,0,NSW,19171,5,0,981.32,Comprehensive,Quarterly,0,0.0,Low,Medium,Young,0
+MI-00232,2025-11-20,66,Utility,13,NSW,16157,3,1,1874.51,Comprehensive,Annual,0,0.0,Medium,Medium,Mature,1
+MI-00233,2024-01-09,32,Sedan,1,SA,22599,3,1,1401.72,Comprehensive,Monthly,0,0.0,Low,High,Middle,1
+MI-00234,2025-07-13,39,Hatchback,9,QLD,16290,10,4,1770.14,Third Party,Monthly,0,0.0,Medium,Medium,Middle,1
+MI-00235,2025-01-20,36,Sedan,13,NSW,7072,7,0,1112.29,Comprehensive,Monthly,0,0.0,Low,Low,Middle,0
+MI-00236,2024-08-25,67,SUV,6,VIC,16561,0,4,2065.57,Third Party,Annual,0,0.0,High,Medium,Mature,1
+MI-00237,2024-03-04,54,SUV,11,VIC,15886,5,0,1343.14,Comprehensive,Monthly,0,0.0,Low,Medium,Mature,0
+MI-00238,2024-07-26,29,Sedan,8,WA,21805,8,0,1225.01,Comprehensive,Annual,0,0.0,Low,High,Young,0
+MI-00239,2025-04-19,70,Hatchback,4,NSW,10637,1,0,864.52,Third Party,Monthly,0,0.0,Low,Medium,Mature,0
+MI-00240,2024-12-30,28,Sedan,9,WA,15388,8,0,1155.08,Comprehensive,Annual,0,0.0,Low,Medium,Young,0
+MI-00241,2024-04-14,24,Hatchback,8,WA,23375,9,0,1714.21,Comprehensive,Annual,0,0.0,Low,High,Young,0
+MI-00242,2025-08-19,29,Sedan,1,WA,19419,8,0,1037.71,Comprehensive,Monthly,0,0.0,Low,Medium,Young,0
+MI-00243,2025-04-17,73,Sedan,2,NSW,8805,0,1,987.17,Third Party,Annual,1,10023.75,Low,Low,Mature,1
+MI-00244,2025-09-20,67,SUV,0,VIC,10557,9,0,1084.88,Comprehensive,Annual,0,0.0,Low,Medium,Mature,0
+MI-00245,2025-06-22,36,Hatchback,15,VIC,13810,3,0,1284.11,Comprehensive,Quarterly,0,0.0,Low,Medium,Middle,0
+MI-00246,2025-02-01,72,Hatchback,0,SA,17221,5,0,733.94,Fire and Theft,Monthly,0,0.0,Low,Medium,Mature,0
+MI-00247,2024-08-26,22,SUV,7,NSW,17964,8,0,1648.69,Comprehensive,Monthly,0,0.0,Low,Medium,Young,0
+MI-00248,2025-02-01,27,Sedan,7,NSW,21870,0,4,2511.35,Comprehensive,Monthly,1,1599.21,High,High,Young,1
+MI-00249,2025-05-19,72,Utility,11,SA,25936,10,0,1593.52,Comprehensive,Annual,0,0.0,Low,High,Mature,0
+MI-00250,2024-12-14,32,SUV,2,NSW,14952,5,0,1175.24,Comprehensive,Monthly,0,0.0,Low,Medium,Middle,0
+MI-00251,2024-03-15,72,Utility,10,NSW,22084,1,0,1736.03,Comprehensive,Annual,0,0.0,Medium,High,Mature,0
+MI-00252,2024-11-20,63,SUV,3,VIC,8185,7,0,1231.25,Comprehensive,Monthly,0,0.0,Low,Low,Mature,0
+MI-00253,2025-08-09,56,Hatchback,11,NSW,12577,3,0,1154.94,Comprehensive,Monthly,0,0.0,Low,Medium,Mature,0
+MI-00254,2024-12-05,70,Van,1,NSW,11085,6,0,1185.87,Comprehensive,Monthly,0,0.0,Low,Medium,Mature,0
+MI-00255,2024-09-28,36,SUV,10,NSW,18105,7,0,1126.2,Fire and Theft,Annual,0,0.0,Low,Medium,Middle,0
+MI-00256,2025-01-22,65,Sedan,8,QLD,15622,4,0,1132.5,Comprehensive,Annual,0,0.0,Low,Medium,Mature,0
+MI-00257,2024-01-21,45,Sedan,15,QLD,6337,2,0,887.39,Third Party,Annual,0,0.0,Low,Low,Middle,0
+MI-00258,2025-05-09,27,Sedan,5,WA,17362,10,3,1973.67,Comprehensive,Quarterly,0,0.0,Low,Medium,Young,1
+MI-00259,2025-07-07,48,Van,5,QLD,14025,3,2,1814.04,Comprehensive,Monthly,0,0.0,Medium,Medium,Middle,1
+MI-00260,2025-11-08,39,SUV,3,NSW,4802,1,0,1171.31,Comprehensive,Annual,0,0.0,Low,Low,Middle,0
+MI-00261,2025-11-07,51,Sedan,0,NSW,4460,5,0,458.18,Third Party,Monthly,0,0.0,Low,Low,Mature,0
+MI-00262,2025-07-31,62,Hatchback,5,VIC,12929,0,0,1320.16,Comprehensive,Monthly,1,9662.03,Low,Medium,Mature,0
+MI-00263,2025-05-01,26,Hatchback,13,SA,9022,8,1,1410.23,Comprehensive,Monthly,0,0.0,Low,Low,Young,1
+MI-00264,2024-05-30,36,SUV,2,VIC,17050,6,0,1204.2,Comprehensive,Quarterly,0,0.0,Low,Medium,Middle,0
+MI-00265,2025-10-04,69,SUV,5,SA,17212,4,3,2115.17,Comprehensive,Quarterly,1,5063.31,Medium,Medium,Mature,1
+MI-00266,2025-09-30,67,Van,2,NSW,8273,9,0,834.73,Fire and Theft,Annual,0,0.0,Low,Low,Mature,0
+MI-00267,2024-10-19,71,SUV,13,NSW,8148,10,0,1309.35,Comprehensive,Monthly,0,0.0,Low,Low,Mature,0
+MI-00268,2025-02-15,43,Utility,8,VIC,7129,0,0,1470.96,Comprehensive,Monthly,1,7706.33,Low,Low,Middle,0
+MI-00269,2024-04-10,36,Sedan,15,SA,17048,8,0,1335.97,Comprehensive,Monthly,0,0.0,Low,Medium,Middle,0
+MI-00270,2025-02-20,35,Sedan,14,QLD,11477,6,0,1308.32,Comprehensive,Quarterly,0,0.0,Low,Medium,Middle,0
+MI-00271,2025-08-05,69,SUV,11,WA,12192,3,0,1352.71,Comprehensive,Quarterly,1,6487.94,Low,Medium,Mature,0
+MI-00272,2025-01-16,50,Sedan,11,QLD,14183,5,0,1300.34,Comprehensive,Annual,0,0.0,Low,Medium,Middle,0
+MI-00273,2025-01-30,49,Sedan,15,VIC,13721,9,1,1191.27,Third Party,Annual,1,2387.35,Low,Medium,Middle,1
+MI-00274,2024-06-26,35,Hatchback,8,QLD,3046,10,0,936.58,Comprehensive,Annual,0,0.0,Low,Low,Middle,0
+MI-00275,2024-11-05,21,Sedan,9,QLD,14682,9,1,1759.85,Comprehensive,Annual,0,0.0,Low,Medium,Young,1
+MI-00276,2025-12-01,73,Hatchback,3,NSW,32939,8,0,1308.0,Comprehensive,Annual,0,0.0,Low,High,Mature,0
+MI-00277,2024-09-03,25,SUV,8,QLD,19259,7,1,1648.18,Comprehensive,Annual,0,0.0,Low,Medium,Young,1
+MI-00278,2025-02-01,72,Utility,12,QLD,11620,7,4,2425.12,Comprehensive,Annual,0,0.0,High,Medium,Mature,1
+MI-00279,2024-11-03,58,Hatchback,6,VIC,13741,6,0,774.78,Fire and Theft,Annual,0,0.0,Low,Medium,Mature,0
+MI-00280,2024-12-09,74,Hatchback,5,NSW,5496,7,0,746.53,Fire and Theft,Quarterly,0,0.0,Low,Low,Mature,0
+MI-00281,2025-10-11,35,SUV,9,VIC,20748,6,0,1411.22,Comprehensive,Annual,0,0.0,Low,High,Middle,0
+MI-00282,2024-07-24,60,Sedan,6,VIC,20289,3,0,831.58,Third Party,Annual,0,0.0,Low,High,Mature,0
+MI-00283,2024-02-29,57,Van,14,NSW,18660,0,0,1411.0,Fire and Theft,Annual,1,1074.71,Medium,Medium,Mature,0
+MI-00284,2025-01-27,31,Hatchback,5,VIC,16237,6,0,1063.01,Comprehensive,Quarterly,1,4278.6,Low,Medium,Middle,0
+MI-00285,2025-05-30,21,Van,6,NSW,26568,2,1,2300.38,Comprehensive,Annual,0,0.0,High,High,Young,1
+MI-00286,2024-12-16,31,Sedan,1,NSW,13339,6,0,839.74,Fire and Theft,Quarterly,0,0.0,Low,Medium,Middle,0
+MI-00287,2024-01-23,52,SUV,6,NSW,25907,0,0,1320.27,Fire and Theft,Annual,0,0.0,Medium,High,Mature,0
+MI-00288,2024-01-21,31,Sedan,1,VIC,8900,6,0,797.57,Comprehensive,Annual,0,0.0,Low,Low,Middle,0
+MI-00289,2024-04-13,28,SUV,12,NSW,15826,2,0,1612.29,Comprehensive,Annual,0,0.0,Low,Medium,Young,0
+MI-00290,2025-09-15,38,Hatchback,4,VIC,22255,6,0,819.9,Third Party,Monthly,0,0.0,Low,High,Middle,0
+MI-00291,2024-08-28,37,Utility,6,VIC,12758,6,1,1148.56,Third Party,Monthly,1,14089.47,Low,Medium,Middle,1
+MI-00292,2024-04-12,30,Van,2,QLD,20019,2,3,2227.29,Comprehensive,Monthly,0,0.0,High,High,Middle,1
+MI-00293,2025-11-10,23,Utility,11,WA,11912,1,1,2346.03,Comprehensive,Quarterly,0,0.0,Medium,Medium,Young,1
+MI-00294,2025-04-12,42,SUV,14,SA,14787,4,0,1559.55,Comprehensive,Annual,0,0.0,Low,Medium,Middle,0
+MI-00295,2024-06-12,45,Hatchback,15,WA,9110,1,0,1310.55,Comprehensive,Quarterly,1,10125.04,Low,Low,Middle,0
+MI-00296,2025-05-09,57,Hatchback,5,QLD,17628,9,1,957.19,Third Party,Quarterly,0,0.0,Low,Medium,Mature,1
+MI-00297,2025-08-01,28,Van,14,NSW,15588,7,0,1146.7,Third Party,Monthly,0,0.0,Low,Medium,Young,0
+MI-00298,2025-09-19,63,Utility,3,VIC,14910,7,0,1143.04,Comprehensive,Monthly,1,4531.67,Low,Medium,Mature,0
+MI-00299,2025-10-20,75,SUV,15,WA,22739,2,2,2307.62,Comprehensive,Annual,1,3400.97,High,High,Mature,1
+MI-00300,2024-04-03,26,Utility,14,NSW,26670,0,0,1915.48,Comprehensive,Monthly,0,0.0,Medium,High,Young,0
+MI-00301,2025-09-26,60,Hatchback,6,QLD,10288,8,1,975.1,Third Party,Annual,0,0.0,Low,Medium,Mature,1
+MI-00302,2025-06-18,66,Hatchback,14,NSW,16269,3,1,1232.53,Fire and Theft,Annual,0,0.0,Medium,Medium,Mature,1
+MI-00303,2025-02-06,27,Sedan,5,VIC,20670,4,0,1076.83,Comprehensive,Annual,0,0.0,Low,High,Young,0
+MI-00304,2025-11-05,73,Utility,10,NSW,3237,8,0,943.2,Third Party,Monthly,0,0.0,Low,Low,Mature,0
+MI-00305,2024-06-30,53,Sedan,15,NSW,15286,4,0,981.75,Fire and Theft,Monthly,0,0.0,Low,Medium,Mature,0
+MI-00306,2024-09-11,32,Utility,4,NSW,11129,3,1,1389.23,Comprehensive,Monthly,0,0.0,Low,Medium,Middle,1
+MI-00307,2024-11-17,42,Van,14,WA,21705,9,0,1229.48,Third Party,Monthly,0,0.0,Low,High,Middle,0
+MI-00308,2024-07-01,56,Hatchback,6,NSW,13802,9,0,711.93,Third Party,Quarterly,0,0.0,Low,Medium,Mature,0
+MI-00309,2025-06-30,65,Hatchback,3,QLD,8054,10,0,642.91,Third Party,Quarterly,0,0.0,Low,Low,Mature,0
+MI-00310,2024-10-20,75,SUV,0,VIC,19596,7,0,900.03,Third Party,Annual,0,0.0,Low,Medium,Mature,0
+MI-00311,2024-08-17,30,Utility,9,NSW,10077,5,0,929.66,Third Party,Monthly,0,0.0,Low,Medium,Middle,0
+MI-00312,2024-02-25,56,SUV,9,QLD,22096,4,1,1312.84,Third Party,Quarterly,1,1647.18,Medium,High,Mature,1
+MI-00313,2024-07-17,70,Utility,14,WA,24621,6,1,1868.21,Comprehensive,Monthly,0,0.0,Medium,High,Mature,1
+MI-00314,2025-08-21,32,Van,2,NSW,19596,4,0,1315.68,Comprehensive,Annual,0,0.0,Low,Medium,Middle,0
+MI-00315,2025-08-09,21,SUV,4,NSW,23895,8,0,1241.28,Third Party,Annual,0,0.0,Low,High,Young,0
+MI-00316,2024-12-23,25,Utility,10,VIC,23595,8,0,1498.43,Comprehensive,Annual,0,0.0,Low,High,Young,0
+MI-00317,2024-01-10,34,Hatchback,10,VIC,18140,5,4,1847.81,Third Party,Quarterly,1,3426.1,High,Medium,Middle,1
+MI-00318,2024-10-16,62,Hatchback,7,SA,13648,9,2,1616.09,Comprehensive,Monthly,1,4422.96,Low,Medium,Mature,1
+MI-00319,2025-07-04,53,Utility,14,VIC,13285,3,0,1522.9,Comprehensive,Quarterly,0,0.0,Low,Medium,Mature,0
+MI-00320,2025-10-24,61,Sedan,6,WA,13293,5,0,862.33,Fire and Theft,Monthly,0,0.0,Low,Medium,Mature,0
+MI-00321,2024-08-21,25,Utility,4,NSW,15626,0,0,1489.64,Comprehensive,Annual,0,0.0,Low,Medium,Young,0
+MI-00322,2025-08-22,47,SUV,12,VIC,25667,5,0,1607.12,Comprehensive,Monthly,1,7314.48,Low,High,Middle,0
+MI-00323,2024-08-13,53,Sedan,9,QLD,13076,4,1,1539.31,Comprehensive,Annual,1,1914.94,Low,Medium,Mature,1
+MI-00324,2025-07-22,55,SUV,4,NSW,28782,9,0,1070.58,Fire and Theft,Annual,0,0.0,Low,High,Mature,0
+MI-00325,2025-10-23,23,Sedan,12,VIC,21236,7,1,2011.07,Comprehensive,Annual,0,0.0,Medium,High,Young,1
+MI-00326,2025-07-16,30,Sedan,7,QLD,15944,7,0,1157.53,Comprehensive,Monthly,0,0.0,Low,Medium,Middle,0
+MI-00327,2024-10-18,56,Sedan,2,NSW,18779,10,0,849.93,Third Party,Annual,0,0.0,Low,Medium,Mature,0
+MI-00328,2024-06-21,33,SUV,14,VIC,10613,1,0,1098.11,Third Party,Quarterly,1,2393.43,Low,Medium,Middle,0
+MI-00329,2025-07-18,68,Hatchback,8,WA,23019,9,0,1336.09,Comprehensive,Annual,0,0.0,Low,High,Mature,0
+MI-00330,2024-01-20,62,Hatchback,8,WA,21153,3,1,1575.29,Comprehensive,Annual,0,0.0,Medium,High,Mature,1
+MI-00331,2024-06-01,61,Sedan,12,QLD,16411,2,1,1645.33,Comprehensive,Monthly,0,0.0,Medium,Medium,Mature,1
+MI-00332,2025-09-20,35,Van,9,NSW,13167,4,0,1322.84,Comprehensive,Quarterly,0,0.0,Low,Medium,Middle,0
+MI-00333,2024-02-11,69,SUV,14,NSW,8323,9,0,983.11,Third Party,Quarterly,0,0.0,Low,Low,Mature,0
+MI-00334,2024-02-17,52,Sedan,8,VIC,20265,9,0,1234.64,Comprehensive,Monthly,1,4505.69,Low,High,Mature,0
+MI-00335,2024-03-20,54,Hatchback,8,WA,15318,1,0,1388.77,Comprehensive,Monthly,0,0.0,Low,Medium,Mature,0
+MI-00336,2024-05-22,45,Van,7,VIC,8123,5,0,1280.99,Comprehensive,Monthly,0,0.0,Low,Low,Middle,0
+MI-00337,2024-04-26,35,Sedan,8,NSW,18380,7,0,1242.27,Comprehensive,Monthly,0,0.0,Low,Medium,Middle,0
+MI-00338,2025-08-09,51,SUV,5,QLD,11883,1,0,1402.33,Comprehensive,Monthly,0,0.0,Low,Medium,Mature,0
+MI-00339,2024-03-28,31,Sedan,5,VIC,3000,6,1,937.23,Third Party,Monthly,0,0.0,Low,Low,Middle,1
+MI-00340,2024-09-27,59,Van,15,NSW,20261,8,1,1801.99,Comprehensive,Monthly,1,4373.8,Medium,High,Mature,1
+MI-00341,2025-09-21,45,SUV,3,NSW,3000,7,1,1278.86,Comprehensive,Annual,0,0.0,Low,Low,Middle,1
+MI-00342,2025-03-17,71,Hatchback,3,NSW,8448,5,0,629.56,Fire and Theft,Monthly,0,0.0,Low,Low,Mature,0
+MI-00343,2025-08-12,44,Utility,13,NSW,19703,4,0,1038.53,Third Party,Monthly,1,1478.91,Low,Medium,Middle,0
+MI-00344,2024-04-30,35,Van,2,NSW,20763,2,0,970.74,Third Party,Monthly,0,0.0,Low,High,Middle,0
+MI-00345,2025-09-18,45,Hatchback,10,VIC,21370,6,0,1327.17,Comprehensive,Monthly,0,0.0,Low,High,Middle,0
+MI-00346,2024-12-18,64,SUV,6,VIC,17571,4,0,1259.74,Comprehensive,Annual,0,0.0,Low,Medium,Mature,0
+MI-00347,2025-07-17,46,Utility,3,QLD,6485,1,0,1272.53,Comprehensive,Annual,0,0.0,Low,Low,Middle,0
+MI-00348,2024-09-26,64,Hatchback,5,VIC,8283,8,0,882.8,Comprehensive,Annual,0,0.0,Low,Low,Mature,0
+MI-00349,2024-06-28,26,Hatchback,12,SA,8293,3,2,1741.92,Comprehensive,Monthly,0,0.0,Medium,Low,Young,1
+MI-00350,2025-11-01,49,Sedan,9,NSW,17645,7,0,829.48,Third Party,Annual,1,6350.42,Low,Medium,Middle,0
+MI-00351,2024-12-22,46,SUV,6,VIC,15798,0,0,1131.91,Third Party,Quarterly,0,0.0,Low,Medium,Middle,0
+MI-00352,2024-12-14,73,Sedan,6,VIC,15483,1,0,1277.14,Comprehensive,Monthly,0,0.0,Low,Medium,Mature,0
+MI-00353,2024-12-13,72,SUV,8,WA,19285,7,2,1898.47,Comprehensive,Monthly,0,0.0,Medium,Medium,Mature,1
+MI-00354,2025-02-26,50,Hatchback,0,VIC,15686,8,0,762.19,Third Party,Monthly,0,0.0,Low,Medium,Middle,0
+MI-00355,2024-12-28,54,Hatchback,8,NSW,24113,8,0,1075.04,Fire and Theft,Monthly,0,0.0,Low,High,Mature,0
+MI-00356,2025-09-25,57,Sedan,6,VIC,19296,9,0,1245.64,Comprehensive,Annual,0,0.0,Low,Medium,Mature,0
+MI-00357,2025-09-27,70,Sedan,2,QLD,11359,8,0,869.7,Comprehensive,Monthly,0,0.0,Low,Medium,Mature,0
+MI-00358,2025-03-09,57,Utility,15,NSW,16695,4,1,1743.92,Comprehensive,Monthly,0,0.0,Medium,Medium,Mature,1
+MI-00359,2024-01-13,55,Sedan,11,VIC,14430,10,0,1171.66,Comprehensive,Monthly,0,0.0,Low,Medium,Mature,0
+MI-00360,2024-07-07,45,Hatchback,10,VIC,18704,2,0,1041.59,Fire and Theft,Annual,0,0.0,Low,Medium,Middle,0
+MI-00361,2024-10-03,34,SUV,11,VIC,10227,6,3,1645.93,Third Party,Monthly,0,0.0,Medium,Medium,Middle,1
+MI-00362,2025-10-07,56,SUV,12,NSW,19292,5,0,1409.46,Comprehensive,Annual,0,0.0,Low,Medium,Mature,0
+MI-00363,2025-05-02,67,SUV,15,NSW,8213,4,0,1361.44,Comprehensive,Monthly,0,0.0,Low,Low,Mature,0
+MI-00364,2025-11-26,27,SUV,10,NSW,10696,8,0,1361.3,Comprehensive,Annual,0,0.0,Low,Medium,Young,0
+MI-00365,2025-09-20,33,Hatchback,5,SA,14756,5,1,1393.67,Comprehensive,Annual,0,0.0,Low,Medium,Middle,1
+MI-00366,2024-12-17,61,Van,5,QLD,22130,6,0,1071.82,Fire and Theft,Annual,0,0.0,Low,High,Mature,0
+MI-00367,2025-04-06,41,Hatchback,8,QLD,5235,8,2,1217.05,Third Party,Monthly,0,0.0,Low,Low,Middle,1
+MI-00368,2024-03-06,32,Utility,4,QLD,7893,7,0,1004.89,Comprehensive,Annual,0,0.0,Low,Low,Middle,0
+MI-00369,2025-02-03,51,Hatchback,0,QLD,3000,1,0,898.65,Comprehensive,Quarterly,0,0.0,Low,Low,Mature,0
+MI-00370,2025-05-02,36,Utility,14,QLD,24424,0,0,1477.23,Third Party,Annual,0,0.0,Medium,High,Middle,0
+MI-00371,2025-03-21,55,Van,14,NSW,23672,6,0,1174.29,Third Party,Quarterly,0,0.0,Low,High,Mature,0
+MI-00372,2025-06-19,61,Hatchback,11,VIC,16403,3,0,1258.61,Comprehensive,Annual,0,0.0,Low,Medium,Mature,0
+MI-00373,2024-10-26,75,Sedan,9,VIC,30665,10,0,1423.96,Comprehensive,Annual,0,0.0,Low,High,Mature,0
+MI-00374,2024-08-13,71,Sedan,11,NSW,21144,2,1,1643.31,Comprehensive,Monthly,0,0.0,Medium,High,Mature,1
+MI-00375,2025-10-14,48,Hatchback,8,NSW,15474,4,1,1330.63,Comprehensive,Annual,0,0.0,Low,Medium,Middle,1
+MI-00376,2025-03-24,49,Sedan,15,NSW,18058,5,0,1361.17,Comprehensive,Annual,0,0.0,Low,Medium,Middle,0
+MI-00377,2024-12-04,35,Sedan,0,VIC,12933,8,4,2085.33,Comprehensive,Monthly,1,6486.96,Medium,Medium,Middle,1
+MI-00378,2024-09-11,38,Utility,2,VIC,21758,2,0,1486.14,Comprehensive,Quarterly,0,0.0,Low,High,Middle,0
+MI-00379,2024-11-26,49,Sedan,1,NSW,15734,7,0,956.86,Comprehensive,Quarterly,0,0.0,Low,Medium,Middle,0
+MI-00380,2025-10-10,67,Sedan,3,NSW,13211,9,1,1244.43,Comprehensive,Annual,0,0.0,Low,Medium,Mature,1
+MI-00381,2024-06-07,21,Sedan,8,VIC,12151,10,0,1037.26,Third Party,Monthly,0,0.0,Low,Medium,Young,0
+MI-00382,2025-07-03,26,Sedan,15,NSW,4960,10,0,1060.62,Comprehensive,Monthly,0,0.0,Low,Low,Young,0
+MI-00383,2025-01-01,29,SUV,10,SA,18622,8,0,1345.9,Comprehensive,Monthly,0,0.0,Low,Medium,Young,0
+MI-00384,2025-04-24,37,Van,15,QLD,8421,5,0,1366.98,Comprehensive,Annual,0,0.0,Low,Low,Middle,0
+MI-00385,2025-01-23,74,Hatchback,5,NSW,19058,3,0,1170.33,Comprehensive,Monthly,0,0.0,Low,Medium,Mature,0
+MI-00386,2025-05-24,22,Hatchback,11,QLD,16731,7,0,1638.09,Comprehensive,Monthly,0,0.0,Low,Medium,Young,0
+MI-00387,2024-02-02,30,Hatchback,10,VIC,14721,7,0,969.04,Fire and Theft,Annual,0,0.0,Low,Medium,Middle,0
+MI-00388,2025-09-12,52,Sedan,1,VIC,20913,5,0,996.09,Comprehensive,Annual,0,0.0,Low,High,Mature,0
+MI-00389,2025-03-01,21,Van,6,QLD,27057,5,0,1798.73,Comprehensive,Monthly,0,0.0,Medium,High,Young,0
+MI-00390,2024-08-24,71,Hatchback,8,VIC,14785,0,0,1295.36,Comprehensive,Annual,0,0.0,Low,Medium,Mature,0
+MI-00391,2025-11-21,33,Sedan,7,VIC,23862,6,1,1119.57,Third Party,Monthly,0,0.0,Low,High,Middle,1
+MI-00392,2024-12-26,63,SUV,3,NSW,18789,3,0,1065.11,Fire and Theft,Annual,0,0.0,Low,Medium,Mature,0
+MI-00393,2025-01-19,56,Van,10,WA,8154,8,0,1306.86,Comprehensive,Monthly,0,0.0,Low,Low,Mature,0
+MI-00394,2024-11-05,68,Sedan,14,VIC,7648,10,0,1219.44,Comprehensive,Quarterly,1,1283.89,Low,Low,Mature,0
+MI-00395,2024-11-03,65,Utility,4,NSW,12329,3,1,1479.33,Comprehensive,Annual,1,796.33,Low,Medium,Mature,1
+MI-00396,2024-11-03,67,Sedan,10,WA,21658,7,0,1127.67,Fire and Theft,Monthly,1,6915.22,Low,High,Mature,0
+MI-00397,2025-09-08,70,Sedan,10,VIC,18762,9,1,1480.36,Comprehensive,Monthly,0,0.0,Low,Medium,Mature,1
+MI-00398,2025-11-20,61,Utility,12,NSW,10365,6,0,993.02,Third Party,Annual,0,0.0,Low,Medium,Mature,0
+MI-00399,2025-02-12,46,Van,2,NSW,14389,1,0,1401.57,Comprehensive,Annual,0,0.0,Low,Medium,Middle,0
+MI-00400,2025-06-20,46,SUV,4,QLD,11711,4,0,1182.29,Comprehensive,Quarterly,0,0.0,Low,Medium,Middle,0
+MI-00401,2025-08-31,25,Sedan,13,VIC,18502,7,0,1306.7,Comprehensive,Annual,0,0.0,Low,Medium,Young,0
+MI-00402,2025-01-17,70,SUV,11,QLD,23010,1,0,1260.45,Third Party,Annual,1,5021.97,Medium,High,Mature,0
+MI-00403,2024-08-02,68,Sedan,4,WA,16461,7,0,1057.6,Comprehensive,Annual,0,0.0,Low,Medium,Mature,0
+MI-00404,2025-06-23,34,Sedan,8,VIC,3000,7,0,825.17,Comprehensive,Quarterly,1,2013.35,Low,Low,Middle,0
+MI-00405,2024-04-20,71,Hatchback,8,NSW,15526,4,0,844.43,Third Party,Monthly,1,14021.97,Low,Medium,Mature,0
+MI-00406,2024-01-23,35,Van,3,WA,7276,0,0,1083.15,Fire and Theft,Monthly,1,7955.85,Low,Low,Middle,0
+MI-00407,2024-03-04,52,SUV,5,NSW,13556,3,4,1845.67,Fire and Theft,Annual,0,0.0,High,Medium,Mature,1
+MI-00408,2025-06-17,45,Van,0,SA,20412,3,0,1209.31,Comprehensive,Monthly,0,0.0,Low,High,Middle,0
+MI-00409,2025-10-30,60,Utility,7,VIC,9852,3,0,1195.06,Comprehensive,Annual,0,0.0,Low,Low,Mature,0
+MI-00410,2024-05-28,55,Hatchback,6,WA,12319,5,0,918.01,Fire and Theft,Quarterly,0,0.0,Low,Medium,Mature,0
+MI-00411,2024-11-22,57,Van,10,NSW,5858,2,1,1582.12,Comprehensive,Annual,0,0.0,Medium,Low,Mature,1
+MI-00412,2024-07-08,47,Van,9,VIC,28599,9,0,1118.07,Third Party,Annual,1,5169.45,Low,High,Middle,0
+MI-00413,2025-01-31,59,Sedan,0,VIC,13197,5,0,620.45,Third Party,Annual,0,0.0,Low,Medium,Mature,0
+MI-00414,2024-07-28,29,Sedan,7,NSW,16103,3,0,829.71,Third Party,Quarterly,1,9192.12,Low,Medium,Young,0
+MI-00415,2025-08-08,41,Utility,7,VIC,17458,8,1,1553.17,Comprehensive,Quarterly,0,0.0,Low,Medium,Middle,1
+MI-00416,2024-02-10,54,Hatchback,1,VIC,4382,0,4,2225.38,Comprehensive,Annual,0,0.0,High,Low,Mature,1
+MI-00417,2024-02-25,54,Utility,1,NSW,3459,8,0,1013.69,Comprehensive,Annual,0,0.0,Low,Low,Mature,0
+MI-00418,2024-11-27,30,SUV,14,NSW,11907,6,1,1707.45,Comprehensive,Annual,0,0.0,Low,Medium,Middle,1
+MI-00419,2024-04-03,32,SUV,6,WA,20853,6,0,1400.75,Comprehensive,Monthly,0,0.0,Low,High,Middle,0
+MI-00420,2024-06-23,49,Hatchback,2,VIC,7415,5,2,1502.5,Comprehensive,Annual,0,0.0,Low,Low,Middle,1
+MI-00421,2024-10-22,57,Utility,4,NSW,22843,0,0,1275.39,Third Party,Quarterly,0,0.0,Medium,High,Mature,0
+MI-00422,2025-05-20,28,Van,6,NSW,16098,5,0,952.6,Third Party,Monthly,0,0.0,Low,Medium,Young,0
+MI-00423,2024-07-31,58,Hatchback,14,VIC,23727,2,0,1549.96,Comprehensive,Monthly,1,987.05,Medium,High,Mature,0
+MI-00424,2025-11-19,23,Sedan,1,QLD,18874,9,0,1250.67,Comprehensive,Annual,0,0.0,Low,Medium,Young,0
+MI-00425,2024-03-10,63,Hatchback,5,SA,15974,0,1,1577.05,Comprehensive,Quarterly,0,0.0,Medium,Medium,Mature,1
+MI-00426,2024-02-29,74,Hatchback,9,VIC,25273,3,0,1405.71,Comprehensive,Annual,1,8076.09,Low,High,Mature,0
+MI-00427,2025-05-23,26,SUV,9,VIC,18905,6,0,1097.92,Fire and Theft,Monthly,0,0.0,Low,Medium,Young,0
+MI-00428,2024-07-31,61,SUV,5,WA,16583,2,0,1414.19,Comprehensive,Monthly,0,0.0,Low,Medium,Mature,0
+MI-00429,2024-11-03,47,SUV,10,VIC,17548,6,0,1382.61,Comprehensive,Annual,0,0.0,Low,Medium,Middle,0
+MI-00430,2024-12-12,41,Utility,3,QLD,10333,6,0,1205.44,Comprehensive,Annual,0,0.0,Low,Medium,Middle,0
+MI-00431,2025-02-27,51,Van,1,QLD,6930,9,0,1036.53,Comprehensive,Monthly,0,0.0,Low,Low,Mature,0
+MI-00432,2024-12-28,24,Utility,9,VIC,12392,0,0,1904.12,Comprehensive,Quarterly,1,2614.29,Medium,Medium,Young,0
+MI-00433,2024-03-29,55,Utility,12,NSW,24427,3,1,1443.47,Third Party,Annual,0,0.0,Medium,High,Mature,1
+MI-00434,2024-01-26,36,SUV,9,NSW,14976,8,1,1334.05,Fire and Theft,Annual,0,0.0,Low,Medium,Middle,1
+MI-00435,2025-06-12,53,Sedan,10,SA,15128,8,0,885.49,Fire and Theft,Monthly,0,0.0,Low,Medium,Mature,0
+MI-00436,2024-03-30,29,Sedan,1,VIC,14212,0,2,1258.42,Third Party,Monthly,0,0.0,Medium,Medium,Young,1
+MI-00437,2025-03-27,23,Sedan,9,NSW,16494,2,0,1516.18,Comprehensive,Monthly,0,0.0,Medium,Medium,Young,0
+MI-00438,2024-10-17,38,Sedan,8,NSW,24040,1,0,1443.1,Comprehensive,Annual,0,0.0,Low,High,Middle,0
+MI-00439,2025-02-05,31,Sedan,10,VIC,17497,9,0,1232.63,Comprehensive,Annual,0,0.0,Low,Medium,Middle,0
+MI-00440,2025-04-21,59,Van,14,QLD,11416,7,0,1509.87,Comprehensive,Quarterly,0,0.0,Low,Medium,Mature,0
+MI-00441,2025-09-23,26,Utility,14,NSW,12537,8,0,1220.91,Fire and Theft,Annual,0,0.0,Low,Medium,Young,0
+MI-00442,2024-06-23,44,SUV,10,QLD,21280,0,0,1701.28,Comprehensive,Monthly,0,0.0,Medium,High,Middle,0
+MI-00443,2025-04-17,43,Hatchback,4,VIC,7465,1,0,1144.26,Comprehensive,Annual,0,0.0,Low,Low,Middle,0
+MI-00444,2025-03-21,47,Sedan,7,VIC,22310,3,1,1508.18,Comprehensive,Monthly,0,0.0,Medium,High,Middle,1
+MI-00445,2024-11-29,42,Hatchback,7,NSW,10841,7,1,1252.29,Comprehensive,Monthly,0,0.0,Low,Medium,Middle,1
+MI-00446,2025-11-07,73,SUV,9,SA,18825,8,1,1709.34,Comprehensive,Monthly,1,2510.03,Low,Medium,Mature,1
+MI-00447,2024-11-20,58,Van,0,QLD,12207,3,0,1037.57,Comprehensive,Annual,0,0.0,Low,Medium,Mature,0
+MI-00448,2025-06-06,71,Van,9,SA,25531,9,3,2339.9,Comprehensive,Monthly,0,0.0,Medium,High,Mature,1
+MI-00449,2024-02-01,29,Utility,1,VIC,13952,7,1,1419.33,Comprehensive,Quarterly,0,0.0,Low,Medium,Young,1
+MI-00450,2025-01-03,65,Hatchback,10,QLD,10228,2,0,1231.17,Comprehensive,Monthly,0,0.0,Low,Medium,Mature,0
+MI-00451,2024-03-27,30,SUV,4,NSW,17041,7,0,1268.53,Comprehensive,Quarterly,0,0.0,Low,Medium,Middle,0
+MI-00452,2025-01-28,72,SUV,14,WA,10952,6,0,1289.08,Comprehensive,Monthly,0,0.0,Low,Medium,Mature,0
+MI-00453,2024-02-08,32,SUV,0,VIC,18730,5,0,1161.25,Comprehensive,Annual,0,0.0,Low,Medium,Middle,0
+MI-00454,2025-06-13,66,SUV,15,SA,25217,5,1,1485.52,Third Party,Annual,1,3336.85,Medium,High,Mature,1
+MI-00455,2024-12-05,63,Sedan,9,QLD,22612,0,0,1201.45,Fire and Theft,Monthly,0,0.0,Medium,High,Mature,0
+MI-00456,2024-06-22,72,SUV,5,NSW,25568,7,0,1384.07,Comprehensive,Monthly,0,0.0,Low,High,Mature,0
+MI-00457,2024-09-20,63,Van,0,NSW,22701,8,0,1291.1,Comprehensive,Annual,1,1987.17,Low,High,Mature,0
+MI-00458,2024-03-27,58,Utility,14,VIC,21129,2,0,1746.95,Comprehensive,Annual,0,0.0,Medium,High,Mature,0
+MI-00459,2025-08-14,59,Van,4,WA,16116,4,0,868.63,Third Party,Annual,0,0.0,Low,Medium,Mature,0
+MI-00460,2025-06-29,43,Sedan,8,QLD,18936,4,0,913.42,Third Party,Monthly,0,0.0,Low,Medium,Middle,0
+MI-00461,2025-06-26,64,Hatchback,15,NSW,9183,3,1,1487.6,Comprehensive,Annual,0,0.0,Medium,Low,Mature,1
+MI-00462,2025-11-01,23,Sedan,11,SA,3000,9,0,1323.5,Comprehensive,Annual,0,0.0,Low,Low,Young,0
+MI-00463,2025-11-19,50,Utility,7,QLD,12367,3,0,1242.28,Comprehensive,Monthly,1,1416.31,Low,Medium,Middle,0
+MI-00464,2024-08-10,54,Sedan,14,VIC,15233,0,0,1510.83,Comprehensive,Monthly,0,0.0,Medium,Medium,Mature,0
+MI-00465,2024-04-23,61,Sedan,3,NSW,11004,8,0,673.39,Third Party,Annual,0,0.0,Low,Medium,Mature,0
+MI-00466,2024-06-14,37,SUV,2,QLD,20623,4,1,1132.82,Third Party,Annual,0,0.0,Low,High,Middle,1
+MI-00467,2024-07-24,38,Utility,12,VIC,21022,8,0,1522.08,Comprehensive,Quarterly,0,0.0,Low,High,Middle,0
+MI-00468,2024-03-15,32,Hatchback,3,NSW,16535,6,1,944.08,Third Party,Annual,1,14246.52,Low,Medium,Middle,1
+MI-00469,2024-01-04,22,Van,4,QLD,17805,4,0,1595.88,Comprehensive,Annual,0,0.0,Low,Medium,Young,0
+MI-00470,2025-05-08,70,SUV,13,VIC,14344,0,0,1602.9,Comprehensive,Monthly,1,2677.42,Medium,Medium,Mature,0
+MI-00471,2025-07-21,24,Hatchback,2,VIC,19583,8,1,1649.24,Comprehensive,Annual,1,3183.61,Low,Medium,Young,1
+MI-00472,2025-08-30,65,SUV,3,QLD,14264,6,1,1496.39,Comprehensive,Annual,0,0.0,Low,Medium,Mature,1
+MI-00473,2024-02-13,45,Sedan,9,VIC,27592,10,0,1345.73,Comprehensive,Annual,0,0.0,Low,High,Middle,0
+MI-00474,2025-05-15,34,Utility,14,SA,21525,7,0,1530.24,Comprehensive,Monthly,0,0.0,Low,High,Middle,0
+MI-00475,2025-09-17,51,Van,1,NSW,15343,6,1,1064.59,Third Party,Annual,0,0.0,Low,Medium,Mature,1
+MI-00476,2025-11-25,58,Sedan,3,NSW,8565,0,0,1134.16,Comprehensive,Monthly,0,0.0,Low,Low,Mature,0
+MI-00477,2025-03-01,28,Van,4,VIC,20391,0,0,1573.4,Comprehensive,Annual,1,2979.68,Low,High,Young,0
+MI-00478,2024-01-08,36,Van,1,NSW,18345,4,0,894.78,Fire and Theft,Annual,0,0.0,Low,Medium,Middle,0
+MI-00479,2025-02-25,26,Hatchback,9,VIC,19948,7,0,1155.3,Comprehensive,Monthly,0,0.0,Low,Medium,Young,0
+MI-00480,2025-07-25,32,Hatchback,1,QLD,14169,0,1,1428.5,Comprehensive,Annual,0,0.0,Low,Medium,Middle,1
+MI-00481,2024-02-24,28,Van,3,QLD,28438,5,0,1301.73,Comprehensive,Annual,0,0.0,Low,High,Young,0
+MI-00482,2025-09-23,71,Sedan,15,VIC,23899,0,0,1821.88,Comprehensive,Annual,0,0.0,Medium,High,Mature,0
+MI-00483,2025-03-31,69,SUV,3,QLD,19600,8,0,1265.86,Comprehensive,Quarterly,0,0.0,Low,Medium,Mature,0
+MI-00484,2024-03-16,41,SUV,10,NSW,19598,2,0,1564.47,Comprehensive,Quarterly,0,0.0,Low,Medium,Middle,0
+MI-00485,2024-10-03,52,Sedan,13,NSW,22438,4,0,996.73,Third Party,Monthly,0,0.0,Low,High,Mature,0
+MI-00486,2024-06-09,29,Sedan,1,NSW,21573,4,1,1398.86,Comprehensive,Annual,0,0.0,Low,High,Young,1
+MI-00487,2025-04-29,61,Van,5,VIC,11559,4,0,875.78,Third Party,Annual,0,0.0,Low,Medium,Mature,0
+MI-00488,2025-08-10,38,Sedan,13,QLD,16121,6,1,1611.52,Comprehensive,Annual,0,0.0,Low,Medium,Middle,1
+MI-00489,2024-04-10,47,Van,1,SA,15202,4,0,795.62,Third Party,Monthly,0,0.0,Low,Medium,Middle,0
+MI-00490,2025-11-16,36,Sedan,0,QLD,12203,4,0,741.11,Fire and Theft,Annual,0,0.0,Low,Medium,Middle,0
+MI-00491,2025-10-10,66,SUV,0,SA,12540,7,0,882.1,Fire and Theft,Monthly,1,4751.82,Low,Medium,Mature,0
+MI-00492,2025-09-27,65,SUV,1,NSW,16182,6,0,1092.35,Comprehensive,Monthly,0,0.0,Low,Medium,Mature,0
+MI-00493,2024-03-09,68,Van,11,WA,20753,6,0,1528.19,Comprehensive,Monthly,0,0.0,Low,High,Mature,0
+MI-00494,2024-08-18,70,Sedan,10,NSW,21607,10,0,1077.1,Fire and Theft,Annual,0,0.0,Low,High,Mature,0
+MI-00495,2025-11-25,38,SUV,13,NSW,21513,5,0,1575.04,Comprehensive,Monthly,0,0.0,Low,High,Middle,0
+MI-00496,2024-03-23,39,SUV,11,WA,27133,10,0,1244.61,Fire and Theft,Monthly,0,0.0,Low,High,Middle,0
+MI-00497,2024-10-27,32,SUV,2,NSW,14369,5,1,1539.75,Comprehensive,Monthly,0,0.0,Low,Medium,Middle,1
+MI-00498,2025-06-16,64,Hatchback,4,VIC,6676,0,0,1213.89,Comprehensive,Monthly,0,0.0,Low,Low,Mature,0
+MI-00499,2024-11-09,47,Hatchback,10,VIC,11970,6,0,1080.54,Comprehensive,Quarterly,0,0.0,Low,Medium,Middle,0
+MI-00500,2025-07-02,37,Sedan,11,SA,16250,4,0,1215.56,Comprehensive,Quarterly,0,0.0,Low,Medium,Middle,0
+MI-00501,2024-02-05,32,Utility,4,NSW,31373,6,0,1613.94,Comprehensive,Annual,0,0.0,Low,High,Middle,0
+MI-00502,2025-04-14,43,Sedan,14,VIC,18874,9,0,1387.71,Comprehensive,Annual,0,0.0,Low,Medium,Middle,0
+MI-00503,2025-08-01,30,Sedan,10,QLD,12095,10,1,1251.8,Fire and Theft,Monthly,0,0.0,Low,Medium,Middle,1
+MI-00504,2025-04-01,49,SUV,3,QLD,18884,6,0,1252.13,Comprehensive,Monthly,0,0.0,Low,Medium,Middle,0
+MI-00505,2025-11-18,41,Sedan,6,VIC,18651,3,0,1276.82,Comprehensive,Annual,0,0.0,Low,Medium,Middle,0
+MI-00506,2025-01-13,53,SUV,15,NSW,3695,9,0,1234.52,Comprehensive,Quarterly,0,0.0,Low,Low,Mature,0
+MI-00507,2025-03-29,21,SUV,11,NSW,8141,2,1,1562.03,Third Party,Annual,0,0.0,Medium,Low,Young,1
+MI-00508,2025-06-21,72,Hatchback,13,QLD,5402,6,0,1159.06,Comprehensive,Quarterly,0,0.0,Low,Low,Mature,0
+MI-00509,2024-05-20,25,Van,12,NSW,3857,4,0,987.98,Third Party,Monthly,0,0.0,Low,Low,Young,0
+MI-00510,2024-01-03,74,SUV,15,NSW,21683,3,0,1514.18,Comprehensive,Annual,1,1780.59,Medium,High,Mature,0
+MI-00511,2024-03-09,61,SUV,9,VIC,6094,2,0,1300.45,Comprehensive,Quarterly,0,0.0,Low,Low,Mature,0
+MI-00512,2024-09-22,44,Hatchback,13,WA,10873,7,0,1149.0,Comprehensive,Monthly,0,0.0,Low,Medium,Middle,0
+MI-00513,2024-10-23,24,Sedan,14,WA,18557,3,0,1367.53,Fire and Theft,Annual,0,0.0,Medium,Medium,Young,0
+MI-00514,2024-11-04,61,Van,6,QLD,17179,7,0,1074.46,Fire and Theft,Monthly,0,0.0,Low,Medium,Mature,0
+MI-00515,2024-06-15,65,Hatchback,3,VIC,13841,1,0,894.69,Third Party,Annual,1,2057.73,Low,Medium,Mature,0
+MI-00516,2024-05-22,33,Utility,3,VIC,18796,1,0,1430.11,Comprehensive,Monthly,0,0.0,Low,Medium,Middle,0
+MI-00517,2024-11-10,59,SUV,10,NSW,12382,1,0,1204.13,Third Party,Monthly,1,11348.05,Low,Medium,Mature,0
+MI-00518,2024-09-16,25,Sedan,15,QLD,18994,8,0,1381.14,Comprehensive,Annual,1,5001.95,Low,Medium,Young,0
+MI-00519,2025-09-19,33,Sedan,11,NSW,22567,3,0,1407.05,Comprehensive,Quarterly,0,0.0,Low,High,Middle,0
+MI-00520,2024-08-07,57,Sedan,0,VIC,12423,1,1,1223.54,Comprehensive,Monthly,0,0.0,Low,Medium,Mature,1
+MI-00521,2025-06-10,75,Hatchback,11,QLD,19855,1,1,1475.51,Fire and Theft,Annual,1,6938.19,Medium,Medium,Mature,1
+MI-00522,2024-10-24,23,Sedan,15,NSW,14154,3,2,2401.33,Comprehensive,Monthly,0,0.0,High,Medium,Young,1
+MI-00523,2025-02-09,48,Sedan,2,WA,20975,4,0,684.59,Third Party,Monthly,0,0.0,Low,High,Middle,0
+MI-00524,2024-07-22,63,Hatchback,3,NSW,8952,1,2,1372.91,Fire and Theft,Annual,0,0.0,Medium,Low,Mature,1
+MI-00525,2025-10-21,59,Utility,12,NSW,21492,3,0,1455.57,Comprehensive,Annual,0,0.0,Medium,High,Mature,0
+MI-00526,2024-05-17,43,SUV,12,SA,12338,5,0,1380.25,Comprehensive,Annual,1,22094.68,Low,Medium,Middle,0
+MI-00527,2025-05-19,52,Hatchback,5,VIC,14389,6,0,1028.02,Comprehensive,Monthly,0,0.0,Low,Medium,Mature,0
+MI-00528,2025-03-16,33,SUV,15,VIC,15563,9,0,1256.43,Fire and Theft,Annual,0,0.0,Low,Medium,Middle,0
+MI-00529,2024-06-17,28,SUV,10,WA,14353,1,0,1147.49,Third Party,Quarterly,0,0.0,Low,Medium,Young,0
+MI-00530,2024-06-09,29,SUV,12,VIC,23533,7,0,1616.15,Comprehensive,Monthly,0,0.0,Low,High,Young,0
+MI-00531,2024-12-23,46,Sedan,12,QLD,5207,3,0,1199.16,Comprehensive,Monthly,0,0.0,Low,Low,Middle,0
+MI-00532,2024-11-15,58,Sedan,10,VIC,3000,4,0,1068.11,Comprehensive,Annual,0,0.0,Low,Low,Mature,0
+MI-00533,2025-03-07,65,Sedan,9,NSW,19903,0,0,1566.26,Comprehensive,Monthly,0,0.0,Medium,Medium,Mature,0
+MI-00534,2024-12-10,65,SUV,0,SA,11349,6,1,1396.37,Comprehensive,Monthly,0,0.0,Low,Medium,Mature,1
+MI-00535,2025-07-02,72,Utility,10,NSW,10744,2,0,1254.93,Fire and Theft,Annual,0,0.0,Low,Medium,Mature,0
+MI-00536,2025-08-03,37,Sedan,12,WA,4398,7,0,967.21,Comprehensive,Annual,0,0.0,Low,Low,Middle,0
+MI-00537,2025-02-15,51,SUV,11,WA,12804,8,0,1327.74,Comprehensive,Annual,0,0.0,Low,Medium,Mature,0
+MI-00538,2025-04-23,53,SUV,5,WA,10560,2,0,894.02,Third Party,Monthly,0,0.0,Low,Medium,Mature,0
+MI-00539,2024-11-03,61,Hatchback,13,SA,15665,2,0,1340.3,Comprehensive,Monthly,0,0.0,Low,Medium,Mature,0
+MI-00540,2024-09-01,47,SUV,2,QLD,18904,3,0,887.15,Third Party,Annual,0,0.0,Low,Medium,Middle,0
+MI-00541,2024-09-21,33,Sedan,9,VIC,9527,6,0,1053.42,Comprehensive,Annual,0,0.0,Low,Low,Middle,0
+MI-00542,2024-11-01,38,Hatchback,5,QLD,26043,8,0,1019.41,Fire and Theft,Annual,0,0.0,Low,High,Middle,0
+MI-00543,2025-11-11,47,Van,2,VIC,22686,2,0,1305.47,Comprehensive,Annual,0,0.0,Low,High,Middle,0
+MI-00544,2024-08-29,70,Van,8,VIC,23420,8,0,1125.02,Third Party,Monthly,0,0.0,Low,High,Mature,0
+MI-00545,2024-04-25,34,Sedan,5,NSW,14976,9,0,1121.79,Comprehensive,Monthly,0,0.0,Low,Medium,Middle,0
+MI-00546,2025-09-12,48,SUV,7,SA,27103,4,1,1232.38,Third Party,Annual,1,17717.78,Medium,High,Middle,1
+MI-00547,2024-08-30,24,Hatchback,7,NSW,9052,7,1,1257.81,Third Party,Monthly,0,0.0,Low,Low,Young,1
+MI-00548,2024-06-13,45,Sedan,12,SA,20784,9,1,1590.85,Comprehensive,Quarterly,0,0.0,Low,High,Middle,1
+MI-00549,2024-12-06,61,SUV,13,QLD,15600,8,0,1103.42,Third Party,Quarterly,0,0.0,Low,Medium,Mature,0
+MI-00550,2024-01-29,73,Sedan,5,QLD,9951,6,1,937.37,Third Party,Monthly,0,0.0,Low,Low,Mature,1
+MI-00551,2025-06-12,62,Hatchback,14,WA,20315,6,0,1413.3,Comprehensive,Annual,0,0.0,Low,High,Mature,0
+MI-00552,2025-08-30,70,Utility,4,WA,11470,3,0,779.92,Third Party,Annual,0,0.0,Low,Medium,Mature,0
+MI-00553,2025-07-25,72,SUV,2,VIC,21515,10,1,1673.97,Comprehensive,Quarterly,0,0.0,Low,High,Mature,1
+MI-00554,2024-04-01,61,Sedan,2,SA,19226,1,0,1318.58,Comprehensive,Annual,0,0.0,Low,Medium,Mature,0
+MI-00555,2024-07-27,31,Van,3,NSW,4947,9,1,1312.22,Comprehensive,Annual,0,0.0,Low,Low,Middle,1
+MI-00556,2024-07-12,73,Utility,9,QLD,10904,2,0,1057.29,Third Party,Monthly,0,0.0,Low,Medium,Mature,0
+MI-00557,2024-01-11,47,Utility,0,NSW,15332,9,0,920.04,Third Party,Monthly,0,0.0,Low,Medium,Middle,0
+MI-00558,2024-12-06,41,Van,12,QLD,13669,7,0,1319.97,Comprehensive,Annual,0,0.0,Low,Medium,Middle,0
+MI-00559,2024-02-12,51,Van,1,NSW,9636,10,0,1069.87,Comprehensive,Quarterly,0,0.0,Low,Low,Mature,0
+MI-00560,2024-02-15,37,Sedan,15,SA,18488,3,0,1345.7,Comprehensive,Annual,0,0.0,Low,Medium,Middle,0
+MI-00561,2024-11-16,52,Utility,8,QLD,20741,9,0,1032.84,Third Party,Annual,0,0.0,Low,High,Mature,0
+MI-00562,2024-08-23,31,SUV,15,QLD,23399,7,1,2005.7,Comprehensive,Annual,1,3656.4,Medium,High,Middle,1
+MI-00563,2024-05-06,50,SUV,15,NSW,9663,5,0,1113.73,Third Party,Quarterly,0,0.0,Low,Low,Middle,0
+MI-00564,2024-01-05,34,Utility,5,WA,15995,6,0,1169.34,Comprehensive,Quarterly,0,0.0,Low,Medium,Middle,0
+MI-00565,2025-01-17,57,Sedan,2,NSW,13107,3,0,770.64,Fire and Theft,Annual,0,0.0,Low,Medium,Mature,0
+MI-00566,2024-12-03,27,Utility,4,NSW,6121,5,0,1108.69,Comprehensive,Monthly,0,0.0,Low,Low,Young,0
+MI-00567,2025-10-21,62,Hatchback,14,VIC,14775,10,0,1192.61,Comprehensive,Annual,0,0.0,Low,Medium,Mature,0
+MI-00568,2024-01-22,72,Sedan,2,VIC,13706,2,0,770.94,Third Party,Annual,0,0.0,Low,Medium,Mature,0
+MI-00569,2024-11-13,31,SUV,12,NSW,16152,1,0,1539.63,Comprehensive,Monthly,0,0.0,Low,Medium,Middle,0
+MI-00570,2025-03-08,59,Sedan,3,WA,8484,9,0,907.27,Comprehensive,Annual,0,0.0,Low,Low,Mature,0
+MI-00571,2025-06-23,60,Sedan,13,NSW,3000,7,0,777.61,Third Party,Quarterly,0,0.0,Low,Low,Mature,0
+MI-00572,2025-06-19,54,Sedan,14,VIC,22183,1,0,1227.14,Fire and Theft,Monthly,0,0.0,Medium,High,Mature,0
+MI-00573,2024-12-29,57,Sedan,2,SA,8256,4,0,649.54,Third Party,Monthly,0,0.0,Low,Low,Mature,0
+MI-00574,2024-10-31,26,Utility,0,NSW,13843,2,0,1173.61,Comprehensive,Quarterly,0,0.0,Low,Medium,Young,0
+MI-00575,2025-09-10,67,SUV,14,QLD,14396,9,0,1607.25,Comprehensive,Monthly,0,0.0,Low,Medium,Mature,0
+MI-00576,2025-09-08,64,Sedan,0,NSW,18965,5,0,770.17,Third Party,Quarterly,0,0.0,Low,Medium,Mature,0
+MI-00577,2024-01-17,40,Hatchback,11,QLD,25486,8,0,1363.24,Comprehensive,Annual,0,0.0,Low,High,Middle,0
+MI-00578,2025-04-19,33,Utility,6,VIC,18960,8,1,1659.81,Comprehensive,Annual,0,0.0,Low,Medium,Middle,1
+MI-00579,2024-10-28,48,Sedan,5,WA,15503,5,0,1015.09,Comprehensive,Annual,0,0.0,Low,Medium,Middle,0
+MI-00580,2025-07-21,74,SUV,10,NSW,8987,10,1,1094.33,Third Party,Monthly,0,0.0,Low,Low,Mature,1
+MI-00581,2024-01-20,23,SUV,15,VIC,13584,9,1,2071.76,Comprehensive,Annual,0,0.0,Low,Medium,Young,1
+MI-00582,2024-01-22,41,Hatchback,8,WA,9614,5,2,1650.13,Comprehensive,Monthly,1,6963.01,Low,Low,Middle,1
+MI-00583,2025-02-03,49,Sedan,7,VIC,10170,9,1,1206.42,Comprehensive,Quarterly,0,0.0,Low,Medium,Middle,1
+MI-00584,2024-05-12,74,Van,11,WA,19857,6,0,995.31,Third Party,Monthly,0,0.0,Low,Medium,Mature,0
+MI-00585,2024-09-24,31,Hatchback,3,WA,23103,2,0,967.06,Fire and Theft,Annual,0,0.0,Low,High,Middle,0
+MI-00586,2024-12-29,31,Sedan,1,WA,14325,2,0,1069.16,Comprehensive,Quarterly,0,0.0,Low,Medium,Middle,0
+MI-00587,2025-04-13,70,Utility,8,WA,23999,6,0,1385.1,Comprehensive,Quarterly,0,0.0,Low,High,Mature,0
+MI-00588,2024-04-30,69,Sedan,3,QLD,6079,1,0,979.74,Comprehensive,Annual,0,0.0,Low,Low,Mature,0
+MI-00589,2024-05-05,44,Sedan,9,QLD,16573,9,0,1124.76,Comprehensive,Monthly,0,0.0,Low,Medium,Middle,0
+MI-00590,2025-01-04,49,Van,0,NSW,18156,5,0,1138.3,Comprehensive,Monthly,0,0.0,Low,Medium,Middle,0
+MI-00591,2025-11-29,36,Sedan,13,QLD,20451,9,1,1350.54,Fire and Theft,Monthly,0,0.0,Low,High,Middle,1
+MI-00592,2025-02-06,22,SUV,0,QLD,13546,3,0,1025.92,Third Party,Annual,0,0.0,Low,Medium,Young,0
+MI-00593,2025-02-15,63,Van,4,WA,24586,7,0,1414.11,Comprehensive,Annual,0,0.0,Low,High,Mature,0
+MI-00594,2025-02-17,65,Hatchback,9,QLD,13673,8,1,1472.23,Comprehensive,Annual,0,0.0,Low,Medium,Mature,1
+MI-00595,2024-12-08,34,Van,14,QLD,24629,4,0,1567.96,Comprehensive,Annual,0,0.0,Medium,High,Middle,0
+MI-00596,2024-01-24,67,Utility,4,VIC,11639,5,0,1167.08,Comprehensive,Monthly,1,9288.13,Low,Medium,Mature,0
+MI-00597,2024-02-18,36,Utility,9,QLD,19134,0,0,1680.74,Comprehensive,Annual,0,0.0,Medium,Medium,Middle,0
+MI-00598,2025-06-30,28,SUV,0,VIC,27692,10,0,1061.05,Fire and Theft,Monthly,0,0.0,Low,High,Young,0
+MI-00599,2025-06-12,35,SUV,9,QLD,19370,1,0,1118.62,Third Party,Annual,0,0.0,Low,Medium,Middle,0
+MI-00600,2025-04-01,73,Utility,14,NSW,13086,0,0,1264.87,Fire and Theft,Monthly,1,5329.05,Medium,Medium,Mature,0
+MI-00601,2025-03-02,56,SUV,12,WA,8020,10,0,1010.49,Fire and Theft,Monthly,0,0.0,Low,Low,Mature,0
+MI-00602,2024-06-09,30,SUV,15,QLD,22976,9,0,1690.09,Comprehensive,Monthly,0,0.0,Low,High,Middle,0
+MI-00603,2025-01-18,44,Van,3,QLD,13229,6,0,1193.37,Comprehensive,Annual,0,0.0,Low,Medium,Middle,0
+MI-00604,2025-05-15,52,Sedan,4,NSW,14264,9,1,1304.5,Comprehensive,Monthly,1,4087.12,Low,Medium,Mature,1
+MI-00605,2025-05-31,23,SUV,9,VIC,25181,5,1,2195.18,Comprehensive,Monthly,0,0.0,Medium,High,Young,1
+MI-00606,2024-12-13,69,SUV,14,NSW,15610,6,0,1460.52,Comprehensive,Quarterly,0,0.0,Low,Medium,Mature,0
+MI-00607,2024-05-06,63,Van,8,QLD,22782,6,1,1223.06,Third Party,Monthly,0,0.0,Medium,High,Mature,1
+MI-00608,2024-01-20,26,Sedan,1,SA,5269,5,0,588.74,Third Party,Monthly,0,0.0,Low,Low,Young,0
+MI-00609,2024-07-03,34,Sedan,14,NSW,10413,6,0,958.6,Fire and Theft,Annual,0,0.0,Low,Medium,Middle,0
+MI-00610,2025-02-21,54,SUV,8,NSW,24055,3,0,1083.96,Third Party,Annual,0,0.0,Low,High,Mature,0
+MI-00611,2024-05-03,24,Hatchback,10,NSW,14750,1,0,1314.41,Fire and Theft,Annual,1,1585.56,Medium,Medium,Young,0
+MI-00612,2024-01-20,36,SUV,12,SA,15312,6,0,1478.45,Comprehensive,Monthly,0,0.0,Low,Medium,Middle,0
+MI-00613,2024-05-25,58,Hatchback,7,QLD,14047,6,0,791.35,Third Party,Monthly,0,0.0,Low,Medium,Mature,0
+MI-00614,2024-06-20,31,Utility,13,SA,14213,8,2,1998.69,Comprehensive,Monthly,1,11815.45,Medium,Medium,Middle,1
+MI-00615,2024-03-12,59,Sedan,12,SA,18466,8,0,1260.94,Comprehensive,Monthly,0,0.0,Low,Medium,Mature,0
+MI-00616,2024-12-16,46,Hatchback,4,QLD,29339,2,0,1008.23,Third Party,Quarterly,0,0.0,Low,High,Middle,0
+MI-00617,2025-10-23,69,Hatchback,8,NSW,21909,5,0,1245.97,Comprehensive,Monthly,0,0.0,Low,High,Mature,0
+MI-00618,2025-10-26,59,SUV,0,QLD,4196,7,1,1303.11,Comprehensive,Monthly,0,0.0,Low,Low,Mature,1
+MI-00619,2024-01-09,55,Sedan,14,QLD,8826,8,0,1265.51,Comprehensive,Monthly,0,0.0,Low,Low,Mature,0
+MI-00620,2025-10-02,44,Van,14,NSW,15528,7,0,1390.13,Comprehensive,Monthly,0,0.0,Low,Medium,Middle,0
+MI-00621,2025-10-15,66,Sedan,15,SA,23372,7,0,1459.81,Comprehensive,Quarterly,0,0.0,Low,High,Mature,0
+MI-00622,2024-03-07,38,Hatchback,15,NSW,19685,7,0,1469.95,Comprehensive,Monthly,0,0.0,Low,Medium,Middle,0
+MI-00623,2025-04-09,57,Utility,8,NSW,7173,7,0,1047.99,Comprehensive,Monthly,1,2732.93,Low,Low,Mature,0
+MI-00624,2024-08-17,62,Sedan,10,VIC,21199,7,0,1287.07,Comprehensive,Monthly,1,11513.43,Low,High,Mature,0
+MI-00625,2024-09-12,41,Sedan,6,VIC,24608,10,0,854.98,Third Party,Quarterly,0,0.0,Low,High,Middle,0
+MI-00626,2025-04-29,42,SUV,3,NSW,14695,8,2,1315.37,Third Party,Annual,0,0.0,Low,Medium,Middle,1
+MI-00627,2024-05-07,42,Utility,10,VIC,16210,6,0,1417.93,Comprehensive,Annual,1,751.93,Low,Medium,Middle,0
+MI-00628,2024-10-28,25,Utility,1,SA,10856,6,0,824.9,Third Party,Monthly,0,0.0,Low,Medium,Young,0
+MI-00629,2025-09-26,46,Sedan,13,NSW,8263,0,0,1000.86,Third Party,Quarterly,1,6627.05,Low,Low,Middle,0
+MI-00630,2024-05-09,22,SUV,10,VIC,16795,7,0,1307.35,Third Party,Quarterly,0,0.0,Low,Medium,Young,0
+MI-00631,2025-10-29,37,SUV,15,QLD,11438,8,0,1454.79,Comprehensive,Annual,0,0.0,Low,Medium,Middle,0
+MI-00632,2024-02-28,40,Hatchback,4,NSW,13853,4,0,1070.64,Comprehensive,Monthly,0,0.0,Low,Medium,Middle,0
+MI-00633,2025-04-23,73,Utility,1,VIC,17461,9,1,1516.31,Comprehensive,Monthly,0,0.0,Low,Medium,Mature,1
+MI-00634,2024-01-04,42,Utility,10,QLD,12625,5,1,1638.03,Comprehensive,Annual,0,0.0,Low,Medium,Middle,1
+MI-00635,2024-01-07,65,Sedan,6,NSW,14447,3,1,1230.16,Comprehensive,Annual,0,0.0,Low,Medium,Mature,1
+MI-00636,2024-10-17,25,SUV,3,NSW,7453,9,0,896.13,Fire and Theft,Annual,0,0.0,Low,Low,Young,0
+MI-00637,2024-05-20,37,Hatchback,10,WA,16108,1,0,1417.77,Comprehensive,Monthly,0,0.0,Low,Medium,Middle,0
+MI-00638,2025-09-30,71,Van,10,SA,14366,8,0,1131.73,Fire and Theft,Quarterly,0,0.0,Low,Medium,Mature,0
+MI-00639,2025-10-13,66,Sedan,4,WA,18870,5,0,1131.02,Comprehensive,Annual,0,0.0,Low,Medium,Mature,0
+MI-00640,2025-06-04,23,Utility,6,WA,14989,2,0,1739.21,Comprehensive,Annual,0,0.0,Medium,Medium,Young,0
+MI-00641,2025-01-18,52,Sedan,2,QLD,18287,1,0,904.41,Fire and Theft,Monthly,0,0.0,Low,Medium,Mature,0
+MI-00642,2025-10-27,50,Sedan,11,VIC,3000,5,0,1032.29,Comprehensive,Monthly,1,2315.11,Low,Low,Middle,0
+MI-00643,2024-10-29,36,SUV,9,VIC,13276,8,0,1347.22,Comprehensive,Monthly,0,0.0,Low,Medium,Middle,0
+MI-00644,2025-01-26,43,Sedan,1,VIC,11039,5,0,630.49,Third Party,Annual,1,3287.35,Low,Medium,Middle,0
+MI-00645,2025-01-03,25,SUV,2,NSW,7824,0,0,1328.83,Comprehensive,Annual,1,2252.99,Low,Low,Young,0
+MI-00646,2024-11-02,42,Sedan,8,NSW,13189,9,1,1375.34,Comprehensive,Annual,0,0.0,Low,Medium,Middle,1
+MI-00647,2025-02-11,43,Utility,12,SA,20776,0,0,1342.6,Fire and Theft,Quarterly,1,5237.93,Medium,High,Middle,0
+MI-00648,2024-08-02,35,SUV,14,QLD,4819,3,0,993.23,Third Party,Monthly,0,0.0,Low,Low,Middle,0
+MI-00649,2024-08-18,75,Hatchback,11,NSW,19894,7,0,923.26,Third Party,Annual,0,0.0,Low,Medium,Mature,0
+MI-00650,2025-10-06,64,Utility,9,VIC,27281,9,0,1255.36,Fire and Theft,Annual,0,0.0,Low,High,Mature,0
+MI-00651,2025-04-07,59,Hatchback,12,SA,17835,5,0,1335.02,Comprehensive,Monthly,0,0.0,Low,Medium,Mature,0
+MI-00652,2025-01-30,40,Sedan,3,QLD,21342,6,0,1213.12,Comprehensive,Quarterly,0,0.0,Low,High,Middle,0
+MI-00653,2024-05-12,35,SUV,2,VIC,15342,3,1,1477.66,Comprehensive,Quarterly,0,0.0,Low,Medium,Middle,1
+MI-00654,2025-09-10,51,Utility,12,SA,18279,2,0,1138.67,Third Party,Monthly,0,0.0,Medium,Medium,Mature,0
+MI-00655,2025-08-05,40,Hatchback,14,NSW,19602,0,0,1203.65,Third Party,Monthly,0,0.0,Medium,Medium,Middle,0
+MI-00656,2025-09-19,50,SUV,1,QLD,12835,5,0,942.3,Third Party,Annual,0,0.0,Low,Medium,Middle,0
+MI-00657,2024-02-14,75,Sedan,7,NSW,10892,4,0,737.26,Third Party,Annual,0,0.0,Low,Medium,Mature,0
+MI-00658,2024-05-04,31,Sedan,9,QLD,25560,9,1,1654.34,Comprehensive,Monthly,0,0.0,Low,High,Middle,1
+MI-00659,2025-04-17,25,Utility,10,VIC,18259,0,0,1725.3,Comprehensive,Monthly,0,0.0,Medium,Medium,Young,0
+MI-00660,2024-03-10,68,SUV,6,VIC,19200,9,0,1000.23,Third Party,Monthly,0,0.0,Low,Medium,Mature,0
+MI-00661,2025-07-01,63,Sedan,14,NSW,21342,1,0,1468.03,Comprehensive,Annual,0,0.0,Medium,High,Mature,0
+MI-00662,2024-02-18,31,Sedan,0,QLD,19487,2,0,861.4,Third Party,Annual,0,0.0,Low,Medium,Middle,0
+MI-00663,2025-01-18,72,SUV,3,VIC,15235,0,1,1318.67,Third Party,Quarterly,0,0.0,Low,Medium,Mature,1
+MI-00664,2025-11-11,33,Sedan,13,NSW,27997,7,0,1186.47,Fire and Theft,Annual,0,0.0,Low,High,Middle,0
+MI-00665,2024-08-25,31,Sedan,3,WA,11975,6,2,1605.2,Comprehensive,Annual,0,0.0,Low,Medium,Middle,1
+MI-00666,2025-01-12,43,SUV,0,VIC,13390,5,0,870.63,Third Party,Monthly,1,8452.01,Low,Medium,Middle,0
+MI-00667,2025-10-08,70,Hatchback,3,QLD,19765,6,0,974.94,Comprehensive,Annual,0,0.0,Low,Medium,Mature,0
+MI-00668,2025-09-15,64,Van,4,VIC,7100,3,1,1300.92,Comprehensive,Annual,0,0.0,Low,Low,Mature,1
+MI-00669,2025-03-14,49,SUV,7,VIC,15700,0,1,1853.56,Comprehensive,Annual,0,0.0,Medium,Medium,Middle,1
+MI-00670,2025-03-30,60,Sedan,4,VIC,14923,2,0,933.16,Fire and Theft,Monthly,0,0.0,Low,Medium,Mature,0
+MI-00671,2024-12-05,42,Sedan,10,QLD,16519,10,0,1146.03,Comprehensive,Annual,0,0.0,Low,Medium,Middle,0
+MI-00672,2024-03-07,34,Hatchback,7,WA,14473,9,0,1069.75,Comprehensive,Monthly,0,0.0,Low,Medium,Middle,0
+MI-00673,2024-08-29,25,Van,1,QLD,18767,0,0,1127.07,Third Party,Quarterly,0,0.0,Low,Medium,Young,0
+MI-00674,2024-07-25,48,Hatchback,9,NSW,18210,6,0,1270.36,Comprehensive,Quarterly,0,0.0,Low,Medium,Middle,0
+MI-00675,2025-05-08,71,SUV,11,VIC,19465,5,1,1353.19,Third Party,Monthly,1,1345.73,Low,Medium,Mature,1
+MI-00676,2025-09-12,69,Van,9,QLD,22003,2,0,1626.47,Comprehensive,Annual,0,0.0,Medium,High,Mature,0
+MI-00677,2025-03-01,42,Sedan,15,NSW,16514,9,1,1614.99,Comprehensive,Annual,0,0.0,Low,Medium,Middle,1
+MI-00678,2024-06-15,68,SUV,15,NSW,18491,9,3,2403.9,Comprehensive,Quarterly,1,3789.33,Medium,Medium,Mature,1
+MI-00679,2025-01-05,69,Hatchback,15,QLD,14484,4,0,1315.11,Comprehensive,Monthly,0,0.0,Low,Medium,Mature,0
+MI-00680,2024-01-13,64,Sedan,4,NSW,6555,2,0,817.47,Fire and Theft,Monthly,0,0.0,Low,Low,Mature,0
+MI-00681,2024-09-15,26,Hatchback,12,VIC,4019,5,0,997.76,Comprehensive,Monthly,0,0.0,Low,Low,Young,0
+MI-00682,2024-12-18,53,Van,12,VIC,14905,9,1,1616.12,Comprehensive,Monthly,0,0.0,Low,Medium,Mature,1
+MI-00683,2025-03-02,38,Utility,12,QLD,19944,5,0,1116.68,Third Party,Annual,0,0.0,Low,Medium,Middle,0
+MI-00684,2024-07-09,67,SUV,5,VIC,14770,2,2,1871.5,Comprehensive,Monthly,1,21700.7,Medium,Medium,Mature,1
+MI-00685,2024-03-06,33,Sedan,13,VIC,18670,6,0,1306.6,Comprehensive,Annual,0,0.0,Low,Medium,Middle,0
+MI-00686,2024-04-09,58,Sedan,15,QLD,17859,7,0,1367.37,Comprehensive,Quarterly,0,0.0,Low,Medium,Mature,0
+MI-00687,2024-09-02,71,Sedan,8,SA,10189,4,0,857.52,Fire and Theft,Quarterly,0,0.0,Low,Medium,Mature,0
+MI-00688,2024-05-22,63,SUV,1,SA,24226,0,1,1783.2,Comprehensive,Monthly,1,1361.41,Medium,High,Mature,1
+MI-00689,2024-11-25,65,Utility,7,VIC,8983,5,0,1152.02,Comprehensive,Quarterly,1,3015.47,Low,Low,Mature,0
+MI-00690,2025-05-02,72,Utility,14,NSW,5393,8,0,1063.6,Fire and Theft,Quarterly,0,0.0,Low,Low,Mature,0
+MI-00691,2025-05-31,75,Hatchback,3,QLD,14834,1,0,1225.58,Comprehensive,Quarterly,1,3630.32,Low,Medium,Mature,0
+MI-00692,2025-11-06,74,Hatchback,14,NSW,12958,7,0,1261.15,Comprehensive,Monthly,0,0.0,Low,Medium,Mature,0
+MI-00693,2025-11-17,27,SUV,0,NSW,28655,8,0,1303.97,Comprehensive,Monthly,0,0.0,Low,High,Young,0
+MI-00694,2025-01-21,29,Van,15,NSW,11286,9,1,1617.7,Comprehensive,Monthly,0,0.0,Low,Medium,Young,1
+MI-00695,2024-04-24,68,Utility,12,QLD,19699,4,0,1362.0,Comprehensive,Annual,1,5198.26,Low,Medium,Mature,0
+MI-00696,2024-11-23,44,Sedan,10,SA,15666,0,0,1081.51,Third Party,Quarterly,0,0.0,Low,Medium,Middle,0
+MI-00697,2024-10-30,72,Hatchback,4,VIC,12300,4,0,975.23,Comprehensive,Annual,0,0.0,Low,Medium,Mature,0
+MI-00698,2024-05-06,52,Hatchback,4,QLD,21853,8,0,1217.79,Comprehensive,Annual,0,0.0,Low,High,Mature,0
+MI-00699,2024-08-03,75,Hatchback,15,QLD,17153,10,0,1040.44,Third Party,Annual,0,0.0,Low,Medium,Mature,0
+MI-00700,2024-06-12,72,Sedan,1,SA,18087,7,0,648.06,Third Party,Quarterly,0,0.0,Low,Medium,Mature,0
+MI-00701,2024-07-18,56,SUV,13,QLD,26924,4,0,1637.44,Comprehensive,Monthly,0,0.0,Low,High,Mature,0
+MI-00702,2025-08-14,56,SUV,4,VIC,19341,0,2,2025.22,Comprehensive,Monthly,1,5742.49,Medium,Medium,Mature,1
+MI-00703,2025-03-13,30,Sedan,6,QLD,26441,6,0,1025.99,Fire and Theft,Annual,0,0.0,Low,High,Middle,0
+MI-00704,2024-06-01,31,Van,3,VIC,3000,1,0,1209.65,Comprehensive,Annual,0,0.0,Low,Low,Middle,0
+MI-00705,2025-11-17,46,Sedan,3,NSW,6104,10,0,879.78,Comprehensive,Monthly,0,0.0,Low,Low,Middle,0
+MI-00706,2025-06-05,70,SUV,12,NSW,12445,1,0,1516.52,Comprehensive,Monthly,0,0.0,Low,Medium,Mature,0
+MI-00707,2025-08-08,58,Hatchback,15,NSW,15662,2,0,1310.2,Comprehensive,Annual,1,1659.69,Low,Medium,Mature,0
+MI-00708,2025-08-21,71,Hatchback,12,WA,24220,5,1,1678.14,Comprehensive,Monthly,0,0.0,Medium,High,Mature,1
+MI-00709,2025-04-02,73,Utility,3,QLD,18516,1,1,1353.96,Third Party,Annual,0,0.0,Medium,Medium,Mature,1
+MI-00710,2025-07-11,28,Sedan,6,QLD,20264,7,0,1198.29,Comprehensive,Annual,0,0.0,Low,High,Young,0
+MI-00711,2024-11-16,63,Sedan,9,NSW,29281,3,0,1355.22,Comprehensive,Monthly,0,0.0,Low,High,Mature,0
+MI-00712,2024-05-17,43,Hatchback,6,QLD,14973,0,0,988.48,Third Party,Annual,0,0.0,Low,Medium,Middle,0
+MI-00713,2024-03-26,34,Hatchback,8,NSW,14162,2,0,955.83,Fire and Theft,Annual,0,0.0,Low,Medium,Middle,0
+MI-00714,2025-11-04,64,SUV,4,VIC,25537,10,0,1440.22,Comprehensive,Annual,0,0.0,Low,High,Mature,0
+MI-00715,2025-06-28,53,Hatchback,13,WA,11365,4,2,1857.56,Comprehensive,Annual,1,4301.11,Medium,Medium,Mature,1
+MI-00716,2024-04-17,61,Sedan,10,QLD,23049,3,0,1132.96,Fire and Theft,Annual,0,0.0,Low,High,Mature,0
+MI-00717,2024-04-11,28,Sedan,9,VIC,17017,4,0,1173.28,Comprehensive,Annual,0,0.0,Low,Medium,Young,0
+MI-00718,2025-08-29,31,SUV,12,NSW,19376,8,0,1119.5,Fire and Theft,Annual,0,0.0,Low,Medium,Middle,0
+MI-00719,2024-09-12,21,Hatchback,4,QLD,21255,3,2,2193.79,Comprehensive,Annual,0,0.0,Medium,High,Young,1
+MI-00720,2024-08-22,47,Hatchback,5,VIC,11556,3,2,1626.82,Comprehensive,Monthly,0,0.0,Medium,Medium,Middle,1
+MI-00721,2024-02-28,75,Sedan,9,VIC,14914,0,1,1389.32,Fire and Theft,Annual,1,3793.45,Medium,Medium,Mature,1
+MI-00722,2024-09-07,64,Van,3,VIC,5354,7,1,907.53,Third Party,Monthly,0,0.0,Low,Low,Mature,1
+MI-00723,2024-05-16,63,Van,1,QLD,25499,9,0,1310.23,Comprehensive,Annual,0,0.0,Low,High,Mature,0
+MI-00724,2024-10-24,24,SUV,12,NSW,21796,7,1,1675.0,Third Party,Quarterly,0,0.0,Medium,High,Young,1
+MI-00725,2024-02-06,39,Sedan,0,QLD,11867,3,2,1445.1,Comprehensive,Monthly,0,0.0,Low,Medium,Middle,1
+MI-00726,2024-12-29,60,Utility,1,VIC,11661,4,0,850.78,Fire and Theft,Annual,1,3258.6,Low,Medium,Mature,0
+MI-00727,2025-01-08,54,SUV,4,VIC,16654,8,0,1254.63,Comprehensive,Annual,0,0.0,Low,Medium,Mature,0
+MI-00728,2024-07-22,32,Hatchback,8,NSW,4484,1,0,1184.14,Comprehensive,Annual,0,0.0,Low,Low,Middle,0
+MI-00729,2024-05-01,39,Sedan,12,VIC,15195,7,2,1457.57,Fire and Theft,Quarterly,0,0.0,Medium,Medium,Middle,1
+MI-00730,2024-04-22,56,SUV,4,VIC,17213,5,2,1245.37,Third Party,Annual,0,0.0,Low,Medium,Mature,1
+MI-00731,2024-01-09,71,Sedan,4,VIC,25836,0,1,1771.65,Comprehensive,Monthly,0,0.0,Medium,High,Mature,1
+MI-00732,2024-09-10,39,SUV,2,QLD,16052,5,0,920.26,Third Party,Quarterly,0,0.0,Low,Medium,Middle,0
+MI-00733,2024-05-15,48,Sedan,3,QLD,11890,10,0,967.01,Comprehensive,Annual,0,0.0,Low,Medium,Middle,0
+MI-00734,2024-08-24,38,Van,4,VIC,13888,0,0,1460.39,Comprehensive,Monthly,0,0.0,Low,Medium,Middle,0
+MI-00735,2024-02-18,48,SUV,13,QLD,14277,3,0,1479.24,Comprehensive,Annual,0,0.0,Low,Medium,Middle,0
+MI-00736,2024-11-07,21,Sedan,10,NSW,3000,1,0,1190.11,Fire and Theft,Annual,1,7227.47,Low,Low,Young,0
+MI-00737,2025-08-21,70,Utility,10,VIC,19946,6,0,1372.84,Comprehensive,Annual,0,0.0,Low,Medium,Mature,0
+MI-00738,2025-07-13,27,Sedan,3,NSW,29226,8,0,1225.79,Comprehensive,Annual,0,0.0,Low,High,Young,0
+MI-00739,2025-07-27,40,Hatchback,6,VIC,17934,4,0,934.32,Fire and Theft,Monthly,0,0.0,Low,Medium,Middle,0
+MI-00740,2024-05-12,44,SUV,3,SA,22170,9,0,1346.71,Comprehensive,Monthly,0,0.0,Low,High,Middle,0
+MI-00741,2025-01-28,57,Sedan,6,QLD,8102,9,2,1596.23,Comprehensive,Monthly,0,0.0,Low,Low,Mature,1
+MI-00742,2025-05-30,45,SUV,8,NSW,24464,6,0,1186.99,Fire and Theft,Monthly,0,0.0,Low,High,Middle,0
+MI-00743,2024-10-11,54,Sedan,7,NSW,15620,2,0,1240.41,Comprehensive,Monthly,0,0.0,Low,Medium,Mature,0
+MI-00744,2025-01-12,38,Utility,1,QLD,16075,5,0,1278.13,Comprehensive,Monthly,0,0.0,Low,Medium,Middle,0
+MI-00745,2024-08-12,66,Van,8,QLD,8503,3,0,947.22,Third Party,Monthly,0,0.0,Low,Low,Mature,0
+MI-00746,2025-10-31,38,Sedan,0,VIC,27180,8,0,833.46,Third Party,Annual,0,0.0,Low,High,Middle,0
+MI-00747,2024-08-25,61,Hatchback,6,WA,16943,6,1,1084.1,Third Party,Annual,0,0.0,Low,Medium,Mature,1
+MI-00748,2025-10-25,48,SUV,15,NSW,17734,9,0,1574.77,Comprehensive,Monthly,0,0.0,Low,Medium,Middle,0
+MI-00749,2025-02-16,40,Sedan,5,WA,14392,1,0,1199.38,Comprehensive,Monthly,1,4130.27,Low,Medium,Middle,0
+MI-00750,2024-03-26,72,Sedan,3,VIC,28064,8,0,1242.9,Comprehensive,Annual,0,0.0,Low,High,Mature,0
+MI-00751,2025-07-30,61,Hatchback,0,SA,24328,3,0,1151.74,Comprehensive,Monthly,0,0.0,Low,High,Mature,0
+MI-00752,2025-07-11,73,Sedan,10,VIC,16316,3,0,1278.15,Comprehensive,Annual,0,0.0,Low,Medium,Mature,0
+MI-00753,2025-12-01,53,Van,13,NSW,17220,4,0,1094.28,Third Party,Annual,0,0.0,Low,Medium,Mature,0
+MI-00754,2025-01-04,66,Utility,3,VIC,20627,10,0,1295.78,Comprehensive,Annual,0,0.0,Low,High,Mature,0
+MI-00755,2024-10-20,26,Van,4,NSW,7366,7,0,806.23,Third Party,Annual,0,0.0,Low,Low,Young,0
+MI-00756,2024-06-01,27,Sedan,15,QLD,26820,7,0,1459.91,Comprehensive,Quarterly,0,0.0,Low,High,Young,0
+MI-00757,2024-05-28,30,SUV,12,VIC,21160,8,0,1381.36,Comprehensive,Monthly,1,2929.71,Low,High,Middle,0
+MI-00758,2025-07-05,48,SUV,13,QLD,13682,10,2,1972.85,Comprehensive,Monthly,0,0.0,Low,Medium,Middle,1
+MI-00759,2024-08-28,55,Hatchback,7,VIC,10057,6,0,738.64,Third Party,Monthly,0,0.0,Low,Medium,Mature,0
+MI-00760,2024-05-22,34,Van,0,VIC,12565,1,1,1558.36,Comprehensive,Monthly,0,0.0,Low,Medium,Middle,1
+MI-00761,2024-01-27,30,Utility,13,NSW,17035,1,2,1631.96,Third Party,Annual,0,0.0,High,Medium,Middle,1
+MI-00762,2024-03-19,48,SUV,3,QLD,27082,9,0,1449.5,Comprehensive,Annual,1,7555.38,Low,High,Middle,0
+MI-00763,2024-10-20,69,Sedan,4,QLD,14258,4,0,719.09,Third Party,Monthly,0,0.0,Low,Medium,Mature,0
+MI-00764,2024-09-21,24,Van,1,QLD,17775,4,0,1232.09,Fire and Theft,Monthly,0,0.0,Low,Medium,Young,0
+MI-00765,2025-09-25,53,SUV,7,VIC,25661,5,3,2450.58,Comprehensive,Annual,1,1937.64,Medium,High,Mature,1
+MI-00766,2025-10-24,56,Hatchback,2,WA,10476,6,1,1213.2,Comprehensive,Monthly,0,0.0,Low,Medium,Mature,1
+MI-00767,2024-01-12,38,Sedan,2,VIC,17057,2,0,1065.76,Comprehensive,Annual,0,0.0,Low,Medium,Middle,0
+MI-00768,2024-02-16,40,Sedan,6,QLD,21041,10,0,1197.46,Comprehensive,Monthly,1,1707.85,Low,High,Middle,0
+MI-00769,2025-05-30,43,Utility,12,VIC,13450,4,0,1087.71,Third Party,Annual,1,5799.67,Low,Medium,Middle,0
+MI-00770,2024-08-25,58,Utility,15,VIC,19218,1,0,1357.37,Fire and Theft,Annual,0,0.0,Medium,Medium,Mature,0
+MI-00771,2024-12-15,72,Hatchback,4,QLD,24874,5,1,1220.56,Third Party,Quarterly,0,0.0,Low,High,Mature,1
+MI-00772,2025-09-13,29,SUV,11,QLD,17727,7,0,1439.7,Comprehensive,Quarterly,1,1094.91,Low,Medium,Young,0
+MI-00773,2024-11-17,52,Sedan,0,NSW,21617,10,1,1285.37,Comprehensive,Annual,0,0.0,Low,High,Mature,1
+MI-00774,2025-03-28,39,Sedan,8,VIC,14489,7,0,921.72,Fire and Theft,Quarterly,0,0.0,Low,Medium,Middle,0
+MI-00775,2025-10-01,29,Van,15,NSW,20162,9,1,1822.5,Comprehensive,Annual,0,0.0,Low,High,Young,1
+MI-00776,2024-09-07,44,Sedan,13,VIC,14931,7,0,1371.7,Comprehensive,Monthly,0,0.0,Low,Medium,Middle,0
+MI-00777,2025-04-22,56,Sedan,3,NSW,19578,0,0,1401.86,Comprehensive,Annual,0,0.0,Low,Medium,Mature,0
+MI-00778,2024-03-07,55,Van,14,NSW,17320,10,0,1535.64,Comprehensive,Annual,0,0.0,Low,Medium,Mature,0
+MI-00779,2025-09-07,59,SUV,15,NSW,8171,10,0,1407.3,Comprehensive,Monthly,0,0.0,Low,Low,Mature,0
+MI-00780,2024-09-15,24,Van,11,QLD,20463,2,0,1455.58,Third Party,Annual,0,0.0,Medium,High,Young,0
+MI-00781,2024-02-25,26,Sedan,8,VIC,12931,9,0,902.01,Third Party,Annual,0,0.0,Low,Medium,Young,0
+MI-00782,2024-12-29,48,SUV,9,NSW,12042,5,0,1351.31,Comprehensive,Monthly,0,0.0,Low,Medium,Middle,0
+MI-00783,2024-11-20,57,SUV,0,VIC,19396,7,0,1182.57,Comprehensive,Monthly,1,3637.15,Low,Medium,Mature,0
+MI-00784,2025-08-15,71,Van,13,NSW,12643,10,1,1533.75,Comprehensive,Monthly,1,3052.56,Low,Medium,Mature,1
+MI-00785,2024-11-10,31,Hatchback,6,VIC,32588,6,0,975.76,Third Party,Annual,0,0.0,Low,High,Middle,0
+MI-00786,2025-04-14,28,Hatchback,14,VIC,8722,4,2,1833.35,Comprehensive,Quarterly,0,0.0,Medium,Low,Young,1
+MI-00787,2024-04-11,32,Hatchback,5,VIC,6765,7,0,1005.04,Comprehensive,Monthly,0,0.0,Low,Low,Middle,0
+MI-00788,2025-03-30,72,Utility,2,QLD,11016,5,1,1083.47,Fire and Theft,Annual,0,0.0,Low,Medium,Mature,1
+MI-00789,2024-12-25,72,Sedan,9,WA,18671,6,0,998.6,Third Party,Quarterly,0,0.0,Low,Medium,Mature,0
+MI-00790,2025-02-28,50,SUV,12,NSW,12734,3,1,1700.15,Comprehensive,Monthly,0,0.0,Medium,Medium,Middle,1
+MI-00791,2024-06-23,21,Van,13,NSW,27336,8,0,1543.5,Third Party,Annual,0,0.0,Medium,High,Young,0
+MI-00792,2024-06-26,48,Sedan,12,NSW,8483,8,0,1049.63,Comprehensive,Monthly,0,0.0,Low,Low,Middle,0
+MI-00793,2024-09-23,41,SUV,13,NSW,15160,1,0,1600.3,Comprehensive,Monthly,0,0.0,Low,Medium,Middle,0
+MI-00794,2024-03-21,31,Van,6,NSW,16977,8,0,1313.17,Comprehensive,Monthly,0,0.0,Low,Medium,Middle,0
+MI-00795,2024-09-08,22,Utility,4,SA,8518,2,0,1446.11,Comprehensive,Annual,0,0.0,Low,Low,Young,0
+MI-00796,2025-04-15,72,Utility,8,QLD,13626,6,0,1433.15,Comprehensive,Annual,0,0.0,Low,Medium,Mature,0
+MI-00797,2024-01-23,28,Sedan,9,NSW,17101,8,1,1501.25,Comprehensive,Annual,0,0.0,Low,Medium,Young,1
+MI-00798,2024-07-01,52,Van,2,NSW,4043,6,0,1060.79,Comprehensive,Annual,0,0.0,Low,Low,Mature,0
+MI-00799,2024-09-17,61,Hatchback,1,NSW,12696,10,0,974.34,Comprehensive,Monthly,0,0.0,Low,Medium,Mature,0
+MI-00800,2024-03-26,33,Hatchback,0,VIC,16312,4,1,1211.44,Comprehensive,Annual,0,0.0,Low,Medium,Middle,1
+MI-00801,2025-02-13,29,Sedan,15,NSW,24543,6,0,1131.66,Third Party,Annual,0,0.0,Low,High,Young,0
+MI-00802,2025-03-19,37,Sedan,8,SA,25210,6,0,1363.62,Comprehensive,Monthly,0,0.0,Low,High,Middle,0
+MI-00803,2024-03-06,48,Hatchback,8,WA,9633,4,0,999.98,Comprehensive,Monthly,0,0.0,Low,Low,Middle,0
+MI-00804,2024-07-03,23,Van,8,VIC,12717,6,2,2422.18,Comprehensive,Annual,0,0.0,Medium,Medium,Young,1
+MI-00805,2024-12-02,48,Utility,11,NSW,17359,1,0,1666.77,Comprehensive,Monthly,0,0.0,Medium,Medium,Middle,0
+MI-00806,2025-11-18,57,Utility,7,VIC,9361,5,0,1261.9,Comprehensive,Monthly,1,8722.88,Low,Low,Mature,0
+MI-00807,2025-09-07,69,SUV,10,NSW,23219,0,0,1793.1,Comprehensive,Monthly,0,0.0,Medium,High,Mature,0
+MI-00808,2025-02-16,45,Sedan,0,NSW,8070,10,1,1031.22,Comprehensive,Monthly,1,4192.85,Low,Low,Middle,1
+MI-00809,2024-11-16,42,Hatchback,2,VIC,19237,3,0,1012.3,Comprehensive,Annual,0,0.0,Low,Medium,Middle,0
+MI-00810,2024-01-11,24,SUV,14,VIC,6973,8,2,2295.32,Comprehensive,Annual,1,5842.7,Medium,Low,Young,1
+MI-00811,2024-02-19,26,Sedan,11,WA,15370,7,0,973.36,Fire and Theft,Annual,0,0.0,Low,Medium,Young,0
+MI-00812,2025-02-27,25,Sedan,12,NSW,17698,5,0,974.65,Third Party,Monthly,0,0.0,Low,Medium,Young,0
+MI-00813,2024-10-30,63,Sedan,7,VIC,6588,3,1,1134.61,Comprehensive,Annual,0,0.0,Low,Low,Mature,1
+MI-00814,2024-08-09,43,Hatchback,7,QLD,15592,0,2,1917.75,Comprehensive,Annual,0,0.0,Medium,Medium,Middle,1
+MI-00815,2025-11-02,45,Sedan,3,VIC,20307,5,0,797.39,Fire and Theft,Monthly,0,0.0,Low,High,Middle,0
+MI-00816,2024-10-11,53,Sedan,4,NSW,4433,9,0,758.13,Third Party,Annual,0,0.0,Low,Low,Mature,0
+MI-00817,2025-11-08,64,SUV,3,NSW,23655,2,1,1654.55,Comprehensive,Annual,0,0.0,Medium,High,Mature,1
+MI-00818,2024-02-20,43,Sedan,2,VIC,17543,4,0,1088.55,Comprehensive,Annual,0,0.0,Low,Medium,Middle,0
+MI-00819,2025-10-23,67,Van,6,NSW,8853,5,0,1222.61,Comprehensive,Monthly,0,0.0,Low,Low,Mature,0
+MI-00820,2025-02-18,28,Sedan,1,WA,11725,5,0,714.5,Fire and Theft,Monthly,0,0.0,Low,Medium,Young,0
+MI-00821,2024-07-08,27,Sedan,8,VIC,18087,6,0,1222.04,Comprehensive,Annual,0,0.0,Low,Medium,Young,0
+MI-00822,2024-01-14,65,Hatchback,9,WA,14490,7,0,1124.36,Comprehensive,Monthly,0,0.0,Low,Medium,Mature,0
+MI-00823,2024-01-02,48,SUV,5,SA,18920,8,0,1296.16,Comprehensive,Monthly,0,0.0,Low,Medium,Middle,0
+MI-00824,2024-04-06,36,SUV,1,WA,3000,8,0,895.12,Comprehensive,Annual,0,0.0,Low,Low,Middle,0
+MI-00825,2024-11-04,72,Utility,14,VIC,11168,7,0,1467.82,Comprehensive,Monthly,0,0.0,Low,Medium,Mature,0
+MI-00826,2024-05-25,54,Utility,15,NSW,11880,0,3,1815.91,Third Party,Monthly,1,6584.98,High,Medium,Mature,1
+MI-00827,2025-06-23,34,Utility,6,SA,13765,3,0,1278.05,Comprehensive,Quarterly,0,0.0,Low,Medium,Middle,0
+MI-00828,2025-09-19,64,SUV,10,VIC,3000,3,0,1269.88,Comprehensive,Annual,0,0.0,Low,Low,Mature,0
+MI-00829,2025-09-30,71,SUV,11,NSW,23501,7,0,1526.69,Comprehensive,Quarterly,0,0.0,Low,High,Mature,0
+MI-00830,2024-01-06,31,SUV,9,NSW,14017,2,1,1766.15,Comprehensive,Monthly,0,0.0,Medium,Medium,Middle,1
+MI-00831,2024-03-29,63,Utility,1,NSW,12875,9,0,868.78,Third Party,Annual,0,0.0,Low,Medium,Mature,0
+MI-00832,2025-01-30,30,Van,6,VIC,20693,0,2,2179.88,Comprehensive,Monthly,0,0.0,High,High,Middle,1
+MI-00833,2024-09-13,27,Van,9,QLD,19223,9,1,1756.76,Comprehensive,Monthly,0,0.0,Low,Medium,Young,1
+MI-00834,2024-05-21,56,Sedan,9,NSW,7645,5,0,804.17,Fire and Theft,Annual,0,0.0,Low,Low,Mature,0
+MI-00835,2025-03-07,65,SUV,11,VIC,9899,4,0,1343.88,Comprehensive,Quarterly,1,8767.05,Low,Low,Mature,0
+MI-00836,2024-02-25,44,Sedan,9,NSW,17897,7,0,873.17,Third Party,Monthly,0,0.0,Low,Medium,Middle,0
+MI-00837,2025-11-21,38,Utility,3,VIC,20408,5,0,1320.69,Comprehensive,Monthly,0,0.0,Low,High,Middle,0
+MI-00838,2025-10-05,66,Sedan,6,VIC,3000,1,1,1300.73,Comprehensive,Annual,0,0.0,Low,Low,Mature,1
+MI-00839,2025-06-01,21,Utility,6,NSW,24844,1,0,2018.48,Comprehensive,Monthly,0,0.0,Medium,High,Young,0
+MI-00840,2025-11-04,24,Van,9,VIC,27971,8,0,1436.01,Third Party,Monthly,0,0.0,Medium,High,Young,0
+MI-00841,2024-10-23,48,Sedan,0,NSW,19972,1,1,1411.39,Comprehensive,Monthly,0,0.0,Low,Medium,Middle,1
+MI-00842,2024-10-17,27,Van,15,VIC,14988,8,0,1163.48,Third Party,Annual,0,0.0,Low,Medium,Young,0
+MI-00843,2025-04-14,57,SUV,9,NSW,10429,5,1,1496.91,Comprehensive,Annual,0,0.0,Low,Medium,Mature,1
+MI-00844,2024-12-13,31,SUV,6,VIC,14242,0,0,1478.09,Comprehensive,Monthly,0,0.0,Low,Medium,Middle,0
+MI-00845,2025-09-12,75,Utility,8,QLD,7982,0,1,1656.83,Comprehensive,Quarterly,0,0.0,Medium,Low,Mature,1
+MI-00846,2024-06-11,57,Hatchback,8,NSW,8729,4,0,1160.3,Comprehensive,Annual,0,0.0,Low,Low,Mature,0
+MI-00847,2025-01-28,63,Sedan,15,VIC,17293,9,1,1724.05,Comprehensive,Quarterly,0,0.0,Low,Medium,Mature,1
+MI-00848,2024-06-27,47,Van,1,QLD,25471,0,1,1944.87,Comprehensive,Monthly,0,0.0,Medium,High,Middle,1
+MI-00849,2024-06-14,65,SUV,4,SA,12118,2,0,1255.84,Comprehensive,Annual,0,0.0,Low,Medium,Mature,0
+MI-00850,2025-02-21,54,Utility,6,NSW,32290,1,0,1756.56,Comprehensive,Annual,0,0.0,Medium,High,Mature,0
+MI-00851,2024-03-09,25,SUV,15,NSW,19217,5,0,1352.92,Fire and Theft,Quarterly,0,0.0,Low,Medium,Young,0
+MI-00852,2024-01-24,61,SUV,2,VIC,21470,1,0,1510.49,Comprehensive,Monthly,0,0.0,Low,High,Mature,0
+MI-00853,2025-06-14,39,Van,8,VIC,7726,1,0,1472.99,Comprehensive,Annual,0,0.0,Low,Low,Middle,0
+MI-00854,2025-03-07,53,SUV,1,VIC,22683,10,3,1534.48,Third Party,Annual,0,0.0,Low,High,Mature,1
+MI-00855,2024-03-15,42,Van,1,NSW,5883,9,0,782.39,Fire and Theft,Annual,0,0.0,Low,Low,Middle,0
+MI-00856,2024-05-12,57,Van,1,VIC,22088,7,2,1496.65,Fire and Theft,Monthly,0,0.0,Low,High,Mature,1
+MI-00857,2024-02-26,23,Sedan,15,VIC,11951,3,1,1496.24,Fire and Theft,Annual,1,6009.52,Medium,Medium,Young,1
+MI-00858,2025-03-24,59,Utility,0,VIC,26484,7,0,1350.19,Comprehensive,Annual,0,0.0,Low,High,Mature,0
+MI-00859,2025-07-03,60,Van,11,VIC,7969,2,0,1477.71,Comprehensive,Annual,0,0.0,Low,Low,Mature,0
+MI-00860,2024-09-07,72,Sedan,7,WA,18999,2,0,1280.89,Comprehensive,Monthly,0,0.0,Low,Medium,Mature,0
+MI-00861,2024-08-13,29,Hatchback,15,QLD,14565,10,0,946.52,Third Party,Monthly,0,0.0,Low,Medium,Young,0
+MI-00862,2025-02-24,40,Van,9,WA,16500,3,0,1493.2,Comprehensive,Annual,0,0.0,Low,Medium,Middle,0
+MI-00863,2024-05-25,60,SUV,2,NSW,27556,2,1,1871.22,Comprehensive,Annual,1,2081.99,Medium,High,Mature,1
+MI-00864,2025-09-16,69,SUV,3,NSW,18663,6,0,975.6,Fire and Theft,Annual,0,0.0,Low,Medium,Mature,0
+MI-00865,2024-12-22,22,Utility,12,VIC,17014,7,0,1403.24,Third Party,Annual,0,0.0,Low,Medium,Young,0
+MI-00866,2025-03-20,59,Utility,10,SA,25902,6,1,1782.03,Comprehensive,Monthly,0,0.0,Medium,High,Mature,1
+MI-00867,2025-03-10,71,Hatchback,1,WA,3000,9,0,575.3,Fire and Theft,Monthly,0,0.0,Low,Low,Mature,0
+MI-00868,2024-10-07,57,Utility,8,NSW,8100,9,0,1278.38,Comprehensive,Monthly,0,0.0,Low,Low,Mature,0
+MI-00869,2025-09-14,36,Utility,9,VIC,8912,4,0,975.71,Third Party,Monthly,1,1750.35,Low,Low,Middle,0
+MI-00870,2025-02-22,74,Sedan,5,VIC,16862,0,0,1360.71,Comprehensive,Monthly,1,7945.4,Low,Medium,Mature,0
+MI-00871,2025-09-24,60,Hatchback,2,VIC,15425,2,0,1184.8,Comprehensive,Annual,0,0.0,Low,Medium,Mature,0
+MI-00872,2024-09-22,35,Sedan,1,NSW,9003,3,0,869.65,Comprehensive,Quarterly,0,0.0,Low,Low,Middle,0
+MI-00873,2024-07-27,22,Hatchback,11,VIC,20567,1,0,1858.64,Comprehensive,Annual,0,0.0,Medium,High,Young,0
+MI-00874,2025-10-29,44,Utility,13,NSW,11252,0,0,1672.43,Comprehensive,Quarterly,0,0.0,Medium,Medium,Middle,0
+MI-00875,2025-06-04,39,Hatchback,5,VIC,15058,6,0,1097.77,Comprehensive,Annual,0,0.0,Low,Medium,Middle,0
+MI-00876,2024-08-17,66,SUV,6,VIC,7745,1,1,1581.32,Comprehensive,Quarterly,0,0.0,Low,Low,Mature,1
+MI-00877,2024-11-20,57,Hatchback,13,VIC,25656,8,0,1139.81,Third Party,Monthly,0,0.0,Low,High,Mature,0
+MI-00878,2025-03-31,74,Hatchback,7,VIC,21425,2,0,901.19,Fire and Theft,Monthly,0,0.0,Low,High,Mature,0
+MI-00879,2024-05-08,47,SUV,11,VIC,21468,5,0,1139.72,Third Party,Annual,0,0.0,Low,High,Middle,0
+MI-00880,2025-06-01,36,Utility,13,QLD,11530,8,0,1328.9,Comprehensive,Annual,0,0.0,Low,Medium,Middle,0
+MI-00881,2024-04-13,57,SUV,6,WA,16819,1,0,1477.95,Comprehensive,Quarterly,1,1268.58,Low,Medium,Mature,0
+MI-00882,2024-10-27,65,Sedan,2,NSW,25756,9,0,1076.4,Comprehensive,Monthly,0,0.0,Low,High,Mature,0
+MI-00883,2025-03-22,73,Van,3,SA,26222,4,0,1413.97,Comprehensive,Annual,0,0.0,Low,High,Mature,0
+MI-00884,2025-11-21,51,Hatchback,5,QLD,5816,5,0,863.37,Comprehensive,Monthly,0,0.0,Low,Low,Mature,0
+MI-00885,2025-06-21,45,SUV,5,VIC,3000,1,0,1167.02,Comprehensive,Monthly,0,0.0,Low,Low,Middle,0
+MI-00886,2024-08-03,75,Van,9,VIC,14297,1,1,1364.89,Third Party,Quarterly,0,0.0,Medium,Medium,Mature,1
+MI-00887,2024-09-22,38,Hatchback,10,NSW,15291,3,0,981.14,Fire and Theft,Annual,0,0.0,Low,Medium,Middle,0
+MI-00888,2025-07-06,69,Sedan,7,QLD,18799,8,1,1489.14,Comprehensive,Quarterly,0,0.0,Low,Medium,Mature,1
+MI-00889,2024-04-22,33,Sedan,0,VIC,12860,4,0,1041.36,Comprehensive,Monthly,0,0.0,Low,Medium,Middle,0
+MI-00890,2024-08-15,75,Sedan,13,VIC,19013,3,0,1076.22,Fire and Theft,Monthly,0,0.0,Low,Medium,Mature,0
+MI-00891,2025-03-19,41,Sedan,10,NSW,10685,8,0,1069.84,Comprehensive,Quarterly,0,0.0,Low,Medium,Middle,0
+MI-00892,2025-08-23,66,Utility,10,NSW,4424,6,2,1735.19,Comprehensive,Annual,0,0.0,Low,Low,Mature,1
+MI-00893,2025-06-12,35,Hatchback,8,VIC,11835,5,0,1091.57,Comprehensive,Annual,0,0.0,Low,Medium,Middle,0
+MI-00894,2025-08-20,68,Sedan,13,NSW,11843,1,0,1371.91,Comprehensive,Annual,0,0.0,Low,Medium,Mature,0
+MI-00895,2025-07-10,43,SUV,5,WA,23151,7,0,1293.1,Comprehensive,Monthly,0,0.0,Low,High,Middle,0
+MI-00896,2024-12-21,27,Sedan,9,VIC,11366,4,0,897.38,Fire and Theft,Monthly,0,0.0,Low,Medium,Young,0
+MI-00897,2025-02-22,66,Sedan,15,WA,21786,7,0,1363.2,Comprehensive,Annual,1,5846.55,Low,High,Mature,0
+MI-00898,2025-04-03,41,SUV,14,VIC,15853,5,0,1506.41,Comprehensive,Annual,0,0.0,Low,Medium,Middle,0
+MI-00899,2024-01-22,57,Utility,6,QLD,29134,6,0,1601.08,Comprehensive,Quarterly,0,0.0,Low,High,Mature,0
+MI-00900,2024-06-09,26,Utility,10,SA,16871,7,0,1337.92,Comprehensive,Annual,0,0.0,Low,Medium,Young,0
+MI-00901,2024-01-21,46,Utility,7,NSW,19323,4,0,1419.32,Comprehensive,Annual,0,0.0,Low,Medium,Middle,0
+MI-00902,2024-05-06,54,Sedan,12,WA,21116,0,0,1196.17,Third Party,Annual,0,0.0,Medium,High,Mature,0
+MI-00903,2024-01-21,45,Hatchback,4,WA,25239,0,0,1013.26,Third Party,Monthly,1,10672.12,Low,High,Middle,0
+MI-00904,2024-07-26,30,Sedan,12,NSW,11571,3,0,1151.72,Comprehensive,Annual,1,2756.28,Low,Medium,Middle,0
+MI-00905,2025-01-16,35,Van,8,VIC,22710,2,0,1503.84,Comprehensive,Annual,0,0.0,Medium,High,Middle,0
+MI-00906,2024-05-27,66,Sedan,7,VIC,27027,5,0,1324.65,Comprehensive,Annual,0,0.0,Low,High,Mature,0
+MI-00907,2025-08-03,26,Sedan,5,NSW,24149,0,0,1068.53,Third Party,Monthly,0,0.0,Low,High,Young,0
+MI-00908,2024-10-01,24,Utility,8,VIC,15265,0,0,1890.83,Comprehensive,Quarterly,0,0.0,Medium,Medium,Young,0
+MI-00909,2024-03-24,69,Hatchback,15,VIC,12357,3,0,1340.41,Comprehensive,Quarterly,0,0.0,Low,Medium,Mature,0
+MI-00910,2025-03-10,48,Hatchback,12,NSW,23845,1,0,1157.84,Third Party,Annual,0,0.0,Medium,High,Middle,0
+MI-00911,2025-11-23,61,Utility,15,NSW,20759,0,0,1443.36,Fire and Theft,Monthly,1,459.92,Medium,High,Mature,0
+MI-00912,2024-08-03,57,Hatchback,4,NSW,11349,10,0,892.09,Comprehensive,Monthly,0,0.0,Low,Medium,Mature,0
+MI-00913,2024-01-06,68,Hatchback,4,NSW,14396,3,0,971.58,Comprehensive,Quarterly,0,0.0,Low,Medium,Mature,0
+MI-00914,2024-08-19,33,Sedan,3,VIC,14874,5,0,1032.91,Comprehensive,Monthly,0,0.0,Low,Medium,Middle,0
+MI-00915,2025-07-28,21,Van,8,NSW,21818,7,0,1301.68,Third Party,Quarterly,0,0.0,Low,High,Young,0
+MI-00916,2025-01-27,63,Sedan,4,NSW,16852,6,0,1105.91,Comprehensive,Monthly,0,0.0,Low,Medium,Mature,0
+MI-00917,2024-08-09,70,Utility,8,SA,15281,9,0,1257.11,Comprehensive,Annual,0,0.0,Low,Medium,Mature,0
+MI-00918,2025-11-11,72,Hatchback,4,NSW,20052,9,0,1089.59,Comprehensive,Annual,0,0.0,Low,High,Mature,0
+MI-00919,2024-03-21,40,SUV,3,NSW,7219,7,0,859.58,Third Party,Annual,0,0.0,Low,Low,Middle,0
+MI-00920,2024-05-03,74,Sedan,5,SA,21138,8,0,1090.92,Comprehensive,Monthly,0,0.0,Low,High,Mature,0
+MI-00921,2024-07-14,48,Hatchback,5,NSW,11160,7,1,1333.83,Comprehensive,Monthly,0,0.0,Low,Medium,Middle,1
+MI-00922,2025-05-29,32,Van,0,NSW,13251,6,0,912.29,Fire and Theft,Quarterly,0,0.0,Low,Medium,Middle,0
+MI-00923,2024-02-01,59,Sedan,8,QLD,3000,7,0,1053.38,Comprehensive,Monthly,0,0.0,Low,Low,Mature,0
+MI-00924,2024-06-05,51,Van,14,VIC,3000,7,1,1581.92,Comprehensive,Annual,0,0.0,Low,Low,Mature,1
+MI-00925,2024-10-11,32,Utility,4,NSW,17652,5,0,1250.2,Comprehensive,Quarterly,0,0.0,Low,Medium,Middle,0
+MI-00926,2025-01-10,33,Hatchback,0,VIC,9438,9,0,579.86,Fire and Theft,Monthly,0,0.0,Low,Low,Middle,0
+MI-00927,2024-07-22,63,SUV,1,NSW,19484,7,0,1173.12,Comprehensive,Annual,0,0.0,Low,Medium,Mature,0
+MI-00928,2024-03-31,47,Sedan,0,NSW,12979,5,1,1185.54,Comprehensive,Quarterly,0,0.0,Low,Medium,Middle,1
+MI-00929,2024-03-24,26,Sedan,2,NSW,3000,8,1,1005.27,Comprehensive,Annual,0,0.0,Low,Low,Young,1
+MI-00930,2025-02-27,36,SUV,6,QLD,15581,4,0,1241.92,Comprehensive,Monthly,0,0.0,Low,Medium,Middle,0
+MI-00931,2025-10-19,33,Sedan,6,NSW,13199,3,0,1143.32,Comprehensive,Annual,0,0.0,Low,Medium,Middle,0
+MI-00932,2025-11-29,74,Hatchback,5,NSW,19256,5,0,794.29,Third Party,Annual,0,0.0,Low,Medium,Mature,0
+MI-00933,2024-07-09,34,SUV,8,NSW,16736,5,0,1314.47,Comprehensive,Monthly,0,0.0,Low,Medium,Middle,0
+MI-00934,2024-06-11,50,Hatchback,11,VIC,8379,3,0,1005.79,Comprehensive,Quarterly,0,0.0,Low,Low,Middle,0
+MI-00935,2025-08-30,42,SUV,3,NSW,13568,5,1,1492.72,Comprehensive,Monthly,0,0.0,Low,Medium,Middle,1
+MI-00936,2024-08-27,48,Utility,15,WA,15898,3,0,1566.2,Comprehensive,Quarterly,0,0.0,Medium,Medium,Middle,0
+MI-00937,2025-06-20,53,Sedan,13,QLD,22304,0,0,1298.11,Fire and Theft,Quarterly,1,1782.73,Medium,High,Mature,0
+MI-00938,2024-06-25,24,Van,9,WA,19776,4,0,1363.5,Third Party,Annual,0,0.0,Medium,Medium,Young,0
+MI-00939,2024-04-12,26,Sedan,6,VIC,15391,6,1,1349.23,Comprehensive,Annual,0,0.0,Low,Medium,Young,1
+MI-00940,2024-05-16,64,SUV,6,SA,9986,7,1,1391.63,Comprehensive,Annual,0,0.0,Low,Low,Mature,1
+MI-00941,2024-07-01,41,Van,13,QLD,10137,7,2,1927.32,Comprehensive,Quarterly,0,0.0,Medium,Medium,Middle,1
+MI-00942,2025-03-21,44,SUV,0,QLD,16152,6,0,1030.67,Comprehensive,Annual,0,0.0,Low,Medium,Middle,0
+MI-00943,2025-02-11,45,Hatchback,13,NSW,12349,5,0,1050.85,Fire and Theft,Annual,0,0.0,Low,Medium,Middle,0
+MI-00944,2025-06-03,74,Sedan,2,VIC,14968,4,1,1196.72,Comprehensive,Annual,0,0.0,Low,Medium,Mature,1
+MI-00945,2025-05-29,50,Sedan,12,VIC,22440,7,0,1024.71,Third Party,Quarterly,0,0.0,Low,High,Middle,0
+MI-00946,2025-08-27,51,Hatchback,11,NSW,18952,8,1,1611.92,Comprehensive,Annual,0,0.0,Low,Medium,Mature,1
+MI-00947,2025-01-13,53,Utility,14,VIC,14191,9,0,1464.54,Comprehensive,Monthly,0,0.0,Low,Medium,Mature,0
+MI-00948,2024-12-31,42,Hatchback,0,VIC,18644,0,0,1313.87,Comprehensive,Monthly,0,0.0,Low,Medium,Middle,0
+MI-00949,2025-04-14,55,Utility,7,NSW,12706,1,0,1147.72,Fire and Theft,Annual,0,0.0,Low,Medium,Mature,0
+MI-00950,2025-06-08,36,Van,14,NSW,15159,6,1,1317.53,Third Party,Annual,0,0.0,Medium,Medium,Middle,1
+MI-00951,2025-03-19,26,SUV,9,VIC,31772,2,0,1388.62,Fire and Theft,Monthly,0,0.0,Medium,High,Young,0
+MI-00952,2024-08-08,71,Sedan,8,SA,9950,8,0,1012.13,Comprehensive,Monthly,0,0.0,Low,Low,Mature,0
+MI-00953,2024-01-20,48,Sedan,5,NSW,11804,9,0,948.74,Comprehensive,Annual,0,0.0,Low,Medium,Middle,0
+MI-00954,2025-09-18,63,Sedan,8,VIC,18309,1,0,938.12,Third Party,Annual,0,0.0,Low,Medium,Mature,0
+MI-00955,2024-12-20,66,Hatchback,14,VIC,12155,4,2,1769.32,Comprehensive,Annual,0,0.0,Medium,Medium,Mature,1
+MI-00956,2025-10-08,30,SUV,15,NSW,12865,2,0,1071.54,Third Party,Quarterly,0,0.0,Low,Medium,Middle,0
+MI-00957,2025-08-01,43,Sedan,11,NSW,16038,5,0,1168.84,Comprehensive,Monthly,0,0.0,Low,Medium,Middle,0
+MI-00958,2024-04-09,69,Sedan,9,VIC,11253,9,0,1105.33,Comprehensive,Monthly,0,0.0,Low,Medium,Mature,0
+MI-00959,2025-03-04,34,Van,9,NSW,22091,7,0,1547.8,Comprehensive,Monthly,0,0.0,Low,High,Middle,0
+MI-00960,2024-08-18,38,SUV,11,QLD,10917,6,0,1263.22,Comprehensive,Monthly,0,0.0,Low,Medium,Middle,0
+MI-00961,2025-04-20,52,Utility,9,WA,3000,1,0,1372.78,Comprehensive,Annual,0,0.0,Low,Low,Mature,0
+MI-00962,2025-05-30,64,Van,12,VIC,10110,2,0,1462.31,Comprehensive,Monthly,0,0.0,Low,Medium,Mature,0
+MI-00963,2025-09-07,59,Hatchback,13,SA,13761,6,0,1277.99,Comprehensive,Annual,0,0.0,Low,Medium,Mature,0
+MI-00964,2024-11-26,62,SUV,6,WA,19296,9,0,1124.33,Fire and Theft,Quarterly,0,0.0,Low,Medium,Mature,0
+MI-00965,2025-10-18,25,Van,6,VIC,6460,5,0,1162.61,Comprehensive,Monthly,0,0.0,Low,Low,Young,0
+MI-00966,2025-04-26,59,Utility,5,NSW,15567,7,0,1244.08,Comprehensive,Monthly,0,0.0,Low,Medium,Mature,0
+MI-00967,2024-03-02,25,Utility,8,WA,5972,6,3,1485.38,Third Party,Annual,0,0.0,Medium,Low,Young,1
+MI-00968,2024-09-25,46,Utility,1,VIC,14380,6,0,1083.86,Comprehensive,Annual,0,0.0,Low,Medium,Middle,0
+MI-00969,2024-12-03,58,Utility,3,QLD,9650,1,0,1355.55,Comprehensive,Annual,0,0.0,Low,Low,Mature,0
+MI-00970,2024-10-08,25,SUV,15,QLD,16260,7,0,1468.6,Comprehensive,Annual,0,0.0,Low,Medium,Young,0
+MI-00971,2024-11-08,69,Sedan,9,NSW,22107,7,0,898.86,Third Party,Monthly,0,0.0,Low,High,Mature,0
+MI-00972,2024-08-04,49,Hatchback,4,QLD,14762,3,0,1009.21,Comprehensive,Annual,0,0.0,Low,Medium,Middle,0
+MI-00973,2025-10-21,30,Hatchback,8,VIC,3000,5,0,750.0,Fire and Theft,Quarterly,0,0.0,Low,Low,Middle,0
+MI-00974,2025-11-15,75,SUV,11,VIC,24402,9,0,1517.99,Comprehensive,Annual,0,0.0,Low,High,Mature,0
+MI-00975,2025-10-15,42,Sedan,6,NSW,14004,8,0,1168.58,Comprehensive,Monthly,0,0.0,Low,Medium,Middle,0
+MI-00976,2025-07-01,74,Utility,7,QLD,14900,6,2,1880.23,Comprehensive,Annual,0,0.0,Medium,Medium,Mature,1
+MI-00977,2024-08-21,55,Utility,1,VIC,11180,8,0,871.21,Fire and Theft,Quarterly,0,0.0,Low,Medium,Mature,0
+MI-00978,2024-03-03,50,Sedan,8,VIC,19543,8,0,989.79,Fire and Theft,Monthly,0,0.0,Low,Medium,Middle,0
+MI-00979,2024-03-26,36,Hatchback,15,VIC,4968,3,0,1124.92,Comprehensive,Annual,0,0.0,Low,Low,Middle,0
+MI-00980,2025-10-20,27,Hatchback,6,QLD,15721,4,1,1033.92,Third Party,Annual,0,0.0,Low,Medium,Young,1
+MI-00981,2024-10-17,72,Hatchback,14,SA,15927,3,0,1356.46,Comprehensive,Monthly,0,0.0,Low,Medium,Mature,0
+MI-00982,2024-01-07,40,Sedan,7,VIC,12633,6,0,739.12,Third Party,Annual,0,0.0,Low,Medium,Middle,0
+MI-00983,2024-07-06,53,SUV,5,NSW,16636,0,1,1746.7,Comprehensive,Monthly,1,1987.5,Medium,Medium,Mature,1
+MI-00984,2024-07-15,40,SUV,10,QLD,6277,9,0,930.02,Third Party,Annual,0,0.0,Low,Low,Middle,0
+MI-00985,2024-10-02,71,Sedan,5,QLD,24974,10,0,1024.71,Third Party,Monthly,0,0.0,Low,High,Mature,0
+MI-00986,2025-03-03,37,SUV,9,VIC,12377,8,0,1393.33,Comprehensive,Monthly,1,2614.1,Low,Medium,Middle,0
+MI-00987,2025-01-26,29,Van,8,NSW,14741,7,0,1288.12,Comprehensive,Annual,0,0.0,Low,Medium,Young,0
+MI-00988,2025-08-30,56,Utility,6,QLD,11162,0,0,1113.12,Third Party,Quarterly,0,0.0,Low,Medium,Mature,0
+MI-00989,2025-10-16,23,Utility,12,QLD,22313,3,0,1895.66,Comprehensive,Annual,0,0.0,Medium,High,Young,0
+MI-00990,2024-06-03,55,SUV,9,NSW,23192,3,1,1837.32,Comprehensive,Annual,0,0.0,Medium,High,Mature,1
+MI-00991,2024-05-23,57,Sedan,2,VIC,12159,7,0,762.97,Third Party,Monthly,0,0.0,Low,Medium,Mature,0
+MI-00992,2025-01-05,25,Utility,10,SA,8801,7,0,1349.05,Comprehensive,Annual,0,0.0,Low,Low,Young,0
+MI-00993,2024-02-19,64,Van,8,NSW,15979,1,0,1507.86,Comprehensive,Monthly,0,0.0,Low,Medium,Mature,0
+MI-00994,2025-08-11,24,Van,11,NSW,14467,5,1,1557.4,Third Party,Monthly,0,0.0,Medium,Medium,Young,1
+MI-00995,2025-09-16,25,Utility,2,SA,17529,8,1,1440.56,Comprehensive,Quarterly,0,0.0,Low,Medium,Young,1
+MI-00996,2025-08-12,33,Utility,13,WA,3000,10,0,1280.17,Comprehensive,Annual,0,0.0,Low,Low,Middle,0
+MI-00997,2024-06-03,54,Utility,13,WA,11584,6,0,1421.18,Comprehensive,Annual,0,0.0,Low,Medium,Mature,0
+MI-00998,2025-08-13,35,Hatchback,10,VIC,13525,8,2,1354.65,Fire and Theft,Monthly,1,6263.24,Low,Medium,Middle,1
+MI-00999,2024-11-06,32,Sedan,1,QLD,3000,3,0,740.81,Comprehensive,Annual,0,0.0,Low,Low,Middle,0
+MI-01000,2024-08-01,38,Sedan,6,QLD,29127,10,0,1074.97,Fire and Theft,Annual,0,0.0,Low,High,Middle,0
+MI-01001,2024-05-04,49,SUV,6,NSW,7276,0,0,1203.21,Fire and Theft,Monthly,0,0.0,Low,Low,Middle,0
+MI-01002,2025-05-04,34,Sedan,15,QLD,3000,4,0,1255.17,Comprehensive,Monthly,0,0.0,Low,Low,Middle,0
+MI-01003,2025-03-20,28,Van,0,NSW,18164,9,0,895.69,Fire and Theft,Monthly,0,0.0,Low,Medium,Young,0
+MI-01004,2024-02-16,62,SUV,2,QLD,20901,0,2,1457.38,Third Party,Quarterly,1,1916.59,Medium,High,Mature,1
+MI-01005,2025-02-28,29,SUV,4,QLD,16178,8,1,1116.65,Third Party,Annual,0,0.0,Low,Medium,Young,1
+MI-01006,2024-11-09,47,Sedan,4,QLD,17522,9,0,1050.71,Comprehensive,Monthly,0,0.0,Low,Medium,Middle,0
+MI-01007,2025-02-21,44,Van,8,QLD,17463,0,0,1210.8,Third Party,Annual,1,2455.15,Medium,Medium,Middle,0
+MI-01008,2025-07-03,54,Sedan,3,NSW,18281,10,0,1056.5,Comprehensive,Quarterly,0,0.0,Low,Medium,Mature,0
+MI-01009,2024-04-08,75,Hatchback,0,NSW,3000,1,0,948.73,Comprehensive,Monthly,0,0.0,Low,Low,Mature,0
+MI-01010,2024-10-16,68,Utility,6,NSW,4288,1,0,940.26,Third Party,Monthly,0,0.0,Low,Low,Mature,0
+MI-01011,2024-09-30,27,Sedan,8,NSW,12871,10,0,1063.56,Comprehensive,Monthly,0,0.0,Low,Medium,Young,0
+MI-01012,2024-07-21,29,SUV,11,QLD,3000,0,1,1692.21,Comprehensive,Annual,0,0.0,Medium,Low,Young,1
+MI-01013,2025-08-14,21,Sedan,1,WA,16499,0,0,1218.87,Third Party,Annual,0,0.0,Low,Medium,Young,0
+MI-01014,2024-09-18,34,SUV,8,VIC,19884,8,2,2004.55,Comprehensive,Quarterly,0,0.0,Low,Medium,Middle,1
+MI-01015,2025-07-10,52,Utility,14,QLD,13068,5,0,1399.08,Comprehensive,Monthly,1,1906.27,Low,Medium,Mature,0
+MI-01016,2024-07-05,28,Sedan,9,NSW,11892,6,2,1393.65,Fire and Theft,Quarterly,0,0.0,Low,Medium,Young,1
+MI-01017,2024-02-18,53,Sedan,7,QLD,19403,5,1,1556.12,Comprehensive,Monthly,0,0.0,Low,Medium,Mature,1
+MI-01018,2024-06-04,44,Hatchback,5,VIC,19162,6,0,859.42,Third Party,Monthly,0,0.0,Low,Medium,Middle,0
+MI-01019,2025-04-24,60,SUV,6,NSW,31330,3,1,1428.15,Fire and Theft,Quarterly,0,0.0,Medium,High,Mature,1
+MI-01020,2025-02-24,67,Van,0,NSW,13501,2,1,1402.06,Comprehensive,Annual,1,3717.42,Low,Medium,Mature,1
+MI-01021,2024-10-09,72,Van,7,VIC,19649,6,0,1427.7,Comprehensive,Annual,0,0.0,Low,Medium,Mature,0
+MI-01022,2025-10-05,46,Sedan,4,NSW,19264,3,0,1145.72,Comprehensive,Monthly,0,0.0,Low,Medium,Middle,0
+MI-01023,2024-10-05,35,Hatchback,9,WA,7377,1,1,1091.17,Third Party,Monthly,0,0.0,Low,Low,Middle,1
+MI-01024,2024-08-18,23,SUV,8,NSW,7569,9,0,1133.76,Third Party,Monthly,0,0.0,Low,Low,Young,0
+MI-01025,2024-10-13,26,Van,11,NSW,20461,7,0,1437.78,Comprehensive,Annual,0,0.0,Low,High,Young,0
+MI-01026,2025-05-12,67,Sedan,8,QLD,11418,2,0,1240.88,Comprehensive,Monthly,0,0.0,Low,Medium,Mature,0
+MI-01027,2025-06-15,52,Sedan,13,QLD,24994,7,0,1112.18,Third Party,Annual,0,0.0,Low,High,Mature,0
+MI-01028,2025-11-19,63,SUV,3,QLD,20364,6,0,826.94,Third Party,Annual,0,0.0,Low,High,Mature,0
+MI-01029,2025-02-12,59,SUV,12,QLD,25088,4,0,1196.73,Third Party,Annual,0,0.0,Low,High,Mature,0
+MI-01030,2024-01-30,61,Utility,13,QLD,24300,0,2,2442.22,Comprehensive,Quarterly,0,0.0,High,High,Mature,1
+MI-01031,2025-10-12,75,Van,11,WA,6237,2,0,1470.21,Comprehensive,Monthly,0,0.0,Low,Low,Mature,0
+MI-01032,2025-07-05,71,Sedan,10,QLD,16236,1,0,1287.69,Comprehensive,Annual,0,0.0,Low,Medium,Mature,0
+MI-01033,2025-01-26,74,Van,10,WA,24363,6,0,1580.98,Comprehensive,Annual,0,0.0,Low,High,Mature,0
+MI-01034,2024-11-13,75,Hatchback,11,VIC,10307,1,0,1331.63,Comprehensive,Annual,0,0.0,Low,Medium,Mature,0
+MI-01035,2025-11-10,65,Hatchback,9,QLD,9639,7,0,1063.66,Comprehensive,Monthly,0,0.0,Low,Low,Mature,0
+MI-01036,2024-10-27,37,Sedan,10,VIC,4321,1,2,1376.77,Third Party,Quarterly,0,0.0,Medium,Low,Middle,1
+MI-01037,2024-08-12,26,SUV,7,VIC,23923,7,0,1466.22,Comprehensive,Monthly,0,0.0,Low,High,Young,0
+MI-01038,2025-08-04,35,SUV,6,NSW,11131,9,0,1353.19,Comprehensive,Monthly,0,0.0,Low,Medium,Middle,0
+MI-01039,2024-09-26,32,Utility,12,QLD,29831,7,0,1234.13,Fire and Theft,Monthly,0,0.0,Low,High,Middle,0
+MI-01040,2025-07-05,44,Van,7,VIC,5797,1,1,1399.56,Fire and Theft,Annual,0,0.0,Low,Low,Middle,1
+MI-01041,2024-08-17,27,Van,15,VIC,25618,2,0,1365.39,Third Party,Quarterly,0,0.0,Medium,High,Young,0
+MI-01042,2024-02-28,57,Utility,14,QLD,9042,10,0,1378.74,Comprehensive,Monthly,0,0.0,Low,Low,Mature,0
+MI-01043,2025-09-04,51,Utility,4,NSW,6135,3,0,978.51,Fire and Theft,Annual,0,0.0,Low,Low,Mature,0
+MI-01044,2025-06-04,66,Utility,4,SA,17546,5,0,1331.34,Comprehensive,Monthly,0,0.0,Low,Medium,Mature,0
+MI-01045,2024-03-06,30,Utility,10,WA,18108,7,0,1054.0,Third Party,Annual,0,0.0,Low,Medium,Middle,0
+MI-01046,2024-05-02,67,Sedan,6,NSW,7193,2,0,996.84,Comprehensive,Monthly,0,0.0,Low,Low,Mature,0
+MI-01047,2025-03-16,27,Van,12,WA,10584,8,0,1396.39,Comprehensive,Annual,0,0.0,Low,Medium,Young,0
+MI-01048,2024-01-21,52,Sedan,8,VIC,18769,6,0,1047.72,Third Party,Monthly,0,0.0,Low,Medium,Mature,0
+MI-01049,2025-08-04,24,Van,1,QLD,16315,10,0,1476.33,Comprehensive,Annual,0,0.0,Low,Medium,Young,0
+MI-01050,2025-09-06,75,Sedan,5,NSW,13014,2,0,873.67,Fire and Theft,Quarterly,0,0.0,Low,Medium,Mature,0
+MI-01051,2024-05-03,32,Van,5,VIC,18775,6,2,1452.05,Fire and Theft,Monthly,0,0.0,Medium,Medium,Middle,1
+MI-01052,2024-12-11,40,Van,3,VIC,19327,9,0,1337.24,Comprehensive,Quarterly,0,0.0,Low,Medium,Middle,0
+MI-01053,2025-05-17,63,Hatchback,12,QLD,25070,0,0,1634.81,Comprehensive,Quarterly,1,3005.14,Medium,High,Mature,0
+MI-01054,2025-07-13,51,Utility,3,WA,23973,9,0,1045.06,Third Party,Monthly,0,0.0,Low,High,Mature,0
+MI-01055,2024-11-25,39,SUV,14,QLD,13567,4,0,1525.36,Comprehensive,Monthly,0,0.0,Low,Medium,Middle,0
+MI-01056,2024-11-10,60,SUV,15,SA,17449,7,0,1444.56,Comprehensive,Quarterly,0,0.0,Low,Medium,Mature,0
+MI-01057,2024-02-23,68,Van,5,QLD,15457,0,0,1458.31,Comprehensive,Quarterly,0,0.0,Low,Medium,Mature,0
+MI-01058,2024-11-23,64,Utility,5,VIC,15175,2,0,1330.98,Comprehensive,Annual,1,2251.3,Low,Medium,Mature,0
+MI-01059,2024-12-04,61,Hatchback,1,SA,18711,9,0,1110.33,Comprehensive,Monthly,0,0.0,Low,Medium,Mature,0
+MI-01060,2025-11-27,45,Utility,11,SA,12910,6,0,1385.95,Comprehensive,Quarterly,0,0.0,Low,Medium,Middle,0
+MI-01061,2024-09-16,61,SUV,8,VIC,28082,4,1,1830.41,Comprehensive,Monthly,0,0.0,Medium,High,Mature,1
+MI-01062,2025-05-15,61,Hatchback,1,QLD,6899,2,0,951.3,Comprehensive,Quarterly,0,0.0,Low,Low,Mature,0
+MI-01063,2024-05-02,55,SUV,8,SA,13816,3,0,887.07,Third Party,Annual,0,0.0,Low,Medium,Mature,0
+MI-01064,2024-03-26,33,Van,15,NSW,14258,5,0,1484.79,Comprehensive,Annual,0,0.0,Low,Medium,Middle,0
+MI-01065,2024-07-12,72,Sedan,13,QLD,12661,6,0,989.98,Fire and Theft,Monthly,0,0.0,Low,Medium,Mature,0
+MI-01066,2025-02-04,67,SUV,0,SA,7349,9,0,1123.26,Comprehensive,Monthly,0,0.0,Low,Low,Mature,0
+MI-01067,2025-06-25,39,SUV,7,NSW,19262,4,1,1732.34,Comprehensive,Annual,0,0.0,Low,Medium,Middle,1
+MI-01068,2025-01-14,31,Sedan,10,NSW,13339,5,0,1109.28,Comprehensive,Quarterly,1,1439.93,Low,Medium,Middle,0
+MI-01069,2025-01-30,57,Sedan,7,QLD,23965,0,1,1822.23,Comprehensive,Monthly,0,0.0,Medium,High,Mature,1
+MI-01070,2025-07-03,60,SUV,7,QLD,11454,10,0,964.43,Fire and Theft,Annual,0,0.0,Low,Medium,Mature,0
+MI-01071,2024-02-13,35,Sedan,5,SA,12169,1,1,1506.99,Comprehensive,Annual,0,0.0,Low,Medium,Middle,1
+MI-01072,2025-04-08,66,Utility,7,SA,22449,2,0,1264.61,Fire and Theft,Monthly,0,0.0,Low,High,Mature,0
+MI-01073,2025-11-06,45,SUV,10,VIC,7613,2,0,1397.4,Comprehensive,Annual,0,0.0,Low,Low,Middle,0
+MI-01074,2025-09-30,44,Van,13,VIC,13727,5,0,1480.75,Comprehensive,Quarterly,0,0.0,Low,Medium,Middle,0
+MI-01075,2024-06-25,33,Sedan,5,QLD,22378,10,0,1163.52,Comprehensive,Monthly,0,0.0,Low,High,Middle,0
+MI-01076,2025-05-13,68,Hatchback,4,QLD,5598,1,0,1020.49,Comprehensive,Monthly,0,0.0,Low,Low,Mature,0
+MI-01077,2024-11-16,69,Hatchback,1,QLD,16633,0,1,1519.84,Comprehensive,Quarterly,0,0.0,Low,Medium,Mature,1
+MI-01078,2024-12-12,43,Sedan,4,SA,15149,6,0,854.7,Fire and Theft,Annual,0,0.0,Low,Medium,Middle,0
+MI-01079,2025-04-25,39,SUV,5,WA,19888,5,0,1381.2,Comprehensive,Monthly,0,0.0,Low,Medium,Middle,0
+MI-01080,2025-01-23,38,Hatchback,7,SA,14114,5,1,1357.7,Comprehensive,Annual,0,0.0,Low,Medium,Middle,1
+MI-01081,2024-12-13,70,Sedan,11,SA,12453,9,2,1372.71,Fire and Theft,Monthly,0,0.0,Low,Medium,Mature,1
+MI-01082,2025-10-11,44,Sedan,4,QLD,9613,1,2,1247.85,Fire and Theft,Annual,0,0.0,Medium,Low,Middle,1
+MI-01083,2024-09-15,66,Utility,2,VIC,23554,6,0,1050.32,Fire and Theft,Annual,0,0.0,Low,High,Mature,0
+MI-01084,2024-02-11,38,Van,0,VIC,17763,2,0,1256.48,Comprehensive,Annual,0,0.0,Low,Medium,Middle,0
+MI-01085,2024-07-23,69,Hatchback,2,VIC,28925,9,0,1241.03,Comprehensive,Annual,0,0.0,Low,High,Mature,0
+MI-01086,2024-12-20,45,SUV,8,QLD,9994,9,1,1615.95,Comprehensive,Annual,0,0.0,Low,Low,Middle,1
+MI-01087,2024-04-26,56,Sedan,9,NSW,28459,0,0,1581.16,Comprehensive,Monthly,1,2435.98,Medium,High,Mature,0
+MI-01088,2024-06-08,25,Sedan,7,QLD,16592,0,1,1344.33,Fire and Theft,Monthly,0,0.0,Medium,Medium,Young,1
+MI-01089,2024-04-03,50,Hatchback,10,QLD,18609,7,0,940.62,Third Party,Annual,0,0.0,Low,Medium,Middle,0
+MI-01090,2025-05-22,26,Sedan,7,NSW,14675,6,0,768.86,Third Party,Monthly,0,0.0,Low,Medium,Young,0
+MI-01091,2024-07-12,32,SUV,1,VIC,13356,10,0,904.27,Fire and Theft,Monthly,0,0.0,Low,Medium,Middle,0
+MI-01092,2025-06-02,65,Utility,6,NSW,7240,1,0,1483.55,Comprehensive,Monthly,0,0.0,Low,Low,Mature,0
+MI-01093,2024-03-05,34,SUV,11,QLD,6693,10,0,923.01,Third Party,Annual,0,0.0,Low,Low,Middle,0
+MI-01094,2025-01-05,67,Sedan,13,NSW,16934,0,1,1752.06,Comprehensive,Monthly,0,0.0,Medium,Medium,Mature,1
+MI-01095,2025-05-15,59,Hatchback,2,VIC,15184,4,1,1232.36,Comprehensive,Annual,0,0.0,Low,Medium,Mature,1
+MI-01096,2025-04-19,68,Sedan,5,NSW,11620,5,2,1218.54,Third Party,Quarterly,0,0.0,Low,Medium,Mature,1
+MI-01097,2024-06-01,50,SUV,4,QLD,4042,9,1,1425.74,Comprehensive,Quarterly,0,0.0,Low,Low,Middle,1
+MI-01098,2025-05-24,21,SUV,5,NSW,20287,0,0,1992.71,Comprehensive,Annual,0,0.0,Medium,High,Young,0
+MI-01099,2024-03-02,40,Utility,8,NSW,5611,4,2,1750.75,Comprehensive,Quarterly,0,0.0,Medium,Low,Middle,1
+MI-01100,2024-11-11,27,Sedan,10,QLD,13202,5,0,1139.83,Comprehensive,Monthly,0,0.0,Low,Medium,Young,0
+MI-01101,2025-08-01,42,Hatchback,13,QLD,9515,3,0,828.78,Third Party,Annual,0,0.0,Low,Low,Middle,0
+MI-01102,2025-05-02,25,Sedan,11,VIC,17455,2,1,1670.62,Comprehensive,Quarterly,0,0.0,Medium,Medium,Young,1
+MI-01103,2025-09-16,56,SUV,10,QLD,29758,8,0,1210.34,Fire and Theft,Monthly,0,0.0,Low,High,Mature,0
+MI-01104,2025-04-18,73,Sedan,15,WA,10795,4,0,1345.9,Comprehensive,Monthly,0,0.0,Low,Medium,Mature,0
+MI-01105,2024-08-16,67,Sedan,14,VIC,19894,7,0,1099.07,Third Party,Monthly,0,0.0,Low,Medium,Mature,0
+MI-01106,2025-10-23,41,SUV,15,VIC,19421,5,0,1121.37,Fire and Theft,Annual,0,0.0,Low,Medium,Middle,0
+MI-01107,2024-01-12,59,Hatchback,9,QLD,15610,8,0,833.25,Third Party,Annual,0,0.0,Low,Medium,Mature,0
+MI-01108,2025-01-26,34,Sedan,0,NSW,11798,4,1,896.06,Fire and Theft,Annual,0,0.0,Low,Medium,Middle,1
+MI-01109,2024-01-18,59,SUV,10,NSW,15229,7,0,1424.43,Comprehensive,Annual,0,0.0,Low,Medium,Mature,0
+MI-01110,2025-09-19,41,Hatchback,11,NSW,19098,0,0,1495.5,Comprehensive,Annual,0,0.0,Medium,Medium,Middle,0
+MI-01111,2024-03-10,23,Hatchback,10,VIC,3757,0,1,1893.19,Comprehensive,Annual,1,2076.21,Medium,Low,Young,1
+MI-01112,2025-10-19,66,Sedan,11,SA,12472,7,0,1219.6,Comprehensive,Monthly,0,0.0,Low,Medium,Mature,0
+MI-01113,2025-07-25,65,Sedan,2,WA,12950,9,0,969.04,Comprehensive,Monthly,1,6683.47,Low,Medium,Mature,0
+MI-01114,2025-02-09,51,Sedan,7,QLD,31362,1,0,1513.4,Comprehensive,Monthly,1,7135.54,Medium,High,Mature,0
+MI-01115,2025-08-18,63,Hatchback,13,VIC,24401,2,0,1519.26,Comprehensive,Monthly,0,0.0,Medium,High,Mature,0
+MI-01116,2025-02-01,53,Van,5,VIC,16454,6,0,1284.51,Comprehensive,Annual,0,0.0,Low,Medium,Mature,0
+MI-01117,2025-10-29,33,Utility,8,VIC,13650,1,0,1519.83,Comprehensive,Monthly,0,0.0,Low,Medium,Middle,0
+MI-01118,2024-11-01,70,SUV,5,NSW,13652,9,0,930.8,Third Party,Monthly,0,0.0,Low,Medium,Mature,0
+MI-01119,2024-11-13,64,Sedan,9,VIC,24590,6,1,1628.4,Comprehensive,Monthly,1,3092.88,Low,High,Mature,1
+MI-01120,2024-04-19,46,Hatchback,5,SA,7307,8,0,762.71,Fire and Theft,Annual,0,0.0,Low,Low,Middle,0
+MI-01121,2024-02-24,75,Sedan,1,WA,30166,3,0,1173.35,Comprehensive,Annual,0,0.0,Low,High,Mature,0
+MI-01122,2024-05-25,62,Sedan,13,QLD,12326,7,0,1249.53,Comprehensive,Annual,0,0.0,Low,Medium,Mature,0
+MI-01123,2024-03-29,72,Van,3,SA,15645,0,2,1964.42,Comprehensive,Annual,0,0.0,Medium,Medium,Mature,1
+MI-01124,2024-01-31,50,Utility,8,NSW,13831,7,0,1249.32,Comprehensive,Monthly,1,3094.63,Low,Medium,Middle,0
+MI-01125,2025-11-18,32,Van,1,QLD,28861,7,1,1637.99,Comprehensive,Annual,0,0.0,Low,High,Middle,1
+MI-01126,2024-08-25,33,Sedan,14,WA,17952,6,1,1616.09,Comprehensive,Monthly,0,0.0,Low,Medium,Middle,1
+MI-01127,2025-07-07,68,Sedan,11,NSW,7900,5,0,953.33,Fire and Theft,Monthly,0,0.0,Low,Low,Mature,0
+MI-01128,2025-05-21,68,Hatchback,13,NSW,10048,4,0,910.31,Third Party,Monthly,0,0.0,Low,Medium,Mature,0
+MI-01129,2025-11-27,47,SUV,13,NSW,15928,9,0,1494.86,Comprehensive,Monthly,0,0.0,Low,Medium,Middle,0
+MI-01130,2024-07-29,23,SUV,4,QLD,4112,1,1,1866.3,Comprehensive,Monthly,0,0.0,Low,Low,Young,1
+MI-01131,2024-06-17,46,Sedan,13,WA,24131,5,0,1404.71,Comprehensive,Monthly,0,0.0,Low,High,Middle,0
+MI-01132,2024-08-12,64,Hatchback,10,VIC,10350,4,2,1772.78,Comprehensive,Monthly,0,0.0,Medium,Medium,Mature,1
+MI-01133,2025-05-31,68,SUV,3,NSW,13661,7,1,1062.78,Third Party,Quarterly,0,0.0,Low,Medium,Mature,1
+MI-01134,2024-07-14,52,Sedan,2,QLD,12202,3,0,1034.86,Comprehensive,Quarterly,1,598.37,Low,Medium,Mature,0
+MI-01135,2024-08-01,25,Sedan,14,SA,10606,4,0,1238.39,Comprehensive,Annual,0,0.0,Low,Medium,Young,0
+MI-01136,2025-04-29,60,Hatchback,15,QLD,7837,10,0,1147.57,Comprehensive,Annual,0,0.0,Low,Low,Mature,0
+MI-01137,2025-05-14,45,Utility,3,VIC,4556,10,0,771.14,Fire and Theft,Annual,0,0.0,Low,Low,Middle,0
+MI-01138,2025-04-25,26,SUV,2,NSW,14341,9,0,782.01,Third Party,Annual,1,1214.24,Low,Medium,Young,0
+MI-01139,2024-07-04,75,SUV,13,NSW,12477,7,0,1341.52,Comprehensive,Annual,0,0.0,Low,Medium,Mature,0
+MI-01140,2025-09-07,65,Hatchback,1,NSW,21792,1,0,974.2,Third Party,Annual,0,0.0,Low,High,Mature,0
+MI-01141,2024-02-14,28,Hatchback,2,NSW,15308,8,1,1026.18,Fire and Theft,Monthly,0,0.0,Low,Medium,Young,1
+MI-01142,2025-09-11,35,SUV,15,NSW,6506,9,0,1390.01,Comprehensive,Monthly,0,0.0,Low,Low,Middle,0
+MI-01143,2025-07-24,49,SUV,13,NSW,6124,6,0,1292.78,Comprehensive,Annual,0,0.0,Low,Low,Middle,0
+MI-01144,2024-01-25,25,Sedan,8,WA,12234,5,0,822.02,Fire and Theft,Annual,0,0.0,Low,Medium,Young,0
+MI-01145,2025-02-27,57,Sedan,6,VIC,22282,2,0,959.22,Third Party,Annual,1,1320.9,Low,High,Mature,0
+MI-01146,2024-11-23,46,Sedan,1,VIC,23903,3,0,1118.65,Comprehensive,Monthly,0,0.0,Low,High,Middle,0
+MI-01147,2024-03-13,51,Utility,6,QLD,11529,1,0,1404.27,Comprehensive,Quarterly,0,0.0,Low,Medium,Mature,0
+MI-01148,2025-10-02,29,Utility,4,WA,23100,10,0,1389.77,Comprehensive,Monthly,0,0.0,Low,High,Young,0
+MI-01149,2025-02-04,35,Utility,13,NSW,4039,8,0,988.65,Third Party,Quarterly,0,0.0,Low,Low,Middle,0
+MI-01150,2025-06-17,74,Utility,4,VIC,23369,4,1,1629.75,Comprehensive,Annual,0,0.0,Medium,High,Mature,1
+MI-01151,2024-10-14,70,Sedan,0,VIC,6603,8,1,1060.01,Comprehensive,Annual,0,0.0,Low,Low,Mature,1
+MI-01152,2025-08-26,72,Van,10,NSW,10355,3,2,1857.98,Comprehensive,Annual,0,0.0,Medium,Medium,Mature,1
+MI-01153,2024-10-01,64,Hatchback,4,VIC,22340,3,0,1195.63,Comprehensive,Annual,0,0.0,Low,High,Mature,0
+MI-01154,2025-06-14,39,Hatchback,7,NSW,27763,6,0,1254.95,Comprehensive,Monthly,0,0.0,Low,High,Middle,0
+MI-01155,2025-01-05,38,Sedan,13,QLD,19383,8,1,1266.77,Third Party,Annual,0,0.0,Low,Medium,Middle,1
+MI-01156,2024-12-11,56,SUV,14,VIC,20831,9,0,1646.96,Comprehensive,Monthly,0,0.0,Low,High,Mature,0
+MI-01157,2024-09-15,62,Utility,11,NSW,10859,6,0,1338.51,Comprehensive,Monthly,0,0.0,Low,Medium,Mature,0
+MI-01158,2024-10-10,45,Utility,12,NSW,21675,9,0,1345.94,Fire and Theft,Monthly,0,0.0,Low,High,Middle,0
+MI-01159,2024-05-05,47,Sedan,1,SA,10774,1,0,1030.36,Comprehensive,Annual,0,0.0,Low,Medium,Middle,0
+MI-01160,2024-07-28,72,Van,1,WA,14598,3,1,1216.57,Fire and Theft,Monthly,1,4766.57,Low,Medium,Mature,1
+MI-01161,2024-08-30,28,SUV,8,NSW,16268,6,1,1344.7,Fire and Theft,Annual,0,0.0,Low,Medium,Young,1
+MI-01162,2025-09-20,56,Hatchback,7,NSW,22248,5,0,1221.19,Comprehensive,Monthly,0,0.0,Low,High,Mature,0
+MI-01163,2024-04-19,38,Utility,3,NSW,18591,5,0,1232.98,Comprehensive,Annual,1,5377.14,Low,Medium,Middle,0
+MI-01164,2025-09-21,59,Utility,14,NSW,18171,7,0,1143.47,Third Party,Annual,0,0.0,Low,Medium,Mature,0
+MI-01165,2025-02-01,22,Hatchback,8,NSW,12772,9,0,1326.92,Comprehensive,Monthly,0,0.0,Low,Medium,Young,0
+MI-01166,2025-02-18,59,Sedan,4,QLD,7887,4,1,1159.97,Comprehensive,Annual,0,0.0,Low,Low,Mature,1
+MI-01167,2024-01-23,66,SUV,7,VIC,27890,7,0,1415.7,Comprehensive,Annual,0,0.0,Low,High,Mature,0
+MI-01168,2024-09-23,43,SUV,0,VIC,13700,0,0,1257.3,Comprehensive,Annual,0,0.0,Low,Medium,Middle,0
+MI-01169,2025-07-20,31,Sedan,6,WA,22137,8,0,958.3,Fire and Theft,Annual,1,3343.02,Low,High,Middle,0
+MI-01170,2024-06-29,75,SUV,5,NSW,13025,2,0,1373.01,Comprehensive,Monthly,0,0.0,Low,Medium,Mature,0
+MI-01171,2024-07-02,51,Van,5,NSW,17520,7,0,1262.42,Comprehensive,Monthly,0,0.0,Low,Medium,Mature,0
+MI-01172,2025-06-09,70,SUV,11,QLD,24652,2,0,1323.31,Third Party,Monthly,0,0.0,Medium,High,Mature,0
+MI-01173,2024-10-12,53,SUV,1,VIC,19643,8,0,1287.18,Comprehensive,Annual,0,0.0,Low,Medium,Mature,0
+MI-01174,2025-06-25,50,Sedan,3,QLD,20655,0,3,2287.16,Comprehensive,Annual,0,0.0,High,High,Middle,1
+MI-01175,2025-02-18,64,Utility,12,WA,6820,5,1,1593.12,Comprehensive,Monthly,0,0.0,Low,Low,Mature,1
+MI-01176,2025-09-10,54,Van,5,VIC,4249,2,0,1169.25,Comprehensive,Annual,0,0.0,Low,Low,Mature,0
+MI-01177,2025-08-27,45,SUV,11,NSW,5206,2,1,1202.82,Third Party,Annual,0,0.0,Low,Low,Middle,1
+MI-01178,2025-01-15,68,Sedan,9,VIC,24743,9,0,1413.66,Comprehensive,Monthly,0,0.0,Low,High,Mature,0
+MI-01179,2025-10-31,50,Sedan,1,NSW,21670,1,0,1315.14,Comprehensive,Quarterly,0,0.0,Low,High,Middle,0
+MI-01180,2024-11-13,25,Hatchback,11,WA,14227,10,1,1478.24,Comprehensive,Annual,0,0.0,Low,Medium,Young,1
+MI-01181,2025-02-17,31,Sedan,3,NSW,14753,0,0,1234.85,Comprehensive,Annual,0,0.0,Low,Medium,Middle,0
+MI-01182,2024-02-07,60,SUV,10,NSW,23443,1,0,1710.14,Comprehensive,Monthly,0,0.0,Medium,High,Mature,0
+MI-01183,2024-05-27,56,Hatchback,2,SA,22923,3,1,1125.36,Third Party,Monthly,1,2990.85,Low,High,Mature,1
+MI-01184,2024-09-18,23,Sedan,0,SA,18883,4,1,1681.35,Comprehensive,Monthly,0,0.0,Low,Medium,Young,1
+MI-01185,2025-11-19,34,Sedan,2,NSW,26188,8,0,960.55,Fire and Theft,Annual,0,0.0,Low,High,Middle,0
+MI-01186,2024-12-04,26,Hatchback,10,QLD,28569,10,0,1394.01,Comprehensive,Quarterly,0,0.0,Low,High,Young,0
+MI-01187,2024-11-03,41,SUV,8,WA,16862,8,0,1317.95,Comprehensive,Quarterly,0,0.0,Low,Medium,Middle,0
+MI-01188,2024-09-11,67,Van,1,SA,11967,1,0,1388.91,Comprehensive,Monthly,0,0.0,Low,Medium,Mature,0
+MI-01189,2025-11-09,30,Van,11,VIC,9204,3,0,1349.26,Comprehensive,Quarterly,1,418.86,Low,Low,Middle,0
+MI-01190,2025-05-18,48,SUV,13,NSW,14402,10,0,1442.51,Comprehensive,Quarterly,0,0.0,Low,Medium,Middle,0
+MI-01191,2024-03-25,46,Hatchback,12,VIC,16453,8,0,1301.02,Comprehensive,Monthly,0,0.0,Low,Medium,Middle,0
+MI-01192,2024-02-22,26,Utility,0,NSW,3525,9,1,963.15,Third Party,Annual,1,2371.42,Low,Low,Young,1
+MI-01193,2024-02-10,74,SUV,11,QLD,19330,3,0,1194.43,Fire and Theft,Annual,0,0.0,Low,Medium,Mature,0
+MI-01194,2025-09-19,73,Van,5,WA,19392,3,0,925.66,Third Party,Annual,0,0.0,Low,Medium,Mature,0
+MI-01195,2024-12-12,25,SUV,8,NSW,17275,5,0,1299.99,Comprehensive,Annual,0,0.0,Low,Medium,Young,0
+MI-01196,2024-11-12,65,SUV,14,VIC,10588,7,0,1036.5,Third Party,Annual,0,0.0,Low,Medium,Mature,0
+MI-01197,2024-03-16,34,Sedan,4,QLD,18201,9,0,879.63,Fire and Theft,Annual,0,0.0,Low,Medium,Middle,0
+MI-01198,2024-08-02,42,Hatchback,7,QLD,12945,6,2,1659.93,Comprehensive,Monthly,0,0.0,Low,Medium,Middle,1
+MI-01199,2025-04-19,62,Sedan,5,VIC,14842,8,1,1361.84,Comprehensive,Monthly,0,0.0,Low,Medium,Mature,1
+MI-01200,2024-07-07,46,Utility,10,VIC,20317,7,0,1087.21,Fire and Theft,Monthly,1,2947.95,Low,High,Middle,0
+MI-01201,2025-10-08,42,Sedan,4,NSW,3045,9,1,1048.19,Comprehensive,Monthly,0,0.0,Low,Low,Middle,1
+MI-01202,2025-06-01,42,Utility,11,VIC,24843,10,0,1618.5,Comprehensive,Monthly,0,0.0,Low,High,Middle,0
+MI-01203,2025-04-12,46,Van,6,VIC,27091,5,1,1728.56,Comprehensive,Monthly,1,2661.36,Medium,High,Middle,1
+MI-01204,2025-08-28,61,Van,2,VIC,26785,9,0,1285.89,Comprehensive,Annual,0,0.0,Low,High,Mature,0
+MI-01205,2025-04-05,37,SUV,1,WA,11804,4,0,1043.42,Comprehensive,Annual,0,0.0,Low,Medium,Middle,0
+MI-01206,2025-10-17,21,SUV,2,WA,14234,5,0,1562.57,Comprehensive,Quarterly,0,0.0,Low,Medium,Young,0
+MI-01207,2025-02-02,70,Hatchback,1,VIC,8964,6,1,822.75,Third Party,Quarterly,0,0.0,Low,Low,Mature,1
+MI-01208,2024-09-21,42,Sedan,6,NSW,10756,2,0,1130.85,Comprehensive,Quarterly,0,0.0,Low,Medium,Middle,0
+MI-01209,2025-07-15,39,Hatchback,13,NSW,6596,4,1,1447.89,Comprehensive,Quarterly,0,0.0,Low,Low,Middle,1
+MI-01210,2024-04-26,25,Van,3,WA,20809,8,1,1268.46,Fire and Theft,Quarterly,0,0.0,Low,High,Young,1
+MI-01211,2024-07-12,42,Sedan,14,VIC,7089,8,0,1165.97,Comprehensive,Annual,0,0.0,Low,Low,Middle,0
+MI-01212,2025-10-08,37,Hatchback,2,SA,19114,5,0,1103.13,Comprehensive,Quarterly,0,0.0,Low,Medium,Middle,0
+MI-01213,2024-03-09,42,Utility,13,NSW,4155,2,0,1354.12,Comprehensive,Monthly,0,0.0,Low,Low,Middle,0
+MI-01214,2025-08-07,68,Sedan,15,VIC,10467,4,1,1532.26,Comprehensive,Annual,0,0.0,Medium,Medium,Mature,1
+MI-01215,2025-07-28,63,Van,10,VIC,24978,9,0,1015.8,Third Party,Monthly,0,0.0,Low,High,Mature,0
+MI-01216,2024-09-08,58,Sedan,15,VIC,5566,1,1,1167.12,Third Party,Monthly,0,0.0,Medium,Low,Mature,1
+MI-01217,2024-06-05,73,SUV,1,WA,21168,10,0,1273.94,Comprehensive,Annual,0,0.0,Low,High,Mature,0
+MI-01218,2024-07-08,75,SUV,2,SA,10995,7,0,1166.5,Comprehensive,Annual,0,0.0,Low,Medium,Mature,0
+MI-01219,2024-03-21,29,Van,3,VIC,20208,3,1,1599.02,Comprehensive,Annual,0,0.0,Medium,High,Young,1
+MI-01220,2025-02-17,38,SUV,2,WA,7869,7,0,1045.23,Comprehensive,Annual,0,0.0,Low,Low,Middle,0
+MI-01221,2025-05-03,23,SUV,13,NSW,10661,1,0,1633.43,Fire and Theft,Annual,1,7118.04,Medium,Medium,Young,0
+MI-01222,2024-08-11,27,Sedan,7,NSW,20611,6,1,1558.8,Comprehensive,Annual,0,0.0,Low,High,Young,1
+MI-01223,2025-07-14,29,Sedan,7,SA,23904,3,1,1145.07,Third Party,Annual,0,0.0,Medium,High,Young,1
+MI-01224,2024-09-12,48,Sedan,12,NSW,10119,4,0,917.25,Fire and Theft,Annual,0,0.0,Low,Medium,Middle,0
+MI-01225,2024-07-07,28,Hatchback,8,QLD,3000,4,0,947.22,Comprehensive,Annual,0,0.0,Low,Low,Young,0
+MI-01226,2024-08-11,58,Sedan,7,NSW,38322,7,1,1364.62,Third Party,Annual,0,0.0,Medium,High,Mature,1
+MI-01227,2024-05-06,28,Hatchback,6,QLD,16521,1,0,1282.92,Comprehensive,Monthly,0,0.0,Low,Medium,Young,0
+MI-01228,2025-11-12,41,Van,12,QLD,13016,2,0,1427.29,Comprehensive,Annual,0,0.0,Low,Medium,Middle,0
+MI-01229,2025-04-14,63,Sedan,15,SA,11423,4,0,943.13,Third Party,Monthly,0,0.0,Low,Medium,Mature,0
+MI-01230,2024-12-22,34,SUV,9,NSW,14744,0,1,1952.29,Comprehensive,Monthly,0,0.0,Medium,Medium,Middle,1
+MI-01231,2025-10-22,35,SUV,8,WA,21017,5,0,1415.97,Comprehensive,Monthly,0,0.0,Low,High,Middle,0
+MI-01232,2025-02-17,35,Van,4,NSW,14580,7,0,841.22,Third Party,Monthly,1,7708.71,Low,Medium,Middle,0
+MI-01233,2024-07-06,36,Van,8,WA,16469,6,0,920.0,Third Party,Monthly,0,0.0,Low,Medium,Middle,0
+MI-01234,2024-11-09,54,Sedan,0,VIC,12942,6,0,846.75,Comprehensive,Annual,0,0.0,Low,Medium,Mature,0
+MI-01235,2025-10-01,48,Sedan,8,VIC,9324,10,0,988.17,Comprehensive,Annual,0,0.0,Low,Low,Middle,0
+MI-01236,2024-04-15,36,SUV,10,VIC,16449,5,0,1332.76,Comprehensive,Monthly,0,0.0,Low,Medium,Middle,0
+MI-01237,2024-05-18,29,Sedan,1,NSW,3000,0,0,926.06,Fire and Theft,Annual,0,0.0,Low,Low,Young,0
+MI-01238,2024-08-02,34,Sedan,3,NSW,24626,1,0,1354.72,Comprehensive,Annual,1,14820.59,Low,High,Middle,0
+MI-01239,2024-08-09,26,Utility,7,NSW,12966,7,0,1207.49,Comprehensive,Monthly,0,0.0,Low,Medium,Young,0
+MI-01240,2024-01-28,42,Sedan,7,SA,14813,4,0,1169.25,Comprehensive,Monthly,0,0.0,Low,Medium,Middle,0
+MI-01241,2024-10-29,61,Hatchback,8,NSW,18084,0,0,1039.9,Third Party,Annual,0,0.0,Low,Medium,Mature,0
+MI-01242,2025-03-18,63,SUV,4,NSW,14416,4,1,1027.75,Third Party,Monthly,0,0.0,Low,Medium,Mature,1
+MI-01243,2024-06-10,25,Utility,5,VIC,22289,5,0,1101.42,Fire and Theft,Annual,0,0.0,Low,High,Young,0
+MI-01244,2025-08-28,30,SUV,13,NSW,17959,5,0,1069.54,Third Party,Quarterly,0,0.0,Low,Medium,Middle,0
+MI-01245,2025-03-31,58,Van,14,NSW,24018,6,2,2186.11,Comprehensive,Monthly,1,2717.4,Medium,High,Mature,1
+MI-01246,2024-05-09,67,Utility,0,NSW,12843,5,0,1189.86,Comprehensive,Monthly,0,0.0,Low,Medium,Mature,0
+MI-01247,2024-08-25,35,Utility,3,VIC,8575,7,1,1435.29,Comprehensive,Annual,0,0.0,Low,Low,Middle,1
+MI-01248,2024-07-01,36,Van,2,NSW,10400,5,0,1091.93,Comprehensive,Annual,1,3376.72,Low,Medium,Middle,0
+MI-01249,2024-11-25,29,Utility,7,QLD,19111,5,0,1387.27,Comprehensive,Annual,0,0.0,Low,Medium,Young,0
+MI-01250,2024-03-26,64,Sedan,10,NSW,17098,8,0,809.91,Third Party,Monthly,0,0.0,Low,Medium,Mature,0
+MI-01251,2025-10-07,69,Utility,2,NSW,21879,1,1,1879.67,Comprehensive,Annual,0,0.0,Medium,High,Mature,1
+MI-01252,2024-06-12,59,Sedan,4,SA,12265,8,0,1073.72,Comprehensive,Annual,0,0.0,Low,Medium,Mature,0
+MI-01253,2024-02-13,73,Sedan,15,NSW,4997,1,1,1593.37,Comprehensive,Monthly,0,0.0,Medium,Low,Mature,1
+MI-01254,2024-03-31,51,Sedan,13,VIC,17978,7,1,1597.41,Comprehensive,Monthly,0,0.0,Low,Medium,Mature,1
+MI-01255,2025-11-08,54,Sedan,4,VIC,11601,1,0,1147.08,Comprehensive,Annual,1,2712.37,Low,Medium,Mature,0
+MI-01256,2025-04-16,57,SUV,1,VIC,23098,4,0,1304.66,Comprehensive,Monthly,0,0.0,Low,High,Mature,0
+MI-01257,2025-07-23,71,Van,5,NSW,26857,9,1,1767.93,Comprehensive,Monthly,0,0.0,Low,High,Mature,1
+MI-01258,2024-07-11,68,Sedan,8,SA,10933,5,1,1302.61,Comprehensive,Annual,0,0.0,Low,Medium,Mature,1
+MI-01259,2025-11-16,25,SUV,7,NSW,25200,6,0,1503.34,Comprehensive,Monthly,0,0.0,Low,High,Young,0
+MI-01260,2024-04-16,40,SUV,5,NSW,23938,1,1,1313.74,Third Party,Annual,0,0.0,Medium,High,Middle,1
+MI-01261,2024-10-24,70,Sedan,14,WA,18360,10,0,1298.56,Comprehensive,Monthly,0,0.0,Low,Medium,Mature,0
+MI-01262,2025-11-15,23,Sedan,7,QLD,10463,2,0,1096.18,Third Party,Monthly,1,2784.48,Low,Medium,Young,0
+MI-01263,2024-12-05,38,Utility,0,QLD,15249,6,0,1085.69,Comprehensive,Quarterly,0,0.0,Low,Medium,Middle,0
+MI-01264,2024-08-09,29,SUV,1,QLD,13121,6,3,2016.78,Comprehensive,Annual,0,0.0,Medium,Medium,Young,1
+MI-01265,2024-04-14,69,Utility,6,WA,15725,7,0,1339.34,Comprehensive,Annual,0,0.0,Low,Medium,Mature,0
+MI-01266,2024-07-21,66,Hatchback,14,QLD,17896,6,0,1265.05,Comprehensive,Monthly,0,0.0,Low,Medium,Mature,0
+MI-01267,2025-06-01,29,SUV,10,SA,22440,0,0,1774.48,Comprehensive,Monthly,0,0.0,Medium,High,Young,0
+MI-01268,2024-07-08,41,Van,3,VIC,9352,6,1,1118.88,Fire and Theft,Annual,0,0.0,Low,Low,Middle,1
+MI-01269,2025-01-21,22,Van,0,VIC,12588,6,1,1772.13,Comprehensive,Annual,0,0.0,Low,Medium,Young,1
+MI-01270,2025-11-27,61,Hatchback,8,QLD,19877,10,1,1135.13,Fire and Theft,Quarterly,0,0.0,Low,Medium,Mature,1
+MI-01271,2024-10-20,44,Hatchback,11,NSW,21245,0,0,1593.63,Comprehensive,Monthly,1,2571.48,Medium,High,Middle,0
+MI-01272,2025-06-01,54,SUV,0,VIC,16272,1,1,1234.68,Fire and Theft,Monthly,0,0.0,Low,Medium,Mature,1
+MI-01273,2025-07-02,36,SUV,10,VIC,20420,0,1,1509.62,Third Party,Annual,0,0.0,Medium,High,Middle,1
+MI-01274,2024-02-17,68,Sedan,11,QLD,17033,5,0,1196.1,Comprehensive,Monthly,0,0.0,Low,Medium,Mature,0
+MI-01275,2025-01-04,27,Sedan,4,VIC,24759,10,1,1376.97,Comprehensive,Quarterly,0,0.0,Low,High,Young,1
+MI-01276,2024-09-17,59,Sedan,0,VIC,14995,10,0,736.33,Fire and Theft,Monthly,0,0.0,Low,Medium,Mature,0
+MI-01277,2024-05-26,43,Sedan,13,VIC,19441,5,1,1681.82,Comprehensive,Monthly,0,0.0,Medium,Medium,Middle,1
+MI-01278,2024-07-17,54,Utility,9,QLD,20685,9,0,1455.07,Comprehensive,Annual,0,0.0,Low,High,Mature,0
+MI-01279,2024-01-19,36,SUV,4,VIC,18215,6,0,1360.2,Comprehensive,Annual,0,0.0,Low,Medium,Middle,0
+MI-01280,2024-06-18,24,SUV,2,WA,15082,0,4,2615.14,Fire and Theft,Monthly,1,5971.17,High,Medium,Young,1
+MI-01281,2025-04-12,61,SUV,12,WA,9231,6,1,1110.45,Third Party,Monthly,1,3957.76,Low,Low,Mature,1
+MI-01282,2025-08-06,71,SUV,12,QLD,12672,6,0,1015.08,Third Party,Quarterly,0,0.0,Low,Medium,Mature,0
+MI-01283,2025-03-16,75,Sedan,5,WA,25656,8,0,984.06,Third Party,Monthly,0,0.0,Low,High,Mature,0
+MI-01284,2024-02-01,56,Van,1,VIC,9864,5,0,916.42,Comprehensive,Monthly,0,0.0,Low,Low,Mature,0
+MI-01285,2025-10-27,32,Utility,9,VIC,20674,6,0,1068.77,Third Party,Quarterly,0,0.0,Low,High,Middle,0
+MI-01286,2024-05-25,54,Sedan,0,WA,28108,9,2,1367.15,Fire and Theft,Annual,0,0.0,Low,High,Mature,1
+MI-01287,2025-11-07,57,Hatchback,10,NSW,19827,4,1,1459.01,Comprehensive,Annual,0,0.0,Medium,Medium,Mature,1
+MI-01288,2024-05-29,71,Hatchback,12,VIC,5936,2,0,781.15,Third Party,Annual,0,0.0,Low,Low,Mature,0
+MI-01289,2024-11-14,72,SUV,10,SA,16013,2,0,1439.26,Comprehensive,Annual,0,0.0,Low,Medium,Mature,0
+MI-01290,2025-09-06,38,Hatchback,1,WA,17929,7,0,724.53,Third Party,Monthly,0,0.0,Low,Medium,Middle,0
+MI-01291,2024-01-27,45,Sedan,1,NSW,22380,2,0,1169.67,Comprehensive,Monthly,1,1116.57,Low,High,Middle,0
+MI-01292,2025-06-18,60,Hatchback,2,NSW,5931,3,0,559.76,Third Party,Quarterly,0,0.0,Low,Low,Mature,0
+MI-01293,2025-09-05,58,Van,13,QLD,21922,6,0,1266.02,Fire and Theft,Annual,0,0.0,Low,High,Mature,0
+MI-01294,2024-04-04,31,Sedan,14,WA,14344,4,0,1182.31,Comprehensive,Annual,0,0.0,Low,Medium,Middle,0
+MI-01295,2024-01-24,52,Hatchback,15,SA,32312,6,2,2084.52,Comprehensive,Monthly,0,0.0,High,High,Mature,1
+MI-01296,2024-06-24,54,Hatchback,8,NSW,17474,2,2,1502.23,Fire and Theft,Annual,1,9834.4,Medium,Medium,Mature,1
+MI-01297,2025-01-23,50,Hatchback,2,VIC,22052,9,0,1283.77,Comprehensive,Annual,0,0.0,Low,High,Middle,0
+MI-01298,2025-11-14,69,SUV,10,NSW,7518,3,0,1257.71,Comprehensive,Annual,0,0.0,Low,Low,Mature,0
+MI-01299,2024-04-06,40,Sedan,1,QLD,20179,0,1,1663.04,Comprehensive,Annual,0,0.0,Medium,High,Middle,1
+MI-01300,2025-05-26,39,Van,7,VIC,10916,4,0,895.79,Fire and Theft,Quarterly,0,0.0,Low,Medium,Middle,0
+MI-01301,2025-10-05,31,Van,2,NSW,17510,5,1,1527.31,Comprehensive,Annual,0,0.0,Low,Medium,Middle,1
+MI-01302,2025-03-12,54,Van,13,NSW,5854,5,1,1559.64,Comprehensive,Annual,0,0.0,Low,Low,Mature,1
+MI-01303,2025-04-05,35,Utility,7,WA,18346,7,0,1330.27,Comprehensive,Annual,0,0.0,Low,Medium,Middle,0
+MI-01304,2025-02-18,22,SUV,13,VIC,18934,5,0,1389.27,Third Party,Monthly,0,0.0,Medium,Medium,Young,0
+MI-01305,2024-12-01,72,Sedan,0,VIC,24106,0,1,1640.24,Comprehensive,Monthly,0,0.0,Medium,High,Mature,1
+MI-01306,2024-03-15,26,Van,11,NSW,6070,10,0,1398.6,Comprehensive,Annual,0,0.0,Low,Low,Young,0
+MI-01307,2025-07-01,70,Van,2,SA,21418,10,1,1310.59,Fire and Theft,Monthly,0,0.0,Low,High,Mature,1
+MI-01308,2025-09-11,38,Sedan,9,QLD,26864,1,2,1454.07,Third Party,Monthly,0,0.0,High,High,Middle,1
+MI-01309,2024-12-11,35,Hatchback,13,SA,7871,5,0,1096.6,Comprehensive,Quarterly,0,0.0,Low,Low,Middle,0
+MI-01310,2025-11-01,60,SUV,2,QLD,14507,5,0,929.06,Third Party,Quarterly,0,0.0,Low,Medium,Mature,0
+MI-01311,2025-09-22,43,Van,7,WA,10727,2,1,1221.43,Third Party,Annual,0,0.0,Medium,Medium,Middle,1
+MI-01312,2025-08-11,45,Utility,2,QLD,12268,6,0,1085.93,Comprehensive,Quarterly,0,0.0,Low,Medium,Middle,0
+MI-01313,2024-11-21,53,SUV,4,WA,21379,2,4,2604.45,Comprehensive,Monthly,0,0.0,High,High,Mature,1
+MI-01314,2025-02-03,21,SUV,5,QLD,17641,7,1,1413.73,Third Party,Quarterly,0,0.0,Low,Medium,Young,1
+MI-01315,2025-01-18,60,SUV,14,VIC,19294,3,0,1148.96,Third Party,Annual,0,0.0,Low,Medium,Mature,0
+MI-01316,2024-05-16,32,Van,12,VIC,13188,8,0,1414.92,Comprehensive,Annual,0,0.0,Low,Medium,Middle,0
+MI-01317,2024-04-15,68,Hatchback,8,QLD,18227,10,0,919.21,Fire and Theft,Monthly,0,0.0,Low,Medium,Mature,0
+MI-01318,2025-08-12,31,Sedan,10,NSW,16751,9,0,885.27,Fire and Theft,Annual,0,0.0,Low,Medium,Middle,0
+MI-01319,2025-02-04,58,Sedan,7,VIC,8291,1,1,1119.78,Fire and Theft,Annual,0,0.0,Low,Low,Mature,1
+MI-01320,2025-11-27,22,Van,15,VIC,31291,6,0,2166.53,Comprehensive,Monthly,1,1881.27,Medium,High,Young,0
+MI-01321,2025-08-18,64,Van,2,SA,21641,5,0,1331.32,Comprehensive,Monthly,0,0.0,Low,High,Mature,0
+MI-01322,2024-06-26,71,Sedan,11,NSW,13959,5,0,1241.06,Comprehensive,Annual,0,0.0,Low,Medium,Mature,0
+MI-01323,2025-09-27,34,Utility,15,QLD,18801,8,0,1552.48,Comprehensive,Annual,0,0.0,Low,Medium,Middle,0
+MI-01324,2024-05-04,75,Sedan,3,NSW,16343,8,0,1016.35,Comprehensive,Monthly,0,0.0,Low,Medium,Mature,0
+MI-01325,2025-07-25,54,SUV,1,QLD,21566,0,0,1448.17,Comprehensive,Monthly,0,0.0,Low,High,Mature,0
+MI-01326,2025-08-20,43,SUV,4,SA,3000,8,0,786.55,Fire and Theft,Quarterly,0,0.0,Low,Low,Middle,0
+MI-01327,2024-10-13,71,Utility,14,NSW,18304,7,0,1199.38,Fire and Theft,Quarterly,0,0.0,Low,Medium,Mature,0
+MI-01328,2025-09-21,42,Utility,13,SA,17639,7,0,1446.64,Comprehensive,Annual,0,0.0,Low,Medium,Middle,0
+MI-01329,2025-10-16,26,Utility,13,SA,30903,0,0,1991.07,Comprehensive,Annual,1,4660.47,Medium,High,Young,0
+MI-01330,2025-10-10,36,Sedan,3,WA,17668,0,0,1309.05,Comprehensive,Annual,0,0.0,Low,Medium,Middle,0
+MI-01331,2024-05-27,68,Sedan,3,NSW,14313,6,0,1071.84,Comprehensive,Monthly,0,0.0,Low,Medium,Mature,0
+MI-01332,2024-05-12,75,Hatchback,7,VIC,25225,7,0,1223.18,Comprehensive,Monthly,0,0.0,Low,High,Mature,0
+MI-01333,2024-04-18,53,Van,5,SA,12249,0,0,1222.68,Third Party,Monthly,0,0.0,Low,Medium,Mature,0
+MI-01334,2024-01-09,33,Utility,4,NSW,23752,0,0,1718.87,Comprehensive,Annual,0,0.0,Medium,High,Middle,0
+MI-01335,2024-03-30,54,Sedan,8,VIC,18352,3,0,951.1,Third Party,Annual,0,0.0,Low,Medium,Mature,0
+MI-01336,2025-08-07,32,Utility,11,VIC,11360,4,0,1424.61,Comprehensive,Annual,0,0.0,Low,Medium,Middle,0
+MI-01337,2025-02-05,41,Sedan,2,VIC,17544,5,1,1237.49,Comprehensive,Monthly,1,20649.7,Low,Medium,Middle,1
+MI-01338,2024-07-09,28,Hatchback,5,NSW,14345,8,1,1037.73,Fire and Theft,Monthly,0,0.0,Low,Medium,Young,1
+MI-01339,2025-03-13,22,SUV,5,NSW,29691,2,0,1943.05,Comprehensive,Annual,0,0.0,Medium,High,Young,0
+MI-01340,2024-09-07,63,Utility,2,QLD,16708,2,0,1030.81,Third Party,Monthly,0,0.0,Low,Medium,Mature,0
+MI-01341,2025-05-19,75,Van,6,VIC,20757,1,1,1816.04,Comprehensive,Monthly,1,6690.64,Medium,High,Mature,1
+MI-01342,2025-09-10,22,Hatchback,8,WA,3000,5,1,1471.88,Comprehensive,Quarterly,0,0.0,Low,Low,Young,1
+MI-01343,2025-05-24,58,SUV,5,VIC,12404,3,0,1225.46,Comprehensive,Monthly,0,0.0,Low,Medium,Mature,0
+MI-01344,2024-04-10,34,SUV,10,NSW,30963,5,0,1595.54,Comprehensive,Monthly,1,1910.8,Low,High,Middle,0
+MI-01345,2025-06-15,67,Utility,6,NSW,19793,6,0,1057.07,Fire and Theft,Quarterly,0,0.0,Low,Medium,Mature,0
+MI-01346,2024-03-03,57,SUV,6,QLD,13667,7,0,1147.01,Comprehensive,Monthly,0,0.0,Low,Medium,Mature,0
+MI-01347,2025-08-10,69,Utility,1,NSW,15030,9,0,904.28,Third Party,Quarterly,0,0.0,Low,Medium,Mature,0
+MI-01348,2024-06-20,50,Sedan,5,SA,21862,9,0,820.84,Third Party,Monthly,0,0.0,Low,High,Middle,0
+MI-01349,2024-07-20,67,Van,11,QLD,19617,3,1,1779.7,Comprehensive,Annual,0,0.0,Medium,Medium,Mature,1
+MI-01350,2024-06-04,57,SUV,15,NSW,13039,6,0,1407.03,Comprehensive,Monthly,0,0.0,Low,Medium,Mature,0
+MI-01351,2025-01-26,31,Sedan,14,VIC,16059,1,1,1274.55,Third Party,Annual,0,0.0,Medium,Medium,Middle,1
+MI-01352,2024-09-11,29,Van,1,NSW,14748,7,0,864.5,Fire and Theft,Monthly,0,0.0,Low,Medium,Young,0
+MI-01353,2025-11-12,60,Utility,6,NSW,9785,3,0,859.91,Third Party,Monthly,0,0.0,Low,Low,Mature,0
+MI-01354,2024-05-23,70,SUV,4,QLD,15401,3,1,1151.61,Third Party,Monthly,0,0.0,Low,Medium,Mature,1
+MI-01355,2025-01-10,21,Hatchback,10,SA,19137,1,1,2179.12,Comprehensive,Monthly,0,0.0,Medium,Medium,Young,1
+MI-01356,2025-08-20,43,Hatchback,2,WA,15971,9,1,1290.11,Comprehensive,Annual,0,0.0,Low,Medium,Middle,1
+MI-01357,2024-11-10,22,Utility,7,SA,19833,4,0,1757.94,Comprehensive,Annual,0,0.0,Medium,Medium,Young,0
+MI-01358,2024-05-06,29,Sedan,0,NSW,25543,1,0,1332.41,Comprehensive,Annual,0,0.0,Low,High,Young,0
+MI-01359,2025-08-27,31,SUV,15,NSW,20533,5,1,1937.77,Comprehensive,Annual,1,2564.85,Medium,High,Middle,1
+MI-01360,2024-10-19,39,Hatchback,3,VIC,15098,8,0,1129.1,Comprehensive,Annual,1,569.74,Low,Medium,Middle,0
+MI-01361,2025-01-15,52,Hatchback,14,VIC,20367,0,0,1182.01,Third Party,Quarterly,0,0.0,Medium,High,Mature,0
+MI-01362,2024-03-01,74,Sedan,7,NSW,17919,8,0,1137.35,Comprehensive,Annual,0,0.0,Low,Medium,Mature,0
+MI-01363,2024-04-02,72,Utility,3,NSW,30112,8,0,1471.9,Comprehensive,Annual,0,0.0,Low,High,Mature,0
+MI-01364,2024-12-16,48,SUV,0,VIC,19695,5,0,1134.34,Comprehensive,Monthly,0,0.0,Low,Medium,Middle,0
+MI-01365,2024-10-21,50,Sedan,1,VIC,17736,7,0,821.81,Fire and Theft,Monthly,0,0.0,Low,Medium,Middle,0
+MI-01366,2025-06-28,54,Van,15,NSW,17270,7,0,1502.9,Comprehensive,Annual,0,0.0,Low,Medium,Mature,0
+MI-01367,2024-07-24,64,SUV,13,QLD,9736,2,0,1415.79,Comprehensive,Quarterly,0,0.0,Low,Low,Mature,0
+MI-01368,2024-09-03,31,Utility,14,SA,23191,4,0,1508.75,Comprehensive,Annual,0,0.0,Medium,High,Middle,0
+MI-01369,2024-03-10,65,Utility,0,NSW,22548,4,0,1249.21,Comprehensive,Monthly,0,0.0,Low,High,Mature,0
+MI-01370,2025-07-19,24,SUV,15,QLD,19519,0,0,2323.23,Comprehensive,Monthly,1,11375.56,Medium,Medium,Young,0
+MI-01371,2025-09-15,75,Hatchback,8,VIC,12165,7,0,1168.39,Comprehensive,Annual,0,0.0,Low,Medium,Mature,0
+MI-01372,2025-08-27,72,Hatchback,15,SA,8989,10,0,1258.14,Comprehensive,Annual,0,0.0,Low,Low,Mature,0
+MI-01373,2024-02-20,28,Utility,12,QLD,15998,9,2,1983.25,Comprehensive,Monthly,0,0.0,Medium,Medium,Young,1
+MI-01374,2024-10-23,57,Sedan,7,WA,16533,2,0,1168.91,Comprehensive,Monthly,0,0.0,Low,Medium,Mature,0
+MI-01375,2024-05-22,28,Van,14,WA,27032,3,1,1488.18,Third Party,Quarterly,1,3508.92,Medium,High,Young,1
+MI-01376,2024-09-22,73,Van,5,NSW,5443,7,0,1156.78,Comprehensive,Monthly,0,0.0,Low,Low,Mature,0
+MI-01377,2025-04-04,55,Van,2,NSW,11655,6,0,818.72,Fire and Theft,Monthly,0,0.0,Low,Medium,Mature,0
+MI-01378,2024-03-13,28,Sedan,14,SA,15036,6,2,1414.41,Fire and Theft,Monthly,0,0.0,Medium,Medium,Young,1
+MI-01379,2024-08-26,46,Van,9,VIC,17750,10,1,1704.32,Comprehensive,Monthly,0,0.0,Low,Medium,Middle,1
+MI-01380,2025-04-29,49,Van,11,VIC,19990,8,0,1484.59,Comprehensive,Monthly,0,0.0,Low,Medium,Middle,0
+MI-01381,2025-05-26,74,Utility,6,VIC,23525,0,0,1718.88,Comprehensive,Annual,0,0.0,Medium,High,Mature,0
+MI-01382,2025-11-17,58,Sedan,5,QLD,3528,1,1,1394.7,Comprehensive,Quarterly,0,0.0,Low,Low,Mature,1
+MI-01383,2024-04-25,51,Hatchback,1,NSW,12020,1,1,1359.0,Comprehensive,Monthly,0,0.0,Low,Medium,Mature,1
+MI-01384,2024-04-19,23,SUV,7,NSW,13071,7,0,1704.86,Comprehensive,Annual,0,0.0,Low,Medium,Young,0
+MI-01385,2025-01-27,50,Hatchback,12,NSW,7386,9,0,1025.16,Comprehensive,Monthly,0,0.0,Low,Low,Middle,0
+MI-01386,2024-05-25,67,Sedan,13,NSW,10617,0,0,1466.98,Comprehensive,Annual,1,13735.54,Low,Medium,Mature,0
+MI-01387,2025-02-13,36,Utility,13,NSW,15836,10,2,1503.62,Third Party,Annual,0,0.0,Medium,Medium,Middle,1
+MI-01388,2025-08-12,53,Sedan,1,WA,19266,5,3,1431.53,Third Party,Annual,1,1626.4,Medium,Medium,Mature,1
+MI-01389,2024-12-15,59,Hatchback,5,SA,23193,1,0,956.0,Third Party,Quarterly,0,0.0,Low,High,Mature,0
+MI-01390,2024-10-12,36,Sedan,8,VIC,9439,8,0,835.59,Fire and Theft,Annual,0,0.0,Low,Low,Middle,0
+MI-01391,2025-03-02,52,Sedan,3,QLD,7501,9,0,930.85,Comprehensive,Monthly,0,0.0,Low,Low,Mature,0
+MI-01392,2025-07-13,25,SUV,15,WA,18170,5,0,1541.4,Comprehensive,Monthly,0,0.0,Low,Medium,Young,0
+MI-01393,2024-04-17,55,Hatchback,0,WA,8009,1,0,1023.83,Comprehensive,Monthly,0,0.0,Low,Low,Mature,0
+MI-01394,2024-09-11,74,SUV,5,SA,4964,5,0,997.66,Comprehensive,Monthly,0,0.0,Low,Low,Mature,0
+MI-01395,2024-11-17,58,SUV,14,NSW,7594,7,1,1634.72,Comprehensive,Monthly,0,0.0,Low,Low,Mature,1
+MI-01396,2025-01-25,24,Sedan,4,QLD,15032,7,0,1286.13,Comprehensive,Monthly,0,0.0,Low,Medium,Young,0
+MI-01397,2025-02-08,23,SUV,2,VIC,6728,2,0,1093.72,Third Party,Monthly,0,0.0,Low,Low,Young,0
+MI-01398,2025-11-02,41,Sedan,4,NSW,10911,6,0,952.55,Comprehensive,Annual,0,0.0,Low,Medium,Middle,0
+MI-01399,2025-07-24,40,Utility,9,VIC,12427,3,0,1294.31,Comprehensive,Quarterly,0,0.0,Low,Medium,Middle,0
+MI-01400,2025-05-16,48,SUV,1,VIC,12447,8,2,1696.77,Comprehensive,Quarterly,0,0.0,Low,Medium,Middle,1
+MI-01401,2024-01-30,42,Hatchback,0,VIC,17132,3,0,679.32,Third Party,Monthly,0,0.0,Low,Medium,Middle,0
+MI-01402,2024-10-23,36,Utility,11,NSW,10744,1,0,1147.38,Third Party,Annual,1,2981.04,Low,Medium,Middle,0
+MI-01403,2025-04-07,59,SUV,1,NSW,22226,9,0,1251.34,Comprehensive,Annual,0,0.0,Low,High,Mature,0
+MI-01404,2024-04-12,51,Hatchback,15,NSW,19764,0,0,1685.75,Comprehensive,Annual,1,6258.83,Medium,Medium,Mature,0
+MI-01405,2025-05-07,72,SUV,12,SA,30075,5,0,1674.4,Comprehensive,Quarterly,0,0.0,Low,High,Mature,0
+MI-01406,2025-04-01,56,Sedan,2,NSW,3208,5,1,1011.99,Comprehensive,Monthly,0,0.0,Low,Low,Mature,1
+MI-01407,2024-09-14,66,SUV,8,WA,11594,1,0,1404.47,Comprehensive,Annual,0,0.0,Low,Medium,Mature,0
+MI-01408,2025-10-12,69,Van,10,NSW,11097,4,1,1657.73,Comprehensive,Monthly,1,2369.07,Low,Medium,Mature,1
+MI-01409,2025-03-15,63,Hatchback,7,VIC,20456,7,2,1734.47,Comprehensive,Monthly,0,0.0,Medium,High,Mature,1
+MI-01410,2025-04-03,62,SUV,14,VIC,18623,9,0,1255.18,Fire and Theft,Annual,0,0.0,Low,Medium,Mature,0
+MI-01411,2024-09-05,55,Hatchback,15,QLD,7327,0,0,1003.33,Third Party,Monthly,0,0.0,Low,Low,Mature,0
+MI-01412,2025-05-01,62,Hatchback,5,VIC,28828,6,0,1311.72,Comprehensive,Annual,0,0.0,Low,High,Mature,0
+MI-01413,2024-07-18,21,Hatchback,1,WA,26378,10,1,1835.9,Comprehensive,Monthly,1,7526.61,Low,High,Young,1
+MI-01414,2025-10-11,35,SUV,4,NSW,20578,2,0,1378.79,Comprehensive,Quarterly,0,0.0,Low,High,Middle,0
+MI-01415,2024-09-17,53,Sedan,12,VIC,8193,0,0,1109.52,Fire and Theft,Annual,0,0.0,Low,Low,Mature,0
+MI-01416,2025-04-06,44,Sedan,13,NSW,4211,9,0,1065.96,Comprehensive,Monthly,0,0.0,Low,Low,Middle,0
+MI-01417,2025-01-30,56,Sedan,10,NSW,12977,5,0,838.16,Third Party,Quarterly,0,0.0,Low,Medium,Mature,0
+MI-01418,2025-05-05,57,Hatchback,4,WA,16790,3,3,1847.66,Comprehensive,Monthly,1,16654.29,Medium,Medium,Mature,1
+MI-01419,2024-05-15,37,SUV,1,WA,28326,5,2,1314.77,Third Party,Annual,0,0.0,Medium,High,Middle,1
+MI-01420,2025-11-06,74,Hatchback,7,QLD,18482,6,0,971.6,Fire and Theft,Quarterly,0,0.0,Low,Medium,Mature,0
+MI-01421,2024-08-05,22,SUV,5,SA,3000,5,0,1262.4,Comprehensive,Monthly,0,0.0,Low,Low,Young,0
+MI-01422,2024-04-27,28,Sedan,3,NSW,17706,0,0,1439.39,Comprehensive,Annual,1,9348.91,Low,Medium,Young,0
+MI-01423,2024-08-28,72,Hatchback,12,NSW,4540,2,0,1124.91,Comprehensive,Annual,0,0.0,Low,Low,Mature,0
+MI-01424,2025-07-17,39,Van,7,QLD,22684,0,0,1725.31,Comprehensive,Monthly,0,0.0,Medium,High,Middle,0
+MI-01425,2024-01-18,33,SUV,13,WA,5579,8,0,1242.33,Comprehensive,Monthly,0,0.0,Low,Low,Middle,0
+MI-01426,2024-12-05,69,SUV,5,NSW,18159,3,1,1549.62,Comprehensive,Monthly,1,5890.92,Low,Medium,Mature,1
+MI-01427,2024-08-18,63,SUV,8,NSW,25352,9,0,1502.6,Comprehensive,Annual,0,0.0,Low,High,Mature,0
+MI-01428,2024-01-16,21,Utility,10,NSW,4922,6,1,1789.82,Comprehensive,Monthly,0,0.0,Low,Low,Young,1
+MI-01429,2025-02-01,56,Utility,13,VIC,18438,4,1,1855.87,Comprehensive,Annual,0,0.0,Medium,Medium,Mature,1
+MI-01430,2025-10-18,71,Sedan,7,VIC,8641,6,0,988.32,Comprehensive,Monthly,0,0.0,Low,Low,Mature,0
+MI-01431,2025-08-31,60,Sedan,0,VIC,12554,5,0,886.52,Comprehensive,Annual,0,0.0,Low,Medium,Mature,0
+MI-01432,2024-07-10,22,Van,4,VIC,10190,5,2,1993.92,Comprehensive,Monthly,0,0.0,Medium,Medium,Young,1
+MI-01433,2025-06-06,40,Van,0,QLD,24399,9,2,1363.99,Third Party,Annual,0,0.0,Low,High,Middle,1
+MI-01434,2025-07-08,28,SUV,14,NSW,25103,5,0,1686.9,Comprehensive,Annual,0,0.0,Low,High,Young,0
+MI-01435,2025-05-03,74,Hatchback,4,NSW,9241,10,0,902.46,Comprehensive,Annual,0,0.0,Low,Low,Mature,0
+MI-01436,2025-07-20,58,Sedan,1,WA,26582,3,1,1358.06,Comprehensive,Annual,0,0.0,Low,High,Mature,1
+MI-01437,2024-01-01,39,SUV,1,NSW,16622,8,0,849.36,Third Party,Annual,0,0.0,Low,Medium,Middle,0
+MI-01438,2024-08-04,22,Van,1,NSW,4058,9,0,1055.13,Fire and Theft,Monthly,0,0.0,Low,Low,Young,0
+MI-01439,2024-02-29,38,Utility,15,SA,3000,6,1,1267.68,Fire and Theft,Annual,1,6152.56,Low,Low,Middle,1
+MI-01440,2025-01-17,73,SUV,5,QLD,15010,1,0,1391.25,Comprehensive,Quarterly,1,5146.19,Low,Medium,Mature,0
+MI-01441,2024-03-23,28,Hatchback,0,QLD,23530,1,1,1446.94,Comprehensive,Annual,0,0.0,Low,High,Young,1
+MI-01442,2025-03-16,23,Utility,7,SA,20539,8,0,1697.14,Comprehensive,Monthly,0,0.0,Low,High,Young,0
+MI-01443,2024-12-01,64,Sedan,15,NSW,10103,0,0,950.49,Third Party,Monthly,0,0.0,Low,Medium,Mature,0
+MI-01444,2025-09-01,35,Utility,4,WA,9351,6,0,836.42,Third Party,Annual,0,0.0,Low,Low,Middle,0
+MI-01445,2024-11-14,51,Utility,13,WA,23738,7,2,1767.22,Fire and Theft,Annual,0,0.0,Medium,High,Mature,1
+MI-01446,2024-03-11,26,Sedan,2,NSW,14143,8,0,1007.34,Comprehensive,Monthly,0,0.0,Low,Medium,Young,0
+MI-01447,2025-02-19,39,Sedan,11,VIC,3000,2,1,1372.08,Comprehensive,Monthly,0,0.0,Low,Low,Middle,1
+MI-01448,2024-07-18,55,SUV,13,VIC,12114,7,0,1382.78,Comprehensive,Monthly,0,0.0,Low,Medium,Mature,0
+MI-01449,2024-12-04,32,SUV,7,VIC,30094,10,0,1224.89,Fire and Theft,Monthly,0,0.0,Low,High,Middle,0
+MI-01450,2025-08-01,49,Utility,8,QLD,10434,3,0,1040.8,Fire and Theft,Annual,0,0.0,Low,Medium,Middle,0
+MI-01451,2025-11-13,73,Sedan,1,VIC,10465,1,0,874.73,Third Party,Monthly,0,0.0,Low,Medium,Mature,0
+MI-01452,2024-05-25,27,Van,3,SA,23243,5,0,1339.2,Comprehensive,Monthly,0,0.0,Low,High,Young,0
+MI-01453,2024-08-27,39,Hatchback,14,QLD,25547,1,0,1237.07,Third Party,Annual,0,0.0,Medium,High,Middle,0
+MI-01454,2025-08-02,38,Hatchback,2,QLD,29740,7,0,984.6,Fire and Theft,Monthly,0,0.0,Low,High,Middle,0
+MI-01455,2024-12-21,24,Sedan,13,QLD,15347,3,0,1155.83,Third Party,Quarterly,0,0.0,Medium,Medium,Young,0
+MI-01456,2025-03-29,62,Hatchback,8,VIC,20577,4,0,879.12,Third Party,Annual,0,0.0,Low,High,Mature,0
+MI-01457,2024-03-08,75,Sedan,1,SA,13751,4,0,878.14,Comprehensive,Monthly,1,8706.73,Low,Medium,Mature,0
+MI-01458,2024-08-07,64,Hatchback,9,QLD,25919,6,0,1347.04,Comprehensive,Quarterly,0,0.0,Low,High,Mature,0
+MI-01459,2025-09-22,53,Hatchback,9,NSW,7200,9,2,1262.97,Fire and Theft,Annual,0,0.0,Low,Low,Mature,1
+MI-01460,2024-02-04,32,Van,11,VIC,16003,7,0,1297.04,Comprehensive,Annual,1,4820.3,Low,Medium,Middle,0
+MI-01461,2025-05-27,46,Hatchback,1,NSW,10702,2,1,1055.34,Fire and Theft,Quarterly,0,0.0,Low,Medium,Middle,1
+MI-01462,2024-01-03,64,Sedan,6,QLD,11146,6,2,1575.95,Comprehensive,Annual,0,0.0,Low,Medium,Mature,1
+MI-01463,2024-11-16,50,SUV,5,VIC,19842,4,0,1335.59,Comprehensive,Quarterly,0,0.0,Low,Medium,Middle,0
+MI-01464,2024-08-12,46,Sedan,3,VIC,15742,6,0,1102.54,Comprehensive,Monthly,0,0.0,Low,Medium,Middle,0
+MI-01465,2024-12-30,40,SUV,3,NSW,15867,0,1,1753.72,Comprehensive,Monthly,0,0.0,Medium,Medium,Middle,1
+MI-01466,2024-05-19,61,Utility,13,VIC,16164,9,0,1500.25,Comprehensive,Annual,0,0.0,Low,Medium,Mature,0
+MI-01467,2025-04-06,21,SUV,10,SA,22365,7,4,3259.82,Comprehensive,Quarterly,1,4932.93,High,High,Young,1
+MI-01468,2024-01-09,31,Hatchback,13,NSW,12273,8,0,925.66,Third Party,Annual,0,0.0,Low,Medium,Middle,0
+MI-01469,2025-03-31,30,SUV,11,VIC,22390,5,0,1549.75,Comprehensive,Annual,1,877.45,Low,High,Middle,0
+MI-01470,2025-06-21,21,Sedan,13,QLD,20609,6,0,1758.84,Comprehensive,Quarterly,0,0.0,Low,High,Young,0
+MI-01471,2025-01-15,54,Hatchback,15,QLD,12734,4,1,1490.87,Comprehensive,Annual,0,0.0,Medium,Medium,Mature,1
+MI-01472,2024-02-21,56,Sedan,10,VIC,3000,1,0,1202.45,Comprehensive,Monthly,0,0.0,Low,Low,Mature,0
+MI-01473,2024-06-07,70,SUV,7,VIC,16985,9,0,984.14,Fire and Theft,Monthly,0,0.0,Low,Medium,Mature,0
+MI-01474,2024-06-21,58,SUV,5,WA,13291,3,0,1366.27,Comprehensive,Monthly,0,0.0,Low,Medium,Mature,0
+MI-01475,2024-06-08,51,Sedan,1,NSW,17226,1,2,1443.05,Fire and Theft,Annual,1,1931.88,Medium,Medium,Mature,1
+MI-01476,2024-07-19,38,Hatchback,4,SA,22890,0,2,1529.97,Fire and Theft,Monthly,0,0.0,Medium,High,Middle,1
+MI-01477,2024-05-13,64,Sedan,0,NSW,3994,3,1,936.36,Comprehensive,Quarterly,0,0.0,Low,Low,Mature,1
+MI-01478,2025-03-03,52,SUV,4,QLD,21004,2,1,1291.15,Third Party,Monthly,0,0.0,Medium,High,Mature,1
+MI-01479,2025-04-12,24,SUV,12,NSW,10984,3,1,1961.56,Comprehensive,Monthly,0,0.0,Medium,Medium,Young,1
+MI-01480,2025-11-30,46,Van,3,QLD,17789,7,0,1094.44,Fire and Theft,Annual,0,0.0,Low,Medium,Middle,0
+MI-01481,2024-05-02,64,Van,2,VIC,9586,9,0,863.21,Third Party,Monthly,0,0.0,Low,Low,Mature,0
+MI-01482,2025-05-13,22,Sedan,8,NSW,13065,6,1,1760.75,Comprehensive,Annual,1,1462.97,Low,Medium,Young,1
+MI-01483,2024-06-05,44,Van,13,WA,22033,7,1,1813.76,Comprehensive,Monthly,1,3927.56,Medium,High,Middle,1
+MI-01484,2024-11-09,44,Sedan,9,QLD,17138,0,2,1983.1,Comprehensive,Annual,0,0.0,Medium,Medium,Middle,1
+MI-01485,2025-03-20,33,Hatchback,13,VIC,13142,1,0,1112.61,Third Party,Annual,0,0.0,Low,Medium,Middle,0
+MI-01486,2024-11-24,28,Sedan,4,NSW,18147,9,1,1022.01,Fire and Theft,Monthly,0,0.0,Low,Medium,Young,1
+MI-01487,2024-05-31,30,Sedan,1,VIC,3000,10,0,581.09,Third Party,Quarterly,0,0.0,Low,Low,Middle,0
+MI-01488,2024-10-15,67,SUV,2,QLD,10261,2,0,860.95,Third Party,Quarterly,0,0.0,Low,Medium,Mature,0
+MI-01489,2024-03-20,32,Van,1,VIC,16433,10,2,1789.64,Comprehensive,Monthly,1,4284.61,Low,Medium,Middle,1
+MI-01490,2025-04-09,44,Van,8,VIC,5740,9,0,1196.7,Comprehensive,Annual,0,0.0,Low,Low,Middle,0
+MI-01491,2025-07-31,66,Van,8,QLD,29547,3,0,1208.13,Fire and Theft,Annual,0,0.0,Medium,High,Mature,0
+MI-01492,2024-03-21,75,Sedan,12,SA,9635,10,0,1113.26,Comprehensive,Annual,0,0.0,Low,Low,Mature,0
+MI-01493,2025-02-12,39,SUV,0,VIC,29625,9,0,1312.45,Comprehensive,Annual,0,0.0,Low,High,Middle,0
+MI-01494,2024-10-09,41,Utility,11,VIC,5996,2,1,1690.59,Comprehensive,Monthly,1,2098.02,Medium,Low,Middle,1
+MI-01495,2024-06-10,28,Sedan,12,NSW,16832,7,0,1249.62,Comprehensive,Annual,0,0.0,Low,Medium,Young,0
+MI-01496,2024-04-16,73,Sedan,10,WA,18691,5,0,1021.84,Third Party,Monthly,0,0.0,Low,Medium,Mature,0
+MI-01497,2024-05-03,64,Van,0,VIC,14707,10,1,1104.37,Fire and Theft,Annual,0,0.0,Low,Medium,Mature,1
+MI-01498,2024-06-29,67,Hatchback,2,SA,10670,2,1,942.17,Third Party,Monthly,0,0.0,Low,Medium,Mature,1
+MI-01499,2025-10-25,53,Utility,8,NSW,10203,5,0,1145.98,Comprehensive,Quarterly,0,0.0,Low,Medium,Mature,0
+MI-01500,2025-02-13,64,Sedan,13,WA,24533,2,0,1431.16,Comprehensive,Monthly,0,0.0,Medium,High,Mature,0
